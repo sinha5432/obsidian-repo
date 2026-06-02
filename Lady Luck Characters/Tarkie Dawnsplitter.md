@@ -7,6 +7,6 @@
 - Has a peaceful farm home
 
 
-![[Tarkie Dawnsplitter-1780153397151.webp|266x281]]![[Tarkie Dawnsplitter-1780153415534.webp|247x369]]
+![[Tarkie Dawnsplitter-1780411549186.webp|338]]![[Tarkie Dawnsplitter-1780411570209.webp|316]]
 
 
