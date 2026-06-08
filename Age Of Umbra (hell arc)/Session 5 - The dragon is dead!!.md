@@ -20,6 +20,7 @@ Nyructyl's points:
 - He was cast aside, shunned unto this realm by his peers, just because he thought that they should use their power to do something about humanity, even help them, stop wars, feed the hungry, and cull the Outlaws.
 - Others thought no, so he started helping just a few, trying to prove his point. It angered them, and he ended up here. 
 - He re-built himself from scratch. Established his domain. Even got married to a God incarnate. But his will to go back stayed...and hence, all the killing.
+- He isnt perfect, he gets angry, but his intentions are good.
 
 
 
@@ -31,4 +32,7 @@ Nyructyl's points:
 - After battling a few fliclkerflies, they are able to save a few of folks remaining, particularly some villager commoners
 	- DESIGN THE FLICKERFLY BATTLE
 - Earth beneath them starts cracking as the region seems to be getting swallowed by the ground itself...surprisingly, it is localized, as if triggered in a circular manner
+
+
+- After the fight they can proceed towards, what seems like entirety of the sky is converging
 
