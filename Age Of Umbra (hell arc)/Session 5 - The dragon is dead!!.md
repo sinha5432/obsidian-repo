@@ -7,6 +7,11 @@
 
 
 
+
+- After Nyructyl dies, his energy will dissipate, energizing everyone in the mortal realm, making most of the populous Vampires...the party has been here for long enough that a month has passed
+
+
+
 - When the party arrives, they are able to hear sounds of swords swinging, and people screaming
 - It feels like flickerflies all of a sudden lost their calmness, or maybe Neructyl decided to raid the village all of a sudden
 
