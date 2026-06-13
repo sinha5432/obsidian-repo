@@ -47,5 +47,9 @@ Nyructyl's points:
 
 - DESIGN BBEG FIGHT!
 
-- 
+- After he is defeated, he will yell to his mother, the mother of time, for one last request of making him immortal, of making him last forever, of eternal, power
+- The ground itself open up and as the party looks through it, it has nothing....and all of a sudden, they will see a big blast, followed by formation of universe
+- At some point when civilization was starting, in 1500s, you notice Nyructyl's body turns into a vapor and starts covering the earth itself
+- A part of its Vapor flies towards Bayaz
+- He becomes young again, and gains a lust to drink blood
 
