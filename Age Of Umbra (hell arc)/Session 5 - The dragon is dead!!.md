@@ -25,6 +25,7 @@ Nyructyl's points:
 
 
 - Party hears a very deep growl, almost yelling to them "ENOUGH"
+- They see a new moon grow in the sky, a crescent moon almost as bright as the "sun" they just killed
 - When the party arrives, they are able to hear sounds of swords swinging, and people screaming
 - It feels like flickerflies all of a sudden lost their calmness, or maybe Neructyl decided to raid the village all of a sudden
 
@@ -35,4 +36,16 @@ Nyructyl's points:
 
 
 - After the fight they can proceed towards, what seems like entirety of the sky is converging
+
+- They will enter the tower, only to realize it seems like a really fancy restaurant from inside
+
+- Bbeg will put his points
+	- Party doesnt agree -> FIGHT!
+	- If Party agrees, he tells them that only a bit more of essence in remaining, and asks the party to sacrifice themselves
+		- If party agrees, they are still conscious as he starts wreaking havoc
+		- If party disagrees, FIGHT!
+
+- DESIGN BBEG FIGHT!
+
+- 
 
