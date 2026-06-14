@@ -11,28 +11,17 @@
 
 
 #### Attack 1 (Reckless + Rage)
-- Hit: `2d20kh1+7`
-- Damage: `1d12+2d6+12`
+- Hit `2d20kh1+7` | Damage `1d12+2d6+12`
 #### Attack 2
-- Hit: `2d20kh1+7`
-- Damage: `1d12+9`
-- No Frenzy or Aasimar damage
+- Hit `2d20kh1+7` | Damage `1d12+9`
+- No Frenzy or Aasimar
 #### Cleave
-**Trigger:** Hit a creature and another creature is within 5 ft.
-- Hit: `2d20kh1+7`
-- Damage: `1d12`
-
+- Trigger: Hit + 2nd target within 5 ft
+- Hit `2d20kh1+7` | Damage `1d12`
 #### Hew
-**Trigger:** Kill a creature or score a critical hit.
-- Bonus Action attack
-- Hit: `2d20kh1+7`
-- Damage: `1d12+9`
+- Trigger: Kill or Crit
+- BA Attack: Hit `2d20kh1+7` | Damage `1d12+9`
 #### Damage Sources
-
-| Source  | Value      | Condition                       |
-| ------- | ---------- | ------------------------------- |
-| Base    | 1d12+4     | Always                          |
-| GWM     | +3         | Always                          |
-| Rage    | +2         | While raging                    |
-| Frenzy  | 2d6        | First reckless attack each turn |
-| Aasimar | +3 Radiant | Wings active                    |
+- Base `1d12+4` | GWM `+3` | Rage `+2`
+- Frenzy `2d6` (1st reckless attack)
+- Aasimar `+3 Radiant` (wings)
