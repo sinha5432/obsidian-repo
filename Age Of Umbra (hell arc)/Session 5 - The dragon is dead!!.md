@@ -53,3 +53,5 @@ Nyructyl's points:
 - A part of its Vapor flies towards Bayaz
 - He becomes young again, and gains a lust to drink blood
 
+
+- The captured spirits start fading away....maybe finally towards eternal peace
