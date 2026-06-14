@@ -10,35 +10,62 @@
 ![[Tarkie Dawnsplitter-1780411549186.webp|338]]![[Tarkie Dawnsplitter-1780411570209.webp|316]]
 
 
+#### Attack 1 (Reckless + Rage)
+**To Hit**
+```text
+2d20kh1 + 7
+```
+**Damage**
+```text
+1d12 + 2d6 + 12
+```
+#### Attack 2
+(Everything except **Frenzy** and **Aasimar**)
+**To Hit**
+```text
+2d20kh1 + 7
+```
+**Damage**
+```text
+1d12 + 9
+```
+## Cleave
+**Trigger:**
+- You hit a creature.
+- A second creature is within 5 ft of you.
 
+**Effect:**
+- Make an attack against the second creature.
+- Apply modifiers only if they are positive.
 
-Attack 1: Reckless, Rage
- - 2d20kh1+7 to hit, damage: 1d12 + 2d6 + 12
- - 2nd attack, everything other than Frenzy+Aasimar
-	 - 2d20kh1 + 7 to hit
-	 - 1d12 + 9 damage
+**To Hit**
+```text
+2d20kh1 + 7
+```
+**Damage**
+```text
+1d12
+```
+## Hew
+**Trigger:**
+- You kill a creature, or
+- You score a critical hit.
+**Effect:**
+- Use your Bonus Action to make an additional attack.
 
+**To Hit**
+```text
+2d20kh1 + 7
+```
+**Damage**
+```text
+1d12 + 9
+```
 
-
-Condition1 CLEAVE:
-	 I hit the creature, and there's a second character withing 5 ft of me
-		 Hit the 2nd creature, do modifiers unless they are negative
-			 - 2d20kh1 + 7 to hit
-			 - 1d12 damage
-Condition 2 HEW 
-	if killed or landed Crit: 
-		Can use BA to make another attack
-			 - 2d20kh1 + 7 to hit
-			 - 1d12+ 4 + 3 + 2 damage
-
-
-
-| Damage Source | Value  | Type of damage | Condition                            |
-| ------------- | ------ | -------------- | ------------------------------------ |
-| Base          | 1d12+4 | Slashing       |                                      |
-| GWM Damage    | 3      | Slashing       | Always                               |
-| Rage damage   | 2      | Slashing       | If raging                            |
-| Frenzy        | 2d6    | Slashing       | If first attack of turn and reckless |
-| Aasimar       | 3      | Radiant        | If wings are sprouted                |
-
-
+| Damage Source | Value | Damage Type | Condition |
+| --- | --- | --- | --- |
+| Base Weapon | `1d12 + 4` | Slashing | Always |
+| Great Weapon Master | `+3` | Slashing | Always |
+| Rage | `+2` | Slashing | While raging |
+| Frenzy | `2d6` | Slashing | First attack of turn while attacking recklessly |
+| Aasimar | `+3` | Radiant | While wings are sprouted |
