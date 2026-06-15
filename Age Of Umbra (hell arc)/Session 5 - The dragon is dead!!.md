@@ -1,18 +1,18 @@
 
-- Nyructyl is very angry and knows what the party did
+- Noctyrel is very angry and knows what the party did
 - He is gonna attack the village immediately
 - Party MIGHT be able to save some folks
 - The flicker-flies are carrying the souls back to their master's palace....probably for their master to consume them personally
-- Since Nyx is dead, flickerflies are in Nyructyl's control now.....and he is using them to raid the village
+- Since Nyx is dead, flickerflies are in Noctyrel's control now.....and he is using them to raid the village
 
 
 
 
-- After Nyructyl dies, his energy will dissipate, energizing everyone in the mortal realm, making most of the populous Vampires...the party has been here for long enough that a month has passed
+- After Noctyrel dies, his energy will dissipate, energizing everyone in the mortal realm, making most of the populous Vampires...the party has been here for long enough that a month has passed
 
 
 
-Nyructyl's points:
+Noctyrel's points:
  - He is just trying to get back to his place, he needs energy for this, life force, energy which makes creatures ticks, hence so many death
  - He hasn't killed them yet. Why. He doesn't want unnecessary deaths
  -  He let a few souls skip, and stay in that camp, why, because he doesn't want unnecessary deaths
@@ -31,7 +31,7 @@ Nyructyl's points:
 
 - As Kelvin is running away, he sees them...starts running towards them as a flickerfly grabs him and flies away, kelvin keeps screming
 - After battling a few fliclkerflies, they are able to save a few of folks remaining, particularly some villager commoners
-	- DESIGN THE FLICKERFLY BATTLE
+	- DESIGN THE FLICKERFLY BATTLE - DONE
 - Earth beneath them starts cracking as the region seems to be getting swallowed by the ground itself...surprisingly, it is localized, as if triggered in a circular manner
 
 
@@ -49,7 +49,7 @@ Nyructyl's points:
 
 - After he is defeated, he will yell to his mother, the mother of time, for one last request of making him immortal, of making him last forever, of eternal, power
 - The ground itself open up and as the party looks through it, it has nothing....and all of a sudden, they will see a big blast, followed by formation of universe
-- At some point when civilization was starting, in 1500s, you notice Nyructyl's body turns into a vapor and starts covering the earth itself
+- At some point when civilization was starting, in 1500s, you notice Noctyrel's body turns into a vapor and starts covering the earth itself
 - A part of its Vapor flies towards Bayaz
 - He becomes young again, and gains a lust to drink blood
 
