@@ -10,7 +10,7 @@
 
 - After Noctyrel dies, his energy will dissipate, energizing everyone in the mortal realm, making most of the populous Vampires...the party has been here for long enough that a month has passed
 
-
+--------------------------------------------------------------
 
 Noctyrel's points:
  - He is just trying to get back to his place, he needs energy for this, life force, energy which makes creatures ticks, hence so many death
@@ -23,11 +23,17 @@ Noctyrel's points:
 - He isnt perfect, he gets angry, but his intentions are good.
 
 
+-------------------------------------------------------
+
+
+- They will notice that the flickerflies are growing restless...its best for them to hurry back
+- Back at the Village, everything seems normal....as they get to take a long rest before going towards Noctyrel
+
 
 - Party hears a very deep growl, almost yelling to them "ENOUGH"
 - They see a new moon grow in the sky, a crescent moon almost as bright as the "sun" they just killed
 - When the party arrives, they are able to hear sounds of swords swinging, and people screaming
-- It feels like flickerflies all of a sudden lost their calmness, or maybe Neructyl decided to raid the village all of a sudden
+- It feels like flickerflies all of a sudden lost their calmness, or maybe Noctyrel decided to raid the village all of a sudden
 
 - As Kelvin is running away, he sees them...starts running towards them as a flickerfly grabs him and flies away, kelvin keeps screming
 - After battling a few fliclkerflies, they are able to save a few of folks remaining, particularly some villager commoners
@@ -55,3 +61,4 @@ Noctyrel's points:
 
 
 - The captured spirits start fading away....maybe finally towards eternal peace
+- The party will awaken in "Where Gods fell" in overworld
