@@ -17,7 +17,7 @@
 - No Frenzy or Aasimar
 #### Cleave
 - Trigger: Hit + 2nd target within 5 ft
-- Hit `!r 2d20kh1+7` | Damage `!r 1d12`
+- Hit `!r 2d20kh1+7` | Damage `!r 1d12+2`
 #### Hew
 - Trigger: Kill or Crit and have BA
 - BA Attack: Hit `!r 2d20kh1+7` | Damage `!r 1d12+9`
@@ -25,5 +25,5 @@
 - Base `1d12+4`  
 - GWM `+3` 
 - Rage `+2`
-- Frenzy `2d6` (1st reckless attack)
-- Aasimar `+3 Radiant` (wings)
+- Frenzy `2d6` (1st reckless attack) - Once per turn
+- Aasimar `+3 Radiant` (wings) - Once per turn
