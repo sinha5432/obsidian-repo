@@ -17,7 +17,7 @@
 - No Frenzy or Aasimar
 #### Cleave
 - Trigger: Hit + 2nd target within 5 ft
-- Hit `!r 2d20kh1+8` | Damage `!r 1d12+10`
+- Hit `!r 2d20kh1+8` | Damage `!r 1d12+5`
 #### Hew
 - Trigger: Kill or Crit and have BA
 - BA Attack: Hit `!r 2d20kh1+8` | Damage `!r 1d12+9`
