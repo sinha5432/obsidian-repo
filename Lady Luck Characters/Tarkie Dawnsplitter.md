@@ -11,18 +11,18 @@
 
 
 #### Attack 1 (Reckless + Rage)
-- Hit `!r 2d20kh1+7` | Damage `!r 1d12+2d6+9` (add +3 if wings)
+- Hit `!r 2d20kh1+8` | Damage `!r 1d12+2d6+10` (add +3 if wings)
 #### Attack 2
-- Hit `!r 2d20kh1+7` | Damage `!r 1d12+9`
+- Hit `!r 2d20kh1+8` | Damage `!r 1d12+10`
 - No Frenzy or Aasimar
 #### Cleave
 - Trigger: Hit + 2nd target within 5 ft
-- Hit `!r 2d20kh1+7` | Damage `!r 1d12+2`
+- Hit `!r 2d20kh1+8` | Damage `!r 1d12+10`
 #### Hew
 - Trigger: Kill or Crit and have BA
-- BA Attack: Hit `!r 2d20kh1+7` | Damage `!r 1d12+9`
+- BA Attack: Hit `!r 2d20kh1+8` | Damage `!r 1d12+9`
 #### Damage Sources
-- Base `1d12+4`  
+- Base `1d12+5`  
 - GWM `+3` 
 - Rage `+2`
 - Frenzy `2d6` (1st reckless attack) - Once per turn
