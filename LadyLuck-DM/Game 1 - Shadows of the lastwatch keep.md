@@ -24,3 +24,11 @@ Shadows of the lastwatch keep
 - Drows: https://5e.tools/bestiary.html#drow%20cultists%20but%20better_underwateradultbluedragon
 - Drow commando:
 	- ![[Game 1 - Shadows of the lastwatch keep-1782738592855.webp|252x419]]![[Game 1 - Shadows of the lastwatch keep-1782738660042.webp|176x176]]
+
+
+
+
+| Attack            | To Hit      | Damage              | Extra                                            |
+| ----------------- | ----------- | ------------------- | ------------------------------------------------ |
+| **Dagger**        | `!r 1d20+7` | `!r 1d4+4` piercing | **DC 15 CON:** `!r 5d6` poison (half on success) |
+| **Hand Crossbow** | `!r 1d20+7` | `!r 1d6+4` piercing | **DC 13 CON:** Poisoned 1 hr                     |
