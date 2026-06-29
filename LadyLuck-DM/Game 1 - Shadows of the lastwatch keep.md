@@ -32,3 +32,8 @@ Shadows of the lastwatch keep
 | ----------------- | ----------- | ------------------- | ------------------------------------------------ |
 | **Dagger**        | `!r 1d20+7` | `!r 1d4+4` piercing | **DC 15 CON:** `!r 5d6` poison (half on success) |
 | **Hand Crossbow** | `!r 1d20+7` | `!r 1d6+4` piercing | **DC 13 CON:** Poisoned 1 hr                     |
+
+
+Spiritual King:
+![[Game 1 - Shadows of the lastwatch keep-1782742418185.webp|235x235]]
+![[Game 1 - Shadows of the lastwatch keep-1782742296625.webp|339x461]]
