@@ -6,8 +6,11 @@
 - He was attacked, thats why he blames himself for not being around
 - Has a peaceful farm home
 
-
 ![[Tarkie Dawnsplitter-1780411549186.webp|338]]![[Tarkie Dawnsplitter-1780411570209.webp|316]]
+
+
+
+
 
 
 #### Attack 1 (Reckless + Rage)
