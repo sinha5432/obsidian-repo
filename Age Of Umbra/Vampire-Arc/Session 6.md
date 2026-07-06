@@ -11,7 +11,7 @@
 
 - **Barliss Rask**, a former **Dark Rider**, has been transformed into a **dullahan** by **Adivion**.
 - Mission:
-    - Recover **Raven's Head**.
+    - Recover **The God SLayer Sword**.
     - Intimidate or eliminate the PCs.
 - Travels with:
     - **Shenaleure** (nightmare mount).
@@ -21,6 +21,6 @@
 
 - Demands the PCs surrender **Raven's Head** and abandon the Whispering Way investigation.
 - Tries to learn the PCs' names to use **Death's Calling** later.
-- **DC 15 Sense Motive** reveals he intends to kill them regardless.
-- If the PCs surrender the mace, he tells them to drop it, then attacks anyway.
+- **DC 18 Sense Motive** reveals he intends to kill them regardless.
+- If the PCs surrender the sword, he tells them to drop it, then attacks anyway.
 - The dire ghoul wolves join the fight once combat begins.
