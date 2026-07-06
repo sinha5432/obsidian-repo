@@ -8,7 +8,7 @@
 
 
 
-### Encounter- ### Tactics
+### Encounter - Tactics
 
 - Demands the PCs surrender **Raven's Head** and abandon the Whispering Way investigation.
 - Tries to learn the PCs' names to use **Death's Calling** later.
