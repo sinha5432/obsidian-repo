@@ -7,17 +7,8 @@
 - Headless Horseman encounter Occurs **1 day's ride from **Kymball**** (or later if PCs use faster travel).
 
 
-### Encounter
 
-- **Barliss Rask**, a former **Dark Rider**, has been transformed into a **dullahan** by **Adivion**.
-- Mission:
-    - Recover **The God SLayer Sword**.
-    - Intimidate or eliminate the PCs.
-- Travels with:
-    - **Shenaleure** (nightmare mount).
-    - **3 Dire Ghoul Wolves** (hidden in ambush).
-
-### Tactics
+### Encounter- ### Tactics
 
 - Demands the PCs surrender **Raven's Head** and abandon the Whispering Way investigation.
 - Tries to learn the PCs' names to use **Death's Calling** later.
