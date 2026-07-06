@@ -2,20 +2,21 @@
 
 ## Keywords:
 
-| **Keyword**                        | **Description**                                                                                                                                                    |
-| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Pharasma                           | The Lady of Graves, is the goddess of birth, death, fate, prophecy, and time.                                                                                      |
-| Caliphas                           | Large City, use Kymball in campaign                                                                                                                                |
-| Abbey of Sante-Lymirin             | Place just north of Caliphas                                                                                                                                       |
-| Whispering Way                     | Cruel and secret organization and philosophy promoting undeath that has been active for thousands of years. The symbol of the Whispering Way is a gagged skull     |
-| Ustalav                            | Fog-shrouded nation of countless horrors. Use Ovitheleana city in campaign                                                                                         |
-| Tar-Baphon                         | Wizard Lich king                                                                                                                                                   |
-| Adivion Adrissant                  | High-ranking member of the Whispering Way and the engineer of a plan to bring back Tar-Baphon, the Whispering Tyrant                                               |
-| Aisa and Hetna Dublesse            | Twich witches, recruited by Adivion Adrissant                                                                                                                      |
-| Radvir Giovanni                    | Varisian vampire tailor and spawn of Luvick Siervage                                                                                                               |
-| Luvick Siervage                    | leader of Caliphas's vampire clans and the general who abandoned Tar-Baphon                                                                                        |
-| Oothi                              | Oothi is an undying entity whose consciousness is fragmented and stored across multiple spider swarms. Her skull is famously hidden at the bottom of an abbey well |
-| Esoteric Order of the Palatine Eye | secretive organization of scholars and historians based in Ustalav.                                                                                                |
+| **Keyword**                        | **Description**                                                                                                                                                                                                   |
+| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Pharasma                           | The Lady of Graves, is the goddess of birth, death, fate, prophecy, and time.                                                                                                                                     |
+| Caliphas                           | Large City, use Kymball in campaign                                                                                                                                                                               |
+| Abbey of Sante-Lymirin             | Place just north of Caliphas                                                                                                                                                                                      |
+| Whispering Way                     | Cruel and secret organization and philosophy promoting undeath that has been active for thousands of years. The symbol of the Whispering Way is a gagged skull                                                    |
+| Ustalav                            | Fog-shrouded nation of countless horrors. Use Ovitheleana city in campaign                                                                                                                                        |
+| Tar-Baphon                         | Wizard Lich king                                                                                                                                                                                                  |
+| Adivion Adrissant                  | High-ranking member of the Whispering Way and the engineer of a plan to bring back Tar-Baphon, the Whispering Tyrant                                                                                              |
+| Aisa and Hetna Dublesse            | Twich witches, recruited by Adivion Adrissant                                                                                                                                                                     |
+| Radvir Giovanni                    | Varisian vampire tailor and spawn of Luvick Siervage                                                                                                                                                              |
+| Luvick Siervage                    | leader of Caliphas's vampire clans and the general who abandoned Tar-Baphon                                                                                                                                       |
+| Oothi                              | Oothi is an undying entity whose consciousness is fragmented and stored across multiple spider swarms. Her skull is famously hidden at the bottom of an abbey well<br><br><br>Can use Nyx's corpse and skull here |
+| Esoteric Order of the Palatine Eye | secretive organization of scholars and historians based in Ustalav.                                                                                                                                               |
+
 
 
 
@@ -32,6 +33,8 @@
 
 - **Aisa and Hetna** have rebuilt most of **Oothi's** skeleton but still need **her skull**, believed to be at the **Abbey of Sante-Lymirin**.
 
+- Abbey is owned by **Countess Carmilla Caliphvaso**
+- The witches convince Carmilla they can create an **elixir of youth**, using her research on **sun orchid elixir + vampire humors**.
 
 - They use the abbey as a cover to:
 		- Search for **Oothi's skull**.
