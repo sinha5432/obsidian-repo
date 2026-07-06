@@ -1,4 +1,5 @@
-
+- The sword, which was broken by Theodora recently, is an ancient artifact now.
+- Even though everyone saw it destroyed, if they will check again, the sword is again in the hilt tied to Bayaz
 
 ## Keywords:
 
