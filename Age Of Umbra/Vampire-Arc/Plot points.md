@@ -1,46 +1,132 @@
-- The sword, which was broken by Theodora recently, is an ancient artifact now.
-- Even though everyone saw it destroyed, if they will check again, the sword is again in the hilt tied to Bayaz
+# Campaign Notes
 
-## Keywords:
+## The Broken Sword
 
-| **Keyword**                        | **Description**                                                                                                                                                                                                   |
-| ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Pharasma                           | The Lady of Graves, is the goddess of birth, death, fate, prophecy, and time.                                                                                                                                     |
-| Caliphas                           | Large City, use Kymball in campaign                                                                                                                                                                               |
-| Abbey of Sante-Lymirin             | Place just north of Caliphas                                                                                                                                                                                      |
-| Whispering Way                     | Cruel and secret organization and philosophy promoting undeath that has been active for thousands of years. The symbol of the Whispering Way is a gagged skull                                                    |
-| Ustalav                            | Fog-shrouded nation of countless horrors. Use Ovitheleana city in campaign                                                                                                                                        |
-| Tar-Baphon                         | Wizard Lich king                                                                                                                                                                                                  |
-| Adivion Adrissant                  | High-ranking member of the Whispering Way and the engineer of a plan to bring back Tar-Baphon, the Whispering Tyrant                                                                                              |
-| Aisa and Hetna Dublesse            | Twich witches, recruited by Adivion Adrissant                                                                                                                                                                     |
-| Radvir Giovanni                    | Varisian vampire tailor and spawn of Luvick Siervage                                                                                                                                                              |
-| Luvick Siervage                    | leader of Caliphas's vampire clans and the general who abandoned Tar-Baphon                                                                                                                                       |
-| Oothi                              | Oothi is an undying entity whose consciousness is fragmented and stored across multiple spider swarms. Her skull is famously hidden at the bottom of an abbey well<br><br><br>Can use Nyx's corpse and skull here |
-| Esoteric Order of the Palatine Eye | secretive organization of scholars and historians based in Ustalav.                                                                                                                                               |
-| Raven's Head                       | A legendary artifact weapon. Assume it was the God slayer sword.                                                                                                                                                  |
-| Captain Boverde Hoptler            | City watch commander                                                                                                                                                                                              |
+- The sword was recently broken by **Theodora**.
+- Despite everyone witnessing its destruction, anyone who checks later finds the blade restored, once again attached to Bayaz's hilt.
+- The sword is now considered an ancient artifact.
 
+---
 
+# Setting Keywords
 
+| Keyword                                | Description                                                                                                                                                                                 |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Pharasma**                           | The Lady of Graves, goddess of birth, death, fate, prophecy, and time.                                                                                                                      |
+| **Caliphas**                           | Large city. Use **Kymball** in the campaign.                                                                                                                                                |
+| **Abbey of Sante-Lymirin**             | Abbey located just north of Caliphas.                                                                                                                                                       |
+| **Whispering Way**                     | Ancient secret organization devoted to undeath. Its symbol is a **gagged skull**.                                                                                                           |
+| **Ustalav**                            | Fog-shrouded nation filled with horrors. Use **Ovitheleana** as the campaign city.                                                                                                          |
+| **Tar-Baphon**                         | The legendary Wizard-King who became a lich. Also known as the **Whispering Tyrant**.                                                                                                       |
+| **Adivion Adrissant**                  | High-ranking member of the Whispering Way and mastermind behind Tar-Baphon's resurrection.                                                                                                  |
+| **Aisa & Hetna Dublesse**              | Twin witches recruited by Adivion Adrissant.                                                                                                                                                |
+| **Radvir Giovanni**                    | Varisian vampire tailor and spawn of Luvick Siervage.                                                                                                                                       |
+| **Luvick Siervage**                    | Leader of Caliphas's vampire clans and the general who abandoned Tar-Baphon.                                                                                                                |
+| **Oothi**                              | An undying entity whose consciousness is fragmented across multiple spider swarms. Her skull is believed hidden at the bottom of an abbey well. *(Can instead use Nyx's corpse and skull.)* |
+| **Esoteric Order of the Palatine Eye** | Secretive organization of scholars and historians based in Ustalav.                                                                                                                         |
+| **Raven's Head**                       | Legendary artifact weapon. Treat it as the **Godslayer Sword**.                                                                                                                             |
+| **Captain Boverde Hoptler**            | Commander of the city watch.                                                                                                                                                                |
+| **Whispering Tyrant**                  | Another title for Tar-Baphon.                                                                                                                                                               |
 
-- The adventure is designed so players can either cooperate with the vampires or kill them, and the campaign still continues.
+---
 
+# Campaign Premise
 
-- Most vampires oppose the **Whispering Way**, because a world of only undead would leave no living blood to feed on.
-- **Adivion Adrissant**, while planning Tar-Baphon's resurrection, learned of betrayal that Old vampores are forming factions in Ustalav and decided to eliminate the old vampire leadership and replace them with younger vampires loyal to the Whispering Way.
-- To do this, Adivion recruited:
-    - Aisa and Hetna Dublesse (twin witches), promising them lichdom.
-    - They controlled an undead Blood Knight and used its ever-bleeding blood to create Bloodbrew, an addictive elixir that temporarily frees vampire spawn from their masters' control.
-- He recruited and tempted Radvir with **freedom from Luvick's domination**, power, and a place in the **new vampire order**, using **Bloodbrew** as leverage.
+The adventure is designed so that the party can either:
 
+- Ally with the vampires, **or**
+- Destroy the vampires.
 
-- **Aisa and Hetna** have rebuilt most of **Oothi's** skeleton but still need **her skull**, believed to be at the **Abbey of Sante-Lymirin**.
+Either path allows the campaign to continue naturally.
 
-- Abbey is owned by **Countess Carmilla Caliphvaso**
-- The witches convince Carmilla they can create an **elixir of youth**, using her research on **sun orchid elixir + vampire humors**.
+---
 
-- They use the abbey as a cover to:
-		- Search for **Oothi's skull**.
-		- Brew **Bloodbrew**.
-		- Dispose of **Radvir's** vampire victims.
-- Vampire corpses are drained, then left in sunlight to turn to ash, causing panic among both **humans** and **Caliphas's vampires**.
+# Vampire Politics
+
+Most vampires oppose the **Whispering Way**.
+
+Their reasoning is simple:
+
+- A world populated entirely by undead would contain no living blood.
+- Without living mortals, vampires would eventually starve.
+
+---
+
+# Adivion Adrissant's Plan
+
+While orchestrating the resurrection of **Tar-Baphon**, Adivion discovered that the old vampire nobility had begun forming independent factions throughout Ustalav.
+
+To secure the Whispering Way's future, he decided to:
+
+- Eliminate the old vampire leadership.
+- Replace them with younger vampires loyal to the Whispering Way.
+
+---
+
+## His Agents
+
+### Aisa & Hetna Dublesse
+
+Adivion recruited the twin witches by promising them **lichdom**.
+
+They:
+
+- Command an undead **Blood Knight**.
+- Harvest its endlessly bleeding blood.
+- Use it to create **Bloodbrew**.
+
+### Bloodbrew
+
+A powerful addictive elixir that temporarily frees vampire spawn from their masters' control.
+
+---
+
+### Radvir Giovanni
+
+Adivion recruited Radvir by offering:
+
+- Freedom from **Luvick Siervage's** domination.
+- Greater personal power.
+- A place within the coming vampire order.
+
+Bloodbrew served as both temptation and leverage.
+
+---
+
+# The Abbey of Sante-Lymirin
+
+The abbey is owned by **Countess Carmilla Caliphvaso**.
+
+## The Witches' Deception
+
+Aisa and Hetna convince Carmilla they can create an **Elixir of Youth** using research combining:
+
+- **Sun Orchid Elixir**
+- **Vampire humors**
+
+---
+
+## Their True Objectives
+
+The abbey serves as a cover for several secret operations:
+
+- Searching for **Oothi's skull**.
+- Brewing **Bloodbrew**.
+- Disposing of Radvir's victims.
+
+---
+
+# The Murders
+
+Victims of Radvir are:
+
+1. Drained completely of blood.
+2. Left exposed to sunlight.
+3. Reduced to ash.
+
+This creates widespread panic among:
+
+- The people of Caliphas.
+- The city's vampire clans.
+
+The murders are therefore viewed as a threat by both mortals and vampires alike.
