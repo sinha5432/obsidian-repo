@@ -27,3 +27,4 @@
 | **Raven's Head**                       | Legendary artifact weapon. Treat it as the **Godslayer Sword**.                                                                                                                             |
 | **Captain Boverde Hoptler**            | Commander of the city watch.                                                                                                                                                                |
 | **Whispering Tyrant**                  | Another title for Tar-Baphon.                                                                                                                                                               |
+| **Golarion**                           | The planet on which we currently are                                                                                                                                                        |
