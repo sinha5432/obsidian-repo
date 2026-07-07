@@ -1,10 +1,6 @@
-# Campaign Notes
 
-## The Broken Sword
 
-- The sword was recently broken by **Theodora**.
-- Despite everyone witnessing its destruction, anyone who checks later finds the blade restored, once again attached to Bayaz's hilt.
-- The sword is now considered an ancient artifact.
+
 
 ---
 

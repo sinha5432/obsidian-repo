@@ -1,4 +1,9 @@
 
+- The sword was recently broken by **Theodora**.
+- Despite everyone witnessing its destruction, anyone who checks later finds the blade restored, once again attached to Bayaz's hilt.
+- The sword is now considered an ancient artifact.
+
+### In session
 - PCs walk for a few hours in bad state until they notice a relatively well paved pathway. 
 - After walking on it for a while, they are greeted by a caravan in Bogey, going towards a nearby village, his hometown, who offers them lift
 - Asks them to go to **Kymball**, the nearest settlement.
@@ -6,12 +11,9 @@
 - Unfortunately he cant take them, but will give them enough horses for a fair price
 - Headless Horseman encounter Occurs **1 day's ride from **Kymball**** (or later if PCs use faster travel).
 
+### Headless Horseman Encounter - Tactics
 
-
-### Encounter - Tactics
-
-- Demands the PCs surrender **Raven's Head** and abandon the Whispering Way investigation.
-- Tries to learn the PCs' names to use **Death's Calling** later.
+- Demands the PCs surrender **The sword of the Gods** and abandon the Whispering Way investigation.
 - **DC 18 Sense Motive** reveals he intends to kill them regardless.
 - If the PCs surrender the sword, he tells them to drop it, then attacks anyway.
 - The dire ghoul wolves join the fight once combat begins.
