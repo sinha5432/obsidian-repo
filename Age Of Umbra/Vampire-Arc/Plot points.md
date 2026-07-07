@@ -18,6 +18,7 @@
 | Oothi                              | Oothi is an undying entity whose consciousness is fragmented and stored across multiple spider swarms. Her skull is famously hidden at the bottom of an abbey well<br><br><br>Can use Nyx's corpse and skull here |
 | Esoteric Order of the Palatine Eye | secretive organization of scholars and historians based in Ustalav.                                                                                                                                               |
 | Raven's Head                       | A legendary artifact weapon. Assume it was the God slayer sword.                                                                                                                                                  |
+| Captain Boverde Hoptler            | City watch commander                                                                                                                                                                                              |
 
 
 

@@ -28,17 +28,51 @@
 - PCs have time before the meeting to explore, shop, and rest.
 - If **Barliss Rask** hasn't appeared yet, he attacks during this downtime.
 
+
 ### Morning Murders
 
-- The next morning, rumors spread of **bodies drained of all fluids that turn to ash in sunlight**.
-- Investigating leads to **Captain Boverde Hoptler**, head of the city watch (initially **Unfriendly**).
+- Rumors spread of **bodies drained of all fluids that turn to ash in sunlight**.
+- At the crime scene, PCs meet **Captain Boverde Hoptler** (City Watch commander, initially **Unfriendly**).
 - If made **Friendly**, he allows the PCs to observe.
 - Investigation reveals:
-    - A body fell from an inn rooftop.
-    - Two ash piles with **wooden stakes** remain on the roof.
-    - The body also turns to ash once exposed to sunlight.
+    - A **headless body** in an alley fell from the inn roof.
+    - Two ash piles with **wooden stakes** are found on the roof.
+    - The alley body also turns to ash when exposed to sunlight.
 - Truth:
-    - These are **vampires killed by Radvir Giovanni**.
-    - **Aisa and Hetna** drained their vampire humors.
-    - The stakes immobilized the vampires before sunrise.
-- **Captain Hoptler** dismisses the idea that vampires exist and insists the murders are a hoax, warning the PCs to stay out of the investigation.
+    - Victims are **vampires** killed by **Radvir Giovanni**.
+    - **Aisa and Hetna** drained their vampire bodily fluids.
+    - Stakes immobilized the vampires before sunrise.
+    - One body accidentally fell into the shaded alley, delaying its destruction.
+- **Hoptler** dismisses the vampire theory as a hoax and warns the PCs to stay out of the case.
+
+---
+
+### Evening at the Haraday Theater
+
+- On **Oathday**, PCs attend the **Haraday Theater** to meet the **Esoteric Order of the Palatine Eye**.
+- Entry requires:
+    - An **invitation**, or
+    - **DC 20 Bluff**.
+- PCs wait while a new member's initiation ceremony concludes.
+- They can overhear chants and glimpse the Order's secret rituals.
+- Afterwards, they mingle with senior members.
+
+---
+
+### Goal
+
+- Convince the Order to grant access to the **Esoteric Vaults**.
+
+### Key NPCs
+
+- **Edjureus Modd** – Master of the Order.
+- **Abraun Chalest** – Scholar of Osirion; easiest route to the Vaults.
+- **Count Lucinean Galdana** – Visiting Count of Amaans.
+
+### **Abraun Chalest**
+
+- Friendly scholar and curator with **his own key** to the Esoteric Vaults.
+- **DC 17 Diplomacy** → Helpful; grants access.
+- **DC 23 Diplomacy** → Opens the Vaults **without informing Modd**.
+- **DC 20 Knowledge (Arcana/History/Religion)** → +2 bonus to Diplomacy.
+- **Story Award:** **3,200 XP** for making Chalest Helpful.
