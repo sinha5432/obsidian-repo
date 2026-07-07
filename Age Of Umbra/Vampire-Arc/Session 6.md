@@ -45,7 +45,7 @@
     - One body accidentally fell into the shaded alley, delaying its destruction.
 - **Hoptler** dismisses the vampire theory as a hoax and warns the PCs to stay out of the case.
 
----
+
 
 ### Evening at the Haraday Theater
 
