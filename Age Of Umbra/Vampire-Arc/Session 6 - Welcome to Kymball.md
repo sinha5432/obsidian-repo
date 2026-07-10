@@ -6,8 +6,12 @@
 ### In session
 - PCs walk for a few hours in bad state until they notice a relatively well paved pathway. 
 - After walking on it for a while, they are greeted by a caravan in Bogey, going towards a nearby village, his hometown, who offers them lift
-- Asks them to go to **Kymball**, the nearest settlement.
-- He might noitce Bayaz's change in appearance and demeaner and conclude he is a new Vampire, since he has seen, and helped to slay many in his younger days
+- He gives them food and a place to rest...but looking at Bayaz, he is concerned. He makes them sleep in the barn.
+
+
+- Asks them to go to **Kymball**, the nearest settlement, and seek help with **Esoteric Order of the Palatine Eye** since they are the group who keeps records and knows weird things happening around
+
+- He might notices Bayaz's change in appearance and demeaner and conclude he is a new Vampire, since he has seen, and helped to slay many in his younger days
 - Unfortunately he cant take them, but will give them enough horses for a fair price
 - Headless Horseman encounter Occurs **1 day's ride from **Kymball**** (or later if PCs use faster travel).
 
@@ -21,6 +25,8 @@
 
 
 ### Arriving in Caliphas
+
+- You see a decently sized line in front, everyone is being checked on who enters or exits, they explain that after last years' massacres everyone is documented and checked when they enter
 
 - **Kymball** is too large to search manually; PCs are expected to seek help from the **Esoteric Order of the Palatine Eye**.
 

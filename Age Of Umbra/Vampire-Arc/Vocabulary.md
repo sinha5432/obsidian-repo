@@ -1,9 +1,5 @@
 
 
-
-
----
-
 # Setting Keywords
 
 | Keyword                                | Description                                                                                                                                                             |
