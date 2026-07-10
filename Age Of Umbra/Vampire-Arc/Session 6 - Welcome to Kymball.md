@@ -41,11 +41,15 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 
 - **Kymball** is too large to search manually; PCs are expected to seek help from the **Esoteric Order of the Palatine Eye**.
 
-- **DC 20 Knowledge (local):** Learn about the **Esoteric Vaults**, the Order's library.
-- **DC 25 Knowledge (local)** or **DC 30 Diplomacy:** Learn the Order meets at the **Haraday Theater** and is led by **Edjureus Modd**.
-- **DC 20 Bluff/Diplomacy** (+5 if mentioning **Judge Daramid**) earns an invitation to the next **Oathday** gathering.
-- PCs have time before the meeting to explore, shop, and rest.
-- If **Barliss Rask** hasn't appeared yet, he attacks during this downtime.
+- Based on the information they try to get, give them following info:
+	- Learn about the **Esoteric Vaults**, the Order's library
+	- Learn the Order meets at the **Haraday Theater**
+	- Order is lead by **Edjureus Modd**.
+
+
+
+- A diplomatic approach can an invitation to the next **Oathday** gathering.
+- PCs have entire day before the meeting to explore, shop, and rest.
 
 
 ### Morning Murders
