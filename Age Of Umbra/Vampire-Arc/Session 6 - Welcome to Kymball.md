@@ -13,8 +13,7 @@
 
 - He might notices Bayaz's change in appearance and demeaner and conclude he is a new Vampire, since he has seen, and helped to slay many in his younger days
 - Unfortunately he cant take them, but will give them enough horses for a fair price
-- Headless Horseman encounter Occurs **1 day's ride from **Kymball**** (or later if PCs use faster travel).
-
+- Headless Horseman encounter Occurs **1 day's ride from Kymball** (or later if PCs use faster travel).
 ### Headless Horseman Encounter - Tactics
 
 - Demands the PCs surrender **The sword of the Gods** and abandon the Whispering Way investigation.
