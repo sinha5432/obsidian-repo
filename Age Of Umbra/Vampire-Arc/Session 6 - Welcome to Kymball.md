@@ -9,7 +9,7 @@
 - He gives them food and a place to rest...but looking at Bayaz, he is concerned. He makes them sleep in the barn.
 
 
-- Asks them to go to **Kymball**, the nearest settlement, and seek help with **Esoteric Order of the Palatine Eye** since they are the group who keeps records and knows weird things happening around
+- Asks them to go to **Kymball**, the nearest settlement, and seek help with **Esoteric Order of the Palatine Eye** since they are the secretive group who keeps records and knows weird things happening around
 
 - He might notices Bayaz's change in appearance and demeaner and conclude he is a new Vampire, since he has seen, and helped to slay many in his younger days
 - Unfortunately he cant take them, but will give them enough horses for a fair price
@@ -24,9 +24,20 @@
 
 
 
-### Arriving in Caliphas
+### Arriving in Kymball (Caliphas)
 
-- You see a decently sized line in front, everyone is being checked on who enters or exits, they explain that after last years' massacres everyone is documented and checked when they enter
+- You see a decently sized line in front, everyone is being checked on who enters or exits, they explain that after last years' massacres everyone is documented and checked when they enter. **NO VAMPIRES ALLOWED**
+
+- Bayaz will need a check to conceal his identity to enter
+
+- Once they enter:
+```text
+The mist parts to reveal Kymball, The grand capital of the region, where Gothic spires overlook the shores of Sea Encarthan. 
+
+Ornate manors and towering cathedrals stand beside busy markets, crowded taverns, and narrow cobbled streets. 
+The air carries the scent of damp stone, coal smoke, and the sea as merchants call to customers and carriages rattle past.
+Well-dressed nobles walk with armed escorts, while common folk keep to themselves, giving curious strangers only the briefest glance before moving on.
+```
 
 - **Kymball** is too large to search manually; PCs are expected to seek help from the **Esoteric Order of the Palatine Eye**.
 
