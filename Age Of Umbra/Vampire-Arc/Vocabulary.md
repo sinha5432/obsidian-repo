@@ -21,3 +21,4 @@
 | **Whispering Tyrant**                  | Another title for Tar-Baphon.                                                                                                                                           |
 | **Golarion**                           | The planet on which we currently are                                                                                                                                    |
 | **Sun Orchid Elixir**                  | Extremely costly and rare elixir said to halt ageing process temporarily                                                                                                |
+| **Osirionologist**                     | Osirionology is the study of the history, people, language, literature, religion, and art of Ancient Osirion. The word is usually capitalized in texts                  |
