@@ -14,6 +14,14 @@
 - He might notices Bayaz's change in appearance and demeaner and conclude he is a new Vampire, since he has seen, and helped to slay many in his younger days
 - Unfortunately he cant take them, but will give them enough horses for a fair price
 - Headless Horseman encounter Occurs **1 day's ride from Kymball** (or later if PCs use faster travel).
+
+
+
+```text
+The forest closes in around you, swallowing the last traces of open sky. Twisted roots coil across the trail like grasping fingers, while towering mushrooms and tangled vines transform the woods into something alien. Every fallen log is draped in luminous mold, every branch heavy with swollen fungal blooms. 
+The air is damp, thick with the scent of decay, and beneath the silence comes the faint rustle of something moving just beyond the edge of your lantern's light.
+```
+
 ### Headless Horseman Encounter - Tactics
 
 - Demands the PCs surrender **The sword of the Gods** and abandon the Whispering Way investigation.
@@ -21,7 +29,7 @@
 - If the PCs surrender the sword, he tells them to drop it, then attacks anyway.
 - The dire ghoul wolves join the fight once combat begins.
 
-
+---
 
 ### Arriving in Kymball (Caliphas)
 
@@ -41,8 +49,9 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 - **Kymball** is too large to search manually; PCs are expected to seek help from the **Esoteric Order of the Palatine Eye**.
 
 - Based on the information they try to get, give them following info:
-	- Learn about the **Esoteric Vaults**, the Order's library
+
 	- Learn the Order meets at the **Haraday Theater**
+	-  Learn about the **Esoteric Vaults**, the Order's library
 	- Order is lead by **Edjureus Modd**.
 
 
@@ -68,33 +77,62 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 - **Hoptler** dismisses the vampire theory as a hoax and warns the PCs to stay out of the case.
 
 
+---
 
-### Evening at the Haraday Theater
+## Evening at the Haraday Theater
 
-- On **Oathday**, PCs attend the **Haraday Theater** to meet the **Esoteric Order of the Palatine Eye**.
-- Entry requires:
-    - An **invitation**, or
-    - **DC 20 Bluff**.
-- PCs wait while a new member's initiation ceremony concludes.
-- They can overhear chants and glimpse the Order's secret rituals.
-- Afterwards, they mingle with senior members.
+- The PCs are invited to the **Haraday Theater** to meet the **Esoteric Order of the Palatine Eye**.
+- They arrive at **nightfall**.
+- Entry requirements:
+  - Present an invitation, **or**
+  - Succeed on a **DC 20 Bluff** check to convince the guards.
+- While waiting, the PCs stay in:
+  - **Lounge (Area A2)**, or
+  - **Gathering Room (Area A4)**.
+- A new member's initiation ceremony is taking place.
+- The PCs cannot attend the ceremony but may:
+  - Hear ritual chants.
+  - Catch glimpses of members wearing elaborate ceremonial regalia.
+- After the ceremony:
+  - **Edjureus Modd** and the Order's senior members emerge.
+  - The newest acolyte is welcomed.
 
 ---
 
-### Goal
+## Socializing with the Order
 
-- Convince the Order to grant access to the **Esoteric Vaults**.
+### Objective
+Convince the Order to grant the PCs access to the **Esoteric Vaults** beneath the theater.
 
-### Key NPCs
+### Notable Members
+- **Edjureus Modd**
+- **Abraun Chalest** – Osirionologist
+- **Count Lucinean Galdana** – Visiting Count of Amaans
 
-- **Edjureus Modd** – Master of the Order.
-- **Abraun Chalest** – Scholar of Osirion; easiest route to the Vaults.
-- **Count Lucinean Galdana** – Visiting Count of Amaans.
+- The PCs may mingle with members over wine and cigars.
+- Impressing or interesting influential members increases the likelihood of gaining access to the vaults.
 
-### **Abraun Chalest**
+---
 
-- Friendly scholar and curator with **his own key** to the Esoteric Vaults.
-- **DC 17 Diplomacy** → Helpful; grants access.
-- **DC 23 Diplomacy** → Opens the Vaults **without informing Modd**.
-- **DC 20 Knowledge (Arcana/History/Religion)** → +2 bonus to Diplomacy.
-- **Story Award:** **3,200 XP** for making Chalest Helpful.
+## Abraun Chalest
+
+**Role**
+- Curator of the Quarterfaux Archives.
+- Secretly "borrows" artifacts from the archives for the Order.
+- Holds his own key to the **Esoteric Vaults**, making him the easiest way to gain entry.
+
+**Description**
+- LN Human Aristocrat 3 / Expert 6.
+- Elderly, pudgy scholar with silver spectacles.
+- Friendly, cheerful, and fond of loud laughter.
+- Renowned expert on **Osirian history and culture**.
+- Curious about the PCs' adventures.
+- Usually found in **Area A4**, but approaches the PCs if they don't seek him out.
+
+### Convincing Chalest
+
+| Goal | Check |
+|------|------:|
+| Make Chalest Helpful | **DC 17 Diplomacy** |
+| Convince him to open the vaults without informing Edjureus Modd | **DC 23 Diplomacy** |
+| Gain a +2 bonus on the Diplomacy check by discussing ancient history or hidden lore | **DC 20 Knowledge (Arcana, History, or Religion)** |
