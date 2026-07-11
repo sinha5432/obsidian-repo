@@ -136,3 +136,332 @@ Convince the Order to grant the PCs access to the **Esoteric Vaults** beneath th
 | Make Chalest Helpful | **DC 17 Diplomacy** |
 | Convince him to open the vaults without informing Edjureus Modd | **DC 23 Diplomacy** |
 | Gain a +2 bonus on the Diplomacy check by discussing ancient history or hidden lore | **DC 20 Knowledge (Arcana, History, or Religion)** |
+
+
+## Edjureus Modd
+
+### Overview
+- **Master of the Esoteric Order** in Caliphas.
+- **LN Human Aristocrat 7**.
+- Has the **final authority** over access to the **Esoteric Vaults**.
+- Recently became Master after the previous leader's death.
+- Arrogant, pretentious, and dismissive of adventurers.
+- More concerned with his prestige among Caliphas' nobility than helping outsiders.
+- Usually found in the **Conservatory (A5)** surrounded by admirers.
+
+### Convincing Modd
+
+| Goal                                               |                       Check |
+| -------------------------------------------------- | --------------------------: |
+| Improve attitude from **Unfriendly → Indifferent** |         **DC 27 Diplomacy** |
+| Once Indifferent, convince him to grant access     |         **DC 22 Diplomacy** |
+| Make him Helpful                                   | Automatically grants access |
+
+### Bonuses
+
+- **DC 20 Knowledge (Nobility)** → **+2** on Diplomacy checks.
+- If **Count Lucinean Galdana** agrees to support the PCs → **+5** on Diplomacy checks with Modd.
+
+### Alternative Method
+
+- **DC 19 Intimidate**
+  - Modd grants access immediately.
+  - Afterwards, he becomes **Unfriendly**.
+  - He refuses future assistance.
+  - Any future dealings with the Order must go through **Abraun Chalest** or **Count Galdana**.
+
+### Story Awards
+
+- Convince Modd to grant access: **6,400 XP**
+- Make Modd **Helpful**: **12,800 XP**
+
+---
+
+# Count Lucinean Galdana
+
+### Overview
+
+- **NG Human Aristocrat 2 / Ranger 6**
+- Adventurous **Count of Amaans**.
+- Visiting Caliphas for the royal court.
+- Member of the Esoteric Order mostly for political connections rather than genuine interest.
+- Prefers capable adventurers over boastful nobles.
+- Usually found in:
+  - **Trophy Hall (A6)**
+  - Lounge (A2)
+  - Gathering Room (A4)
+
+### Convincing Galdana
+
+| Goal | Check |
+|------|------:|
+| Make Friendly and gain his support | **DC 22 Diplomacy** |
+
+### Bonuses
+
+A successful **DC 20** check in one of the following grants **+2** on Diplomacy with Galdana:
+
+- Knowledge (Dungeoneering)
+- Knowledge (Nature)
+- Perform (Comedy)
+
+Topics he enjoys include:
+- Hunting
+- Dangerous beasts
+- Adventuring stories
+- Bawdy jokes
+
+### Benefit
+
+If made **Helpful**, Galdana personally speaks to Modd on the PCs' behalf, granting:
+
+- **+5 bonus** on Diplomacy checks with **Edjureus Modd**.
+
+### Story Award
+
+- Befriend Count Galdana: **6,400 XP**
+
+---
+
+# Haraday Theater
+
+The Haraday Theater is no longer an active public theater. It now serves as the headquarters of the **Esoteric Order of the Palatine Eye**, hosting meetings, ceremonies, and exclusive social gatherings.
+
+## Areas
+
+### A1. Foyers
+- Main entrance.
+- Exterior doors remain open during meetings.
+- Locked when closed.
+- Heavy wooden doors.
+  - Hardness 5
+  - HP 20
+  - Break DC 25
+  - Disable Device DC 30
+
+### A2. Lounge
+- Exclusive tavern for Order members.
+- Round tables.
+- Mahogany liquor cabinets.
+- Heavy curtains and chandeliers.
+
+### A3. Bar
+- Staffed by trusted Order servants.
+- Stocks expensive drinks from across the Inner Sea.
+
+### A4. Gathering Room
+- Private meeting room.
+- Bookshelves and heavy drapes.
+- Frequently rented for private events.
+- Contains a box of Molthuni cigars.
+
+### A5. Conservatory
+- Large piano and crystal chandeliers.
+- Used for:
+  - Weddings
+  - Funerals
+  - Dancing
+  - Musical recitals
+- **Edjureus Modd** is usually found here.
+
+### A6. Trophy Hall
+- Displays:
+  - Paintings
+  - Sculptures
+  - Stuffed animal heads
+- Four stairways descend to the basement.
+- **Count Galdana** usually spends time here.
+
+### A7. Atrium Observatory
+- Open-air courtyard protected by a permanent **Wall of Force**.
+- Used for:
+  - Stargazing
+  - Astrological research
+- Floor runes project constellation images.
+
+### A8. Gallery
+- Former theater balcony.
+- Now used to observe:
+  - Initiation ceremonies
+  - Secret rituals
+- Overlooks the ceremonial chamber below.
+
+### A9. Storerooms
+- Stores furniture for special events.
+- Contains nothing valuable.
+
+### A10. Procession Hall
+- Decorated with the Order's creeds and inscriptions.
+- Used to assemble ceremonial processions.
+- Includes access to privies.
+
+### A11. Ceremonial Chamber
+- Main ritual chamber beneath the theater.
+- Visible from the Gallery above.
+- Used for:
+  - Secret meetings
+  - Initiations
+  - Esoteric rituals
+
+### A12. The Descending Spiral
+- Locked, ironbound door.
+- Superior Lock:
+  - Hardness 5
+  - HP 20
+  - Break DC 25
+  - Disable Device DC 40
+- Spiral staircase lined with hundreds of books.
+- Leads to the sub-basement and the Esoteric Vaults.
+
+### A13. Esoteric Vaults
+- The Order's secure archive of rare and valuable texts and relics.
+- Primary destination for the PCs.
+
+# A13. The Esoteric Vaults
+
+## Access
+
+The PCs may enter the Esoteric Vaults by:
+
+- Receiving permission from the **Esoteric Order**.
+- Being accompanied by **Abraun Chalest** if he agreed to help.
+- Breaking in while the theater is empty.
+
+---
+
+## General Features
+
+- The vaults contain the Order's collection of:
+  - Ancient books
+  - Scrolls
+  - Relics
+  - Statues
+  - Pottery
+  - Stone tablets
+- Every room counts as **Difficult Terrain** due to clutter.
+
+---
+
+## Research Rules
+
+The vaults can be used to research:
+
+- The Whispering Way
+- The Carrion Crown Poem
+- Raven's Head
+- Moribund Keys
+
+### Library Benefits
+
+- Knowledge checks can be attempted **untrained**.
+- PCs with ranks in the required Knowledge skill gain a **+6 bonus**.
+- Each research attempt requires **1d6 hours**.
+
+### Alternative Researchers
+
+If the PCs do not wish to perform the research:
+
+- **Helpful Abraun Chalest** researches for them.
+- Otherwise, convince Chalest with another Diplomacy check.
+- Other Order scholars may be hired for **1,000 gp per day**.
+
+---
+
+# Research Topics
+
+## The Carrion Crown Poem
+
+### DC 30 Knowledge (Arcana or Religion)
+
+Reveals:
+
+- The poem is actually a formula for creating a **lich**.
+- The ritual is tied to a specific individual (identity unknown).
+
+### DC 25 Knowledge (Arcana or Religion)
+
+Reveals:
+
+- The components collected by the Whispering Way.
+- Identifies **Raven's Head** as one of those components.
+
+---
+
+## Raven's Head
+
+### DC 35 Spellcraft + Detect Magic
+
+- Identifies the mace's magical properties.
+
+### DC 20 Knowledge (History or Religion)
+
+**OR**
+
+### DC 30 Knowledge (Nobility)
+
+- Reveals the weapon's history.
+
+### Alternative
+
+- **Legend Lore** provides similar historical information.
+- Abraun Chalest can provide a **Scroll of Legend Lore** for the normal market price.
+
+---
+
+## The Whispering Way
+
+Use:
+
+- Knowledge (Arcana)
+- Knowledge (Religion)
+
+The vaults can fill in any missing information the PCs have about the cult.
+
+### DC 30 Knowledge (Arcana or Religion)
+
+Reveals:
+
+- The existence of **Moribund Keys**.
+- Their connection to the Whispering Way.
+
+---
+
+## Moribund Key
+
+### If the PCs possess the key
+
+#### DC 27 Spellcraft + Detect Magic
+
+- Identifies the key's magical properties.
+
+#### DC 30 Knowledge (Arcana or Religion)
+
+Reveals:
+
+- The purpose of Moribund Keys.
+- Their use by the Whispering Way.
+
+#### Legend Lore
+
+- Can reveal the same information.
+
+#### DC 40 Knowledge (History or Local)
+
+Discovers records of:
+
+- Several Whispering Way relics once hidden in Caliphas.
+- A **gargoyle statue** said to guide believers to the cult's hidden stronghold.
+
+---
+
+### If the PCs do NOT possess the key
+
+While researching the Whispering Way:
+
+#### DC 40 Knowledge (History)
+
+Reveals:
+
+- The existence of Moribund Keys.
+- Their purpose.
+- The legend of the Caliphas gargoyle statue.
