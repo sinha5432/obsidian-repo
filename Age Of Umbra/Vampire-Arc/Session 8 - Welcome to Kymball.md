@@ -11,6 +11,13 @@ The air is damp, thick with the scent of decay, and beneath the silence comes th
 - If the PCs surrender the sword, he tells them to drop it, then attacks anyway.
 - The dire ghoul wolves join the fight once combat begins.
 
+### Once Horseman Dies
+
+You expected him to turn to dust, or, smoke, but his corpse stays
+If people look for something on him, they will find 15 Handful of Gold coins, and a Diary
+
+The Diary will contain Carrion Crown poem
+
 ---
 
 ### Arriving in Kymball (Caliphas)
@@ -57,6 +64,22 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
     - Stakes immobilized the vampires before sunrise.
     - One body accidentally fell into the shaded alley, delaying its destruction.
 - **Hoptler** dismisses the vampire theory as a hoax and warns the PCs to stay out of the case.
+
+
+### Enquiring about The Palatine Eye
+
+(Give this to players the more the interrogate)
+
+> "The Palatine Eye? That's no cult. Mostly judges, professors, and nobles."
+
+> "They don't advertise themselves. If you have business with them, you'll have a hard time."
+
+> "I've heard they meet somewhere on Constance Street."
+
+> "Haraday Theater. Every Oathday evening, after the performance. Don't expect to get in."
+
+> "The audience leaves... but some distinguished guests stay behind."
+
 
 
 ---

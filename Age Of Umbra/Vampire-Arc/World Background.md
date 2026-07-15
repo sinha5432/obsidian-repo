@@ -230,7 +230,7 @@ Meanwhile...
 
 # Carrion Crown Poem:
 
-```text
+```poem
 Upon the ashen pathways tread
 Softly, as the whispered dead.
 As mortal flesh doth rot and fail
