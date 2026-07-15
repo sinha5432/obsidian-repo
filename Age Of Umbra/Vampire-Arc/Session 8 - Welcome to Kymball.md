@@ -87,13 +87,10 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 ## Evening at the Haraday Theater
 
 
-- If Invited, no
+- If Invited, no checks, otherwise **Deception DC 18 Check** to convince the guards
 
-- The PCs are invited to the **Haraday Theater** to meet the **Esoteric Order of the Palatine Eye**.
-- They arrive at **nightfall**.
-- Entry requirements:
-  - Present an invitation, **or**
-  - Succeed on a **DC 20 Bluff** check to convince the guards.
+
+
 - While waiting, the PCs stay in:
   - **Lounge (Area A2)**, or
   - **Gathering Room (Area A4)**.
