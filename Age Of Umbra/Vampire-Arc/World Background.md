@@ -224,3 +224,42 @@ Meanwhile...
         Bodies turn to ash, causing fear and paranoia
             among both humans and vampire society
 ```
+
+
+---
+
+# Carrion Crown Poem:
+
+```text
+Upon the ashen pathways tread
+Softly, as the whispered dead.
+As mortal flesh doth rot and fail
+To leech and maggot, ebbing frail.
+Unhallowed words cannot be spoken,
+With whispered oath, death lies broken.
+Shed fear, shed life, shed pain, shed time,
+Eternity seized shall soon be thine.
+
+First spirit torn from Grave-Lady's grasp
+Be rent and sown as soured ash.
+Soft the spiral song reverses,
+Judgment lost, damnation surges.
+Keeper of the damned's soul take,
+With packlord's heart the beast shall wake
+And flesh be wrought in disarray—
+Stillborn cocoon, to blessed decay.
+
+A hundred slain lie innocent,
+Grind bone and marrow to cement.
+Craft now a skull of splintered graves,
+Unmake life, unmake the slave.
+Where history churns dream to blister,
+Necrophagous secrets whisper
+Through chronicles of Raven's tongue—
+A legacy of fear unspun.
+
+Blood spilt atop the Iron Thorn
+Invokes that which cannot be born.
+Arise the Tyrant now unbound,
+Bearer of the Carrion Crown.
+```
