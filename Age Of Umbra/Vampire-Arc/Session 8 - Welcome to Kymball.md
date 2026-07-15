@@ -86,6 +86,9 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 
 ## Evening at the Haraday Theater
 
+
+- If Invited, no
+
 - The PCs are invited to the **Haraday Theater** to meet the **Esoteric Order of the Palatine Eye**.
 - They arrive at **nightfall**.
 - Entry requirements:

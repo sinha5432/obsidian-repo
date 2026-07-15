@@ -1,4 +1,7 @@
 
+![[World Background-1784133789239.webp]]
+
+
 # Adventure Background
 
 ## The Core Conflict
@@ -263,3 +266,6 @@ Invokes that which cannot be born.
 Arise the Tyrant now unbound,
 Bearer of the Carrion Crown.
 ```
+
+
+
