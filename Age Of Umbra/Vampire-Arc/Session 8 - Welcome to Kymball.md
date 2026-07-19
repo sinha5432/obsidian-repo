@@ -4,6 +4,8 @@ The forest closes in around you, swallowing the last traces of open sky. Twisted
 The air is damp, thick with the scent of decay, and beneath the silence comes the faint rustle of something moving just beyond the edge of your lantern's light.
 ```
 
+
+> Start by Giving Spectre his item
 ### Headless Horseman Encounter - Tactics
 
 - Demands the PCs surrender **The sword of the Gods** and abandon the Whispering Way investigation.
@@ -95,9 +97,11 @@ The aged, stately structure of the Haraday Theater lies nestled among several sh
 ```
 
 
-- While waiting, the PCs stay in:
-  - **Lounge (Area A2)**, or
-  - **Gathering Room (Area A4)**.
+> Create a countdown of PCs convincing the important figures in this section
+
+- While waiting, the PCs stay in **Lounge (Area A2)**
+
+
 - A new member's initiation ceremony is taking place.
 - The PCs cannot attend the ceremony but may:
   - Hear ritual chants.
@@ -106,7 +110,8 @@ The aged, stately structure of the Haraday Theater lies nestled among several sh
   - **Edjureus Modd** and the Order's senior members emerge.
   - The newest acolyte is welcomed.
 
----
+- There are multiple more folks in the waiting room, one of them is **Abraun Chalest**
+
 
 ## Socializing with the Order
 
@@ -114,14 +119,15 @@ The aged, stately structure of the Haraday Theater lies nestled among several sh
 Convince the Order to grant the PCs access to the **Esoteric Vaults** beneath the theater.
 
 ### Notable Members
-- **Edjureus Modd**
-- **Abraun Chalest** – Osirionologist
+
+- **Abraun Chalest** – Osirionologist 
+- **Edjureus Modd** -- Gets the final say on who gets access to Vaults
 - **Count Lucinean Galdana** – Visiting Count of Amaans
 
 - The PCs may mingle with members over wine and cigars.
 - Impressing or interesting influential members increases the likelihood of gaining access to the vaults.
 
----
+
 
 ## Abraun Chalest
 
@@ -131,40 +137,24 @@ Convince the Order to grant the PCs access to the **Esoteric Vaults** beneath th
 - Holds his own key to the **Esoteric Vaults**, making him the easiest way to gain entry.
 
 **Description**
-- LN Human Aristocrat 3 / Expert 6.
+- Human Aristocrat
 - Elderly, pudgy scholar with silver spectacles.
-- Friendly, cheerful, and fond of loud laughter.
+- Friendly initially, cheerful, and fond of loud laughter.
 - Renowned expert on **Osirian history and culture**.
-- Curious about the PCs' adventures.
+- Would love to hear stories of various different historical creatures PCs have enquired
 - Usually found in **Area A4**, but approaches the PCs if they don't seek him out.
 
-### Convincing Chalest
-
-| Goal | Check |
-|------|------:|
-| Make Chalest Helpful | **DC 17 Diplomacy** |
-| Convince him to open the vaults without informing Edjureus Modd | **DC 23 Diplomacy** |
-| Gain a +2 bonus on the Diplomacy check by discussing ancient history or hidden lore | **DC 20 Knowledge (Arcana, History, or Religion)** |
 
 
 ## Edjureus Modd
 
 ### Overview
 - **Master of the Esoteric Order** in Caliphas.
-- **LN Human Aristocrat 7**.
 - Has the **final authority** over access to the **Esoteric Vaults**.
 - Recently became Master after the previous leader's death.
 - Arrogant, pretentious, and dismissive of adventurers.
 - More concerned with his prestige among Caliphas' nobility than helping outsiders.
 - Usually found in the **Conservatory (A5)** surrounded by admirers.
-
-### Convincing Modd
-
-| Goal                                               |                       Check |
-| -------------------------------------------------- | --------------------------: |
-| Improve attitude from **Unfriendly → Indifferent** |         **DC 27 Diplomacy** |
-| Once Indifferent, convince him to grant access     |         **DC 22 Diplomacy** |
-| Make him Helpful                                   | Automatically grants access |
 
 ### Bonuses
 
