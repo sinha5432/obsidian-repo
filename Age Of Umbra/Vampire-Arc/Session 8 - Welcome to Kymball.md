@@ -5,7 +5,8 @@ The air is damp, thick with the scent of decay, and beneath the silence comes th
 ```
 
 
-> Start by Giving Spectre his item
+> Start by Giving Spectre his item and Bayaz his new Card
+
 ### Headless Horseman Encounter - Tactics
 
 - Demands the PCs surrender **The sword of the Gods** and abandon the Whispering Way investigation.
@@ -86,381 +87,183 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 
 ---
 
-## Evening at the Haraday Theater
+# Evening at the Haraday Theater
 
+## Arrival
 
-- If Invited, no checks, otherwise **Deception DC 18 Check** to convince the guards
+- If the PCs are invited, they enter without issue.
+- Otherwise, they must succeed on a **DC 18 Deception** check to convince the guards.
 
+> **Read Aloud**
+>
+> The aged, stately structure of the Haraday Theater lies nestled among several shops. The rough wooden exterior bears the signs of numerous repairs and modifications, though it seemingly has need of many more. The building itself has two entrances, one to the west and another to the south, both illuminated by large, wall-mounted oil lamps. Well-dressed servants stand outside these doors, welcoming arriving carriages and turning away passersby who linger next to the glass windows of what appears to be a large meeting hall.
 
-```text
-The aged, stately structure of the Haraday Theater lies nestled among several shops. The rough wooden exterior bears the signs of numerous repairs and modifications, though it seemingly has need of many more. The building itself has two entrances, one to the west and another to the south, both illuminated by large, wall-mounted oil lamps. Well-dressed servants stand outside these doors, welcoming arriving carriages and turning away passersby who linger next to the glass windows of what appears to be a large meeting hall.
-```
+> **GM Note:** Create a countdown tracker for how many influential members the PCs convince during the evening.
 
+## While Waiting
 
-> Create a countdown of PCs convincing the important figures in this section
+The PCs wait in the **Lounge (Area A2)**.
 
-- While waiting, the PCs stay in **Lounge (Area A2)**
-
+During this time:
 
 - A new member's initiation ceremony is taking place.
-- The PCs cannot attend the ceremony but may:
-  - Hear ritual chants.
-  - Catch glimpses of members wearing elaborate ceremonial regalia.
-- After the ceremony:
+- The PCs are not permitted to attend, but they can:
+  - Hear ritual chanting.
+  - Catch glimpses of members in elaborate ceremonial regalia.
+- Once the ceremony concludes:
   - **Edjureus Modd** and the Order's senior members emerge.
-  - The newest acolyte is welcomed.
+  - The newest acolyte is formally welcomed.
+- Several guests are also waiting in the lounge, including **Abraun Chalest**.
 
-- There are multiple more folks in the waiting room, one of them is **Abraun Chalest**
+---
 
+# Socializing with the Order
 
-## Socializing with the Order
+## Objective
 
-### Objective
 Convince the Order to grant the PCs access to the **Esoteric Vaults** beneath the theater.
 
-### Notable Members
+## Notable Members
 
-- **Abraun Chalest** – Osirionologist 
-- **Edjureus Modd** -- Gets the final say on who gets access to Vaults
-- **Count Lucinean Galdana** – Visiting Count of Amaans
+| NPC                        | Notes                                              |
+| -------------------------- | -------------------------------------------------- |
+| **Abraun Chalest**         | Osirionologist and curator.                        |
+| **Edjureus Modd**          | Has the final authority over access to the vaults. |
+| **Count Lucinean Galdana** | Visiting Count of Amaans.                          |
 
-- The PCs may mingle with members over wine and cigars.
-- Impressing or interesting influential members increases the likelihood of gaining access to the vaults.
+The PCs may mingle with members over wine and cigars.
 
+Each influential member impressed increases the likelihood that the Order grants access to the vaults.
 
+---
 
-## Abraun Chalest
+# Abraun Chalest
 
-**Role**
+## Role
+
 - Curator of the Quarterfaux Archives.
 - Secretly "borrows" artifacts from the archives for the Order.
-- Holds his own key to the **Esoteric Vaults**, making him the easiest way to gain entry.
+- Possesses his own key to the **Esoteric Vaults**, making him the easiest route inside.
 
-**Description**
-- Human Aristocrat
-- Elderly, pudgy scholar with silver spectacles.
-- Friendly initially, cheerful, and fond of loud laughter.
+## Description
+
+- Elderly human aristocrat.
+- Pudgy scholar with silver spectacles.
+- Friendly, cheerful, and prone to loud laughter.
 - Renowned expert on **Osirian history and culture**.
-- Would love to hear stories of various different historical creatures PCs have enquired
-- Usually found in **Area A4**, but approaches the PCs if they don't seek him out.
+- Enjoys hearing stories about historical creatures the PCs have encountered or researched.
+- Usually found in **Area A4**, but approaches the PCs if they do not seek him out.
 
+---
 
+# Edjureus Modd
 
-## Edjureus Modd
+## Overview
 
-### Overview
-- **Master of the Esoteric Order** in Caliphas.
-- Has the **final authority** over access to the **Esoteric Vaults**.
-- Recently became Master after the previous leader's death.
+- Master of the **Esoteric Order** in Caliphas.
+- Holds the final authority over access to the **Esoteric Vaults**.
+- Recently succeeded the Order's previous master.
 - Arrogant, pretentious, and dismissive of adventurers.
-- More concerned with his prestige among Caliphas' nobility than helping outsiders.
-- Usually found in the **Conservatory (A5)** surrounded by admirers.
+- More interested in maintaining his prestige among Caliphas' nobility than helping outsiders.
+- Usually found in the **Conservatory (Area A5)**, surrounded by admirers.
 
-### Bonuses
+## Alternative Method
 
-- **DC 20 Knowledge (Nobility)** → **+2** on Diplomacy checks.
-- If **Count Lucinean Galdana** agrees to support the PCs → **+5** on Diplomacy checks with Modd.
+### **DC 19 Intimidation**
 
-### Alternative Method
+Success results in:
 
-- **DC 19 Intimidate**
-  - Modd grants access immediately.
-  - Afterwards, he becomes **Unfriendly**.
-  - He refuses future assistance.
-  - Any future dealings with the Order must go through **Abraun Chalest** or **Count Galdana**.
-
-### Story Awards
-
-- Convince Modd to grant access: **6,400 XP**
-- Make Modd **Helpful**: **12,800 XP**
+- Modd grants access immediately.
+- His attitude becomes **Unfriendly**.
+- He refuses any future assistance.
+- Any future dealings with the Order must go through **Abraun Chalest** or **Count Lucinean Galdana**.
 
 ---
 
 # Count Lucinean Galdana
 
-### Overview
+## Overview
 
-- **NG Human Aristocrat 2 / Ranger 6**
 - Adventurous **Count of Amaans**.
-- Visiting Caliphas for the royal court.
-- Member of the Esoteric Order mostly for political connections rather than genuine interest.
-- Prefers capable adventurers over boastful nobles.
-- Usually found in:
-  - **Trophy Hall (A6)**
-  - Lounge (A2)
-  - Gathering Room (A4)
+- Visiting Caliphas while attending the royal court.
+- Member of the Esoteric Order primarily for political connections rather than scholarly interest.
+- Respects capable adventurers more than boastful nobles.
 
-### Convincing Galdana
+### Usual Locations
 
-| Goal | Check |
-|------|------:|
-| Make Friendly and gain his support | **DC 22 Diplomacy** |
+- **Trophy Hall (Area A6)**
+- **Lounge (Area A2)**
+- **Gathering Room (Area A4)**
 
-### Bonuses
+## Conversation Topics
 
-A successful **DC 20** check in one of the following grants **+2** on Diplomacy with Galdana:
+He enjoys discussing:
 
-- Knowledge (Dungeoneering)
-- Knowledge (Nature)
-- Perform (Comedy)
-
-Topics he enjoys include:
 - Hunting
 - Dangerous beasts
-- Adventuring stories
+- Adventuring exploits
 - Bawdy jokes
 
-### Benefit
+## Benefit
 
-If made **Helpful**, Galdana personally speaks to Modd on the PCs' behalf, granting:
+If the PCs make Galdana **Helpful**, he personally speaks to **Edjureus Modd** on their behalf, greatly improving their chances of being granted access to the **Esoteric Vaults**.
 
-- **+5 bonus** on Diplomacy checks with **Edjureus Modd**.
 
-### Story Award
-
-- Befriend Count Galdana: **6,400 XP**
 
 ---
 
 # Haraday Theater
 
-The Haraday Theater is no longer an active public theater. It now serves as the headquarters of the **Esoteric Order of the Palatine Eye**, hosting meetings, ceremonies, and exclusive social gatherings.
+### Refer PDF for better descriptions of rooms
 
-## Areas
-
-### A1. Foyers
-- Main entrance.
-- Exterior doors remain open during meetings.
-- Locked when closed.
-- Heavy wooden doors.
-  - Hardness 5
-  - HP 20
-  - Break DC 25
-  - Disable Device DC 30
-
-### A2. Lounge
-- Exclusive tavern for Order members.
-- Round tables.
-- Mahogany liquor cabinets.
-- Heavy curtains and chandeliers.
-
-### A3. Bar
-- Staffed by trusted Order servants.
-- Stocks expensive drinks from across the Inner Sea.
-
-### A4. Gathering Room
-- Private meeting room.
-- Bookshelves and heavy drapes.
-- Frequently rented for private events.
-- Contains a box of Molthuni cigars.
-
-### A5. Conservatory
-- Large piano and crystal chandeliers.
-- Used for:
-  - Weddings
-  - Funerals
-  - Dancing
-  - Musical recitals
-- **Edjureus Modd** is usually found here.
-
-### A6. Trophy Hall
-- Displays:
-  - Paintings
-  - Sculptures
-  - Stuffed animal heads
-- Four stairways descend to the basement.
-- **Count Galdana** usually spends time here.
-
-### A7. Atrium Observatory
-- Open-air courtyard protected by a permanent **Wall of Force**.
-- Used for:
-  - Stargazing
-  - Astrological research
-- Floor runes project constellation images.
-
-### A8. Gallery
-- Former theater balcony.
-- Now used to observe:
-  - Initiation ceremonies
-  - Secret rituals
-- Overlooks the ceremonial chamber below.
-
-### A9. Storerooms
-- Stores furniture for special events.
-- Contains nothing valuable.
-
-### A10. Procession Hall
-- Decorated with the Order's creeds and inscriptions.
-- Used to assemble ceremonial processions.
-- Includes access to privies.
-
-### A11. Ceremonial Chamber
-- Main ritual chamber beneath the theater.
-- Visible from the Gallery above.
-- Used for:
-  - Secret meetings
-  - Initiations
-  - Esoteric rituals
-
-### A12. The Descending Spiral
-- Locked, ironbound door.
-- Superior Lock:
-  - Hardness 5
-  - HP 20
-  - Break DC 25
-  - Disable Device DC 40
-- Spiral staircase lined with hundreds of books.
-- Leads to the sub-basement and the Esoteric Vaults.
-
-### A13. Esoteric Vaults
-- The Order's secure archive of rare and valuable texts and relics.
-- Primary destination for the PCs.
-
-# A13. The Esoteric Vaults
-
-## Access
-
-The PCs may enter the Esoteric Vaults by:
-
-- Receiving permission from the **Esoteric Order**.
-- Being accompanied by **Abraun Chalest** if he agreed to help.
-- Breaking in while the theater is empty.
 
 ---
 
-## General Features
+# The Esoteric Vaults
 
-- The vaults contain the Order's collection of:
-  - Ancient books
-  - Scrolls
-  - Relics
-  - Statues
-  - Pottery
-  - Stone tablets
-- Every room counts as **Difficult Terrain** due to clutter.
+> If Players not able to access it via legal means, they can try breaking in later in the night
 
----
+The Esoteric Vaults are a network of cramped subterranean chambers filled with centuries of artifacts, records, and occult knowledge collected by the Esoteric Order.
 
-## Research Rules
+``` Description
+Piles of statuary, pottery, paintings, and art fill these chambers, clustered around large wooden crates, barrels, and narrow bookshelves full of ancient, musty tomes, with only narrow, meandering pathways between them. In the final vault to the east, a large worktable lies half-buried under piles of scrolls, books, and clay tablets, illuminated by magical work lights overhead.
+```
+
+
+
+## Environment
+
+- Every room is **difficult terrain** due to tightly packed:
+- Requires an Agility check if players want to move more than Very Close range in a single turn
+- On Failure, they fall down, and wont be able to move in this spotlight
+
+
+## Research
 
 The vaults can be used to research:
 
-- The Whispering Way
-- The Carrion Crown Poem
-- Raven's Head
-- Moribund Keys
+- The **Whispering Way**
+- The **Carrion Crown** poem
+- The **Raven's Head** mace -> The Sword?
+- The **Moribund Key** of the dullahan
 
 ### Library Benefits
 
-- Knowledge checks can be attempted **untrained**.
-- PCs with ranks in the required Knowledge skill gain a **+6 bonus**.
+- PCs may attempt the required **Knowledge** checks **untrained** while using the vaults.
+- If a PC has ranks in the appropriate Knowledge skill, they gain a **+6 circumstance bonus** on the check.
 - Each research attempt requires **1d6 hours**.
 
-### Alternative Researchers
+## Getting Help
 
-If the PCs do not wish to perform the research:
+If the PCs do not wish to perform the research themselves:
 
-- **Helpful Abraun Chalest** researches for them.
-- Otherwise, convince Chalest with another Diplomacy check.
-- Other Order scholars may be hired for **1,000 gp per day**.
+### Abraun Chalest
 
----
+- If **Helpful**, Abraun happily performs the research for them.
+- Otherwise, convincing him requires another **Diplomacy** check.
 
-# Research Topics
+### Hiring a Researcher
 
-## The Carrion Crown Poem
+The PCs may hire another member of the Esoteric Order.
 
-### DC 30 Knowledge (Arcana or Religion)
-
-Reveals:
-
-- The poem is actually a formula for creating a **lich**.
-- The ritual is tied to a specific individual (identity unknown).
-
-### DC 25 Knowledge (Arcana or Religion)
-
-Reveals:
-
-- The components collected by the Whispering Way.
-- Identifies **Raven's Head** as one of those components.
-
----
-
-## Raven's Head
-
-### DC 35 Spellcraft + Detect Magic
-
-- Identifies the mace's magical properties.
-
-### DC 20 Knowledge (History or Religion)
-
-**OR**
-
-### DC 30 Knowledge (Nobility)
-
-- Reveals the weapon's history.
-
-### Alternative
-
-- **Legend Lore** provides similar historical information.
-- Abraun Chalest can provide a **Scroll of Legend Lore** for the normal market price.
-
----
-
-## The Whispering Way
-
-Use:
-
-- Knowledge (Arcana)
-- Knowledge (Religion)
-
-The vaults can fill in any missing information the PCs have about the cult.
-
-### DC 30 Knowledge (Arcana or Religion)
-
-Reveals:
-
-- The existence of **Moribund Keys**.
-- Their connection to the Whispering Way.
-
----
-
-## Moribund Key
-
-### If the PCs possess the key
-
-#### DC 27 Spellcraft + Detect Magic
-
-- Identifies the key's magical properties.
-
-#### DC 30 Knowledge (Arcana or Religion)
-
-Reveals:
-
-- The purpose of Moribund Keys.
-- Their use by the Whispering Way.
-
-#### Legend Lore
-
-- Can reveal the same information.
-
-#### DC 40 Knowledge (History or Local)
-
-Discovers records of:
-
-- Several Whispering Way relics once hidden in Caliphas.
-- A **gargoyle statue** said to guide believers to the cult's hidden stronghold.
-
----
-
-### If the PCs do NOT possess the key
-
-While researching the Whispering Way:
-
-#### DC 40 Knowledge (History)
-
-Reveals:
-
-- The existence of Moribund Keys.
-- Their purpose.
-- The legend of the Caliphas gargoyle statue.
+- **Cost:** **1,000 gp per day**
