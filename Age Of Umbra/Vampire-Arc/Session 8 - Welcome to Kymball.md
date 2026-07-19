@@ -90,6 +90,10 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 - If Invited, no checks, otherwise **Deception DC 18 Check** to convince the guards
 
 
+```text
+The aged, stately structure of the Haraday Theater lies nestled among several shops. The rough wooden exterior bears the signs of numerous repairs and modifications, though it seemingly has need of many more. The building itself has two entrances, one to the west and another to the south, both illuminated by large, wall-mounted oil lamps. Well-dressed servants stand outside these doors, welcoming arriving carriages and turning away passersby who linger next to the glass windows of what appears to be a large meeting hall.
+```
+
 
 - While waiting, the PCs stay in:
   - **Lounge (Area A2)**, or
