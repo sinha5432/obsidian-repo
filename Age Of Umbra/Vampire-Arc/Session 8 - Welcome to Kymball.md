@@ -385,3 +385,7 @@ Dial the correct runes into the **Moribund Key** and place it over the statue's 
 	- Four Lichs appear in the corner of the room, Demading the fifth catechism of the Whispering Way
 	- Correct checks may reveal the answer being
 		- **“Undying form, undying opportunity.”**
+	- If not said this exact term, **4 bone devils** will spawn and fight will begin
+
+
+
