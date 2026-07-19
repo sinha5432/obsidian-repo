@@ -64,3 +64,12 @@ Additionally:
 Any **good-aligned** creature carrying the Moribund Key gains **looses 1 HP and 1 Hope slot** as long as the medallion is carried on you
 
 It cannot be removed or suppressed while the creature remains in possession of the key.
+
+
+
+# The God Slaying Sword
+
+
+User will be able to Smite
+
+Need to figure out numbers and how can it be activated

@@ -246,26 +246,142 @@ The vaults can be used to research:
 
 - The **Whispering Way**
 - The **Carrion Crown** poem
-- The **Raven's Head** mace -> The Sword?
+- The **Raven's Head** mace -> The Sword!!
 - The **Moribund Key** of the dullahan
 
-### Library Benefits
 
-- PCs may attempt the required **Knowledge** checks **untrained** while using the vaults.
-- If a PC has ranks in the appropriate Knowledge skill, they gain a **+6 circumstance bonus** on the check.
 - Each research attempt requires **1d6 hours**.
 
 ## Getting Help
 
 If the PCs do not wish to perform the research themselves:
 
-### Abraun Chalest
+##### Abraun Chalest
 
 - If **Helpful**, Abraun happily performs the research for them.
 - Otherwise, convincing him requires another **Diplomacy** check.
 
-### Hiring a Researcher
+##### Hiring a Researcher
 
 The PCs may hire another member of the Esoteric Order.
 
 - **Cost:** **1,000 gp per day**
+
+
+### The Carrion Crown Poem
+
+
+- Recognize that the poem is actually a **formula for creating a lich's magical elixir**.
+- Determine that the formula is **tied to a specific individual**, though that person's identity remains unknown.
+
+- **DC 25** Knowledge (Arcana) or Knowledge (Religion)
+  - Identify the specific ritual components collected by the **Whispering Way**.
+  - Includes the relic mace **Raven's Head** -> The God Slaying Sword!
+
+### The God Slaying Sword
+
+
+- **DC 35** Spellcraft (while using **detect magic**)
+  - Identify the weapon's magical properties.
+
+- **DC 20** Knowledge (History) or Knowledge (Religion)
+  - Learn the mace's history (see **Book 4 (*Wake of the Watcher*), p. 55**).
+
+- **DC 30** Knowledge (Nobility)
+  - Also reveals the weapon's history.
+
+- **Legend Lore**
+  - Reveals much of the same historical information.
+  - If the PCs cannot cast the spell, **Abraun Chalest** can provide a **scroll of *legend lore*** from the Order's collection at the standard market price.
+### The Whispering Way
+
+
+- **Primary Skills**
+  - Knowledge (Arcana)
+  - Knowledge (Religion)
+
+- **Reference**
+  - You may also provide additional lore from **"The Whispering Way"** in **Book 3 (*Broken Moon*)**.
+
+### The Moribund Key
+
+If the PCs recovered the **Moribund Key** from the dullahan **Barliss Rask**, they can research it in the **Esoteric Vaults**.
+
+- **Detect Magic + DC 27 Spellcraft**
+  - Identify the key's magical properties.
+
+- **DC 30** Knowledge (Arcana) or Knowledge (Religion)
+  - Learn the purpose of **Moribund Keys**.
+  - Discover their connection to the **Whispering Way**.
+
+- **Legend Lore**
+  - Reveals the same information about the key and its purpose.
+
+- **After learning the key's function**
+  - **DC 40** Knowledge (History) or Knowledge (Local)
+    - Discover records of several items once hidden by the Whispering Way in **Caliphas**.
+    - Learn of a **gargoyle statue** said to guide believers to the cult's hidden stronghold within the city.
+
+#### If the PCs do **not** possess the Moribund Key
+
+The PCs can still uncover information while researching the **Whispering Way**.
+
+- **DC 40** Knowledge (History)
+  - Discover references to **Moribund Keys**, their purpose, and the **Caliphas gargoyle statue**.
+
+
+### The Whispering Gargoyle (CR 13)
+
+After researching the **Moribund Key**, the PCs will likely seek the gargoyle statue rumored to lead to the **Whispering Way's** hidden stronghold.
+
+#### Locating the Statue
+
+- **With Abraun Chalest's Help**
+  - If the PCs share their findings, **Abraun Chalest** recognizes the sketches of the gargoyle.
+  - He recalls an identical statue stored within the **Esoteric Vaults**.
+  - The statue was salvaged from a mausoleum after **Caliphas** relocated its cemetery during the city's expansion.
+
+- **Searching the Vaults**
+  - **DC 30 Perception**
+    - Locate the gargoyle among the Esoteric Vaults' crowded collection.
+
+Once the PCs discover the statue, read or paraphrase the following description.\
+
+
+```
+Half-covered by a fallen tapestry, a hideous stone gargoyle crouches upon a solid block of rough-hewn black granite.
+Its wings lie folded over its back, their sharp spurs reaching almost to the 10-foot-high ceiling overhead.
+The statue’s claws, teeth, and strangely protruding ribs all appear crafted from iron. A carved necklace with a skull-shaped medallion bearing curious runes along its outer edge hangs upon the gargoyle’s chest
+```
+
+
+### Activating the Whispering Gargoyle
+
+- **Detect Magic + DC 23** Knowledge (Arcana)
+  - The statue radiates **strong Abjuration** and **Illusion** magic.
+  - The runes on its medallion reveal the correct rune combination for a **Moribund Key**.
+
+- **Without a Moribund Key**
+  - **DC 25 Use Magic Device**
+    - Activate the statue without the key.
+
+#### Activation
+
+Dial the correct runes into the **Moribund Key** and place it over the statue's medallion.
+
+- Triggers a **Programmed Image** lasting **13 rounds**.
+- The illusion displays an aerial view of **ancient Caliphas**.
+- A single building glows with an eerie green light, marking the location of the **Whispering Way's hidden stronghold**.
+- The stronghold predates the **Shining Crusade**.
+
+
+  - Identify the highlighted building as the **Quarterfaux Archives** in **Kymball**.
+
+- **Abraun Chalest**
+	- If present, he recognizes the location automatically.
+
+
+- **Trap**
+	- Four Lichs appear in the corner of the room, Demading the fifth catechism of the Whispering Way
+	- Correct checks may reveal the answer being
+		- **“Undying form, undying opportunity.”**
