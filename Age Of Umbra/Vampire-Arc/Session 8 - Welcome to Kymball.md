@@ -17,9 +17,11 @@ The air is damp, thick with the scent of decay, and beneath the silence comes th
 ### Once Horseman Dies
 
 You expected him to turn to dust, or, smoke, but his corpse stays
-If people look for something on him, they will find 15 Handful of Gold coins, and a Diary
+If people look for something on him, they will find 
+- 15 Handful of Gold coins
+- the Moribund Key
+- A Diary containing Carrion Crown poem
 
-The Diary will contain Carrion Crown poem
 
 ---
 
@@ -94,8 +96,8 @@ Well-dressed nobles walk with armed escorts, while common folk keep to themselve
 - If the PCs are invited, they enter without issue.
 - Otherwise, they must succeed on a **DC 18 Deception** check to convince the guards.
 
-> **Read Aloud**
->
+ **Read Aloud**
+
 > The aged, stately structure of the Haraday Theater lies nestled among several shops. The rough wooden exterior bears the signs of numerous repairs and modifications, though it seemingly has need of many more. The building itself has two entrances, one to the west and another to the south, both illuminated by large, wall-mounted oil lamps. Well-dressed servants stand outside these doors, welcoming arriving carriages and turning away passersby who linger next to the glass windows of what appears to be a large meeting hall.
 
 > **GM Note:** Create a countdown tracker for how many influential members the PCs convince during the evening.
