@@ -25,12 +25,3 @@
 
 ---
 
-### Inspirations
-
-| Player        | Inspiration |
-| :------------ | ----------: |
-| **Bayaz**     |           0 |
-| **MoonChild** |           0 |
-| **Josh**      |           0 |
-| **Spectre**   |           0 |
-| **Fulf**      |           5 |

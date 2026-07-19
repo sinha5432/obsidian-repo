@@ -248,6 +248,7 @@ The vaults can be used to research:
 - The **Carrion Crown** poem
 - The **Raven's Head** mace -> The Sword!!
 - The **Moribund Key** of the dullahan
+- The **Vampiric transformation**
 
 
 - Each research attempt requires **1d6 hours**.
@@ -265,7 +266,51 @@ If the PCs do not wish to perform the research themselves:
 
 The PCs may hire another member of the Esoteric Order.
 
-- **Cost:** **1,000 gp per day**
+- **Cost:** 2 handfuls per day**
+
+
+### The Vampiric transformation
+
+- Generic information is present about 
+	- How one **becomes a vampire** : Get bitten by a Vampire lord, you will have topledge your allegiance to them and doing anything against their orders, or trying to kill them, will result in mental and physical tortures
+	- There are ways to remove this dependency, not sure how
+	- Generic information about what vampires can/cannot do, which is common knowledge at this point
+- For centuries an unofficial agreement has existed between influential mortals and vampire elders.
+
+
+##### Society
+- Vampires used to live in **Kymball** but around a century ago, were pushed to northern domains after the battle with the **Wispering Tyrant**
+- They are wealthy, influential, and deeply embedded within the city's nobility.
+- Most common citizens are unaware of their existence. They nowadays are mostly a forgotten past
+##### The Accord
+- An unofficial agreement exists between vampire elders and mortal authorities:
+  - Vampires keep feeding discreet and avoid public massacres.
+  - Authorities largely ignore their presence.
+##### Politics
+- Vampires are divided into rival **houses, bloodlines, and factions**, not a single organization.
+- Elder vampires wield power through wealth, influence, and mortal agents rather than open force.
+- Reputation, lineage, and favors are highly valued.
+##### Spawn & Servants
+- Vampire spawn are usually expendable servants or soldiers.
+- Trusted mortals often serve vampires as bodyguards, advisors, cultists, or household staff, sometimes in exchange for promises of immortality.
+##### Feeding
+- Feeding is governed by strict social etiquette:
+  - Avoid unnecessary deaths.
+  - Rotate victims.
+  - Leave no evidence.
+  - Don't attract attention.
+- A reckless vampire endangers the entire community.
+
+##### Religion
+- Many vampires worship **Urgathoa**, goddess of undeath and excess.
+- Others are irreligious or pursue personal ambitions.
+
+##### Count Galdana
+- An ancient and influential vampire elder.
+- More concerned with preserving stability than senseless bloodshed.
+- Can become an uneasy ally of the PCs.
+
+
 
 
 ### The Carrion Crown Poem
@@ -277,6 +322,10 @@ The PCs may hire another member of the Esoteric Order.
 - **DC 25** Knowledge (Arcana) or Knowledge (Religion)
   - Identify the specific ritual components collected by the **Whispering Way**.
   - Includes the relic mace **Raven's Head** -> The God Slaying Sword!
+
+
+
+
 
 ### The God Slaying Sword
 
