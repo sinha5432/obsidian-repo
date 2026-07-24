@@ -17,7 +17,7 @@
 ![[The Underdark bloodborne-1784914080645.webp|244x146]]
 
 
--> They are greeted by a guy in Wheelchair
+-> They are greeted by a guy, carrying a scythe, who claims used to be a farmer, His brother and daughter but now helps the Church and Clergymen
 
 -> They find an NPC (crow?) which tells them that this place is like a nightmare...the citizens are trapped in some sort of loop, and the only way to end it is by external forces
 
