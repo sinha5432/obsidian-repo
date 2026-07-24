@@ -1,8 +1,23 @@
 
+-> Ovarall story resonates the starting of Bloodborne, when Yharnam was a prospering city
+-> Most folks right now enjoy the hospitality and the cure for pretty much everything
 
--> PCs discover that some weird creatures have been seen where they sealed off the Underdark exit
 
--> When they go there, they find a city, akin to bloodborne, buried underground
+-> A Clergyman Visits them, claiming and boasting about this place's healing affects
+
+> WRITE WHAT HE SAYS HERE
+
+![[The Underdark bloodborne-1784911963498.webp|139x248]]
+
+
+-> The city they will go to: **Ythryn** (tentative)
+
+
+-> When they go there, they find a city, akin to bloodborne
+![[The Underdark bloodborne-1784914080645.webp|244x146]]
+
+
+-> They are greeted by a guy in Wheelchair
 
 -> They find an NPC (crow?) which tells them that this place is like a nightmare...the citizens are trapped in some sort of loop, and the only way to end it is by external forces
 
