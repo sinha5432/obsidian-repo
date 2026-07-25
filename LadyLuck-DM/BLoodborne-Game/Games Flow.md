@@ -1,5 +1,7 @@
 -> ~~A Clergyman Visits them, claiming and boasting about this place's healing affects~~
 
+![[Games Flow-1784988976753.webp|179x268]]
+
 -> They see a quest post note about the place, asking for help, suggesting something weird is going on in the place.
 
 > WRITE WHAT HE SAYS HERE
