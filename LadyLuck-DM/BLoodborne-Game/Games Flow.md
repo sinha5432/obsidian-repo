@@ -19,4 +19,4 @@
 -> They are greeted by a guy, carrying a scythe, who claims used to be a farmer, His brother and daughter but now helps the Church and Clergymen
 
 
--> Today, a new Vicar is being chosen, and on the occasion of so and so, all the 
+-> Today, a new Vicar is being chosen, and on the occasion of so and so, everyone is being invited and is present at 
