@@ -7,5 +7,3 @@ Backstory:
 - He was supposed next ruler of kingdom
 - He is from Hlurthesera, Matheluna
 - I am member of White Lotus
-
-- Defiance: 
