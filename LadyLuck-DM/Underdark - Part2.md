@@ -9,7 +9,7 @@
 - The ancestors of people who decided to live here were made to sign on a pact years ago, and their successors will now pay the price
 - The pact said, no Underdark creature shall step foot on these lands. It was broken.
 - Soul of the monarch is still here, players will have to go into underdark, find the place where the soul of monarch is burried and slay it
-- There is actually a cult who follows this, and 
+- There is actually a cult who follows this, and thats how players will find out about the notes and stuff
 
 [SourcePDF](file:///C:/Users/Manas/Downloads/-%20The%20Revenant%20King%20-%20The%20Homebrewery.pdf)
 
