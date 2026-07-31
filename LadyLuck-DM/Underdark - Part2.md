@@ -25,5 +25,11 @@ run this sheet -> Blackguard Kingslayer
 
 
 
+
 They defeat him and are re-directed towards city Mayor, who is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
+
+
+Players notice someone controlling them from a distance, just a paid of red eyes, something hidden in darkness stares into their soul, and after a saving throw, fill them with dread
+
+Monster to run for this: Caller in Darkness
 
