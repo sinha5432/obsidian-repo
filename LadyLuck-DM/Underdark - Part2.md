@@ -36,3 +36,4 @@ Players notice someone controlling them from a distance, just a paid of red eyes
 Monster to run for this: Caller in Darkness
 
 **Ask for player's fears!!!**
+Check Czepeku's Gothic pack
