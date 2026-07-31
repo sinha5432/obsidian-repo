@@ -12,4 +12,9 @@
 Guy comes to tavern asking for help regarding this situation
 The NPCs are very vigilant, no one wants to tell anyone anything
 PCs are directed towards the local police, they might be able to attack them
-When they
+
+
+When they reach there a Police officer attacks them, turning into some Grotesque?
+
+They defeat him and are re-directed towards city Mayor, who is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
+
