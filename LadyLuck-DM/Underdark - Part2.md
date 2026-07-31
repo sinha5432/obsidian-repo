@@ -6,3 +6,7 @@
 - We have contacted Shamans, Magicians, Wizards, and what not. None of them were able to figure out why this is happening, from where they are coming, or even who they are
 
 - Monster to run: Uvuudaum
+
+
+
+Guy com
