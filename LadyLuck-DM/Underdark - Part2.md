@@ -21,6 +21,8 @@ PCs are directed towards the local police, they might be able to attack them
 
 When they reach there a Police officer attacks them. His face and above neck feels perfectly good, he is able to get into his own senses for a round if I roll an 8 on a d8
 
+-> Need to send the players on some errands before they end up in a police station?
+
 run this sheet -> Blackguard Kingslayer
 
 
@@ -33,3 +35,4 @@ Players notice someone controlling them from a distance, just a paid of red eyes
 
 Monster to run for this: Caller in Darkness
 
+**Ask for player's fears!!!**
