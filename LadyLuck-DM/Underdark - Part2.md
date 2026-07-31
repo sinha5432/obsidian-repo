@@ -9,4 +9,7 @@
 
 
 
-Guy com
+Guy comes to tavern asking for help regarding this situation
+The NPCs are very vigilant, no one wants to tell anyone anything
+PCs are directed towards the local police, they might be able to attack them
+When they
