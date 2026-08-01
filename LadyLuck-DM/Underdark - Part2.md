@@ -24,11 +24,26 @@ A Guy approaches the tavern asking for help regarding this situation, saying his
 - He looks de-hydrated, his voice feels harsh
 - Sleep deprived as well
 - He has blood on his body, specifically on his legs. Not sure whose it might be
-- He is a Carpenter. 
+- He is a Carpenter
+- Name is --------------
 
 ![[Underdark - Part2-1785576917302.webp|128x240]]
 
-The NPCs are very vigilant, no one wants to tell anyone anything
+
+
+
+The Townsfolks are very vigilant, no one wants to tell anyone anything
+The asks them to hurry back home. His Mother in-law will be coming soon to pickup the children soon, but meanwhile, maybe options:
+
+1. Police Station -> The guy comes with them, they all turn and fight the party there
+2. Investigate the house -> Just the guy turns and tries to attack players, then players hear some loud screaming noises from outside
+
+
+
+
+
+
+
 PCs are directed towards the local police, they might be able to attack them
 
 
@@ -44,7 +59,7 @@ run this sheet -> Blackguard Kingslayer
 They defeat him and are re-directed towards city Mayor, who is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
 
 
-Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance]
+Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance
 
 When they dig up the place and try to go back in, the find this darkness of souls present as a barrier between underdark and our place,  which seem ot be feeding of fear and controlling people
 
