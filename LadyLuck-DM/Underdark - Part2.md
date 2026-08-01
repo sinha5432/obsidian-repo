@@ -31,7 +31,9 @@ run this sheet -> Blackguard Kingslayer
 They defeat him and are re-directed towards city Mayor, who is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
 
 
-Players notice someone controlling them from a distance, just a paid of red eyes, something hidden in darkness stares into their soul, and after a saving throw, fill them with dread
+Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance]
+
+When they dig up the place and try to go back in, the find this darkness of souls present as a barrier between underdark and our place,  which seem ot be feeding of fear and controlling people
 
 Monster to run for this: Caller in Darkness
 
