@@ -19,6 +19,11 @@
 - They kill a vampire spawn, and once dead, her skin colour seem to have been returned to be a normal woman
 - Aramus is gasping on this
 
+
+- Battle continues
+- Weird fart jokes?
+- They start discussing stuff among themselves as DM gives them radiant damage information
+
 ---
 ### Ragaroth
 
@@ -44,6 +49,10 @@
 - Tells me someone else from my realm is here as well
 - He wants me to invite them to his castle, for Dinner
 - He wants me to make my way towards Barovia as they might not survive, and I do so
+
+
+- As I am riding towards the Village,a face forms in mist, Strahd speaks to me
+- 
 
 ---
 
