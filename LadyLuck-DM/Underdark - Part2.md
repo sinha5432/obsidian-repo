@@ -3,10 +3,11 @@
 - It feels like they have seen creatures, similar to humanoid, but then they proceeded to see them attack and eat one of their owns, in a very gruesome way 
 - Tensions in the village is spiking, people have started suspecting their neighbours, have stopped sleeping in order to protect themselves. How long it will be before they start to turn on their family, their children, themselves?
 
-- We have contacted Shamans, Magicians, Wizards, and what not. None of them were able to figure out why this is happening, from where they are coming, or even who they are
+
 
 
 - The ancestors of people who decided to live here were made to sign on a pact years ago, and their successors will now pay the price
+
 - The pact said, no Underdark creature shall step foot on these lands. It was broken.
 - Soul of the monarch is still here, players will have to go into underdark, find the place where the soul of monarch is burried and slay it
 - There is actually a cult who follows this, and thats how players will find out about the notes and stuff
@@ -14,7 +15,13 @@
 [SourcePDF](file:///C:/Users/Manas/Downloads/-%20The%20Revenant%20King%20-%20The%20Homebrewery.pdf)
 
 
-Guy comes to tavern asking for help regarding this situation
+Its evening time, the twilight period on one side of the sky you are able to see
+
+
+A Guy approaches the tavern asking for help regarding this situation
+
+![[Underdark - Part2-1785576917302.webp|128x240]]
+
 The NPCs are very vigilant, no one wants to tell anyone anything
 PCs are directed towards the local police, they might be able to attack them
 
