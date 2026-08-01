@@ -18,7 +18,13 @@
 Its evening time, the twilight period on one side of the sky you are able to see
 
 
-A Guy approaches the tavern asking for help regarding this situation
+A Guy approaches the tavern asking for help regarding this situation, saying his wife has been missing. Something weird is going on in his town, people are turning on each other, something external is influencing the town....he fears for his life
+
+- He looks like he has been walking since multiple hours.
+- He looks de-hydrated, his voice feels harsh
+- Sleep deprived as well
+- He has blood on his body, specifically on his legs. Not sure whose it might be
+- He is a Carpenter. 
 
 ![[Underdark - Part2-1785576917302.webp|128x240]]
 
