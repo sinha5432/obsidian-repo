@@ -16,6 +16,8 @@
 - Decent RP before combat?
 - Combat ensues
 - They are holding
+- They kill a vampire spawn, and once dead, her skin colour seem to have been returned to be a normal woman
+- Aramus is gasping on this
 
 ---
 ### Ragaroth
