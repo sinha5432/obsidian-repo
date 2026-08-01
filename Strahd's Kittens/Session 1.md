@@ -30,7 +30,18 @@
 - They are fleeing from Barovia, towards Valaki
 - They ask me to go to Valaki with them as well, as it isn't safe here
 
+- I recall a convo with my ally, who had suggested me to not take anyone in my place in night, and if do, kill at least one of them
 
-- 
+
+- I hear a knock on door again, its Count Strahd
+- I refer him as "Mr. Strahd"
+- He tells me, he doesnt know how I got here, but as long as I am here I am his guest
+- He has connected with me several times before, has even tried to invite me to dinner before
+- He has never told a single lie to me
+- He gives me a coin, a coin which was printed 5 years ago, which was stolen
+- Tells me someone else from my realm is here as well
+- He wants me to invite them to his castle, for Dinner
+- He wants me to make my way towards Barovia as they might not survive, and I do so
 
 ---
+
