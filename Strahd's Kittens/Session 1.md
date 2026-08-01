@@ -18,7 +18,7 @@
 - They are holding
 
 ---
-### Cut to Ragaroth
+### Ragaroth
 
 - I hear a knock on door in night over my make-shift hut, its a family of 4
 - I let them in, even though I know i shouldn't, maybe it was kindness
