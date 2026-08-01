@@ -52,7 +52,7 @@
 
 
 - As I am riding towards the Village,a face forms in mist, Strahd speaks to me
-- 
 
 ---
 
+### The arrival
