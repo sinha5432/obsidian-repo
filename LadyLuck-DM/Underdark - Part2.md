@@ -21,6 +21,8 @@ Its evening time, the twilight period on one side of the sky you are able to see
 A Guy approaches the tavern asking for help regarding this situation, saying his wife has been missing. 
 Something weird is going on in his town, people are turning on each other. Is someone spreading mis-information?, is the Town Chief behind all this?
 
+His financial situation isnt 
+
 - He looks like he has been walking since multiple hours.
 - He looks de-hydrated, his voice feels harsh
 - Sleep deprived as well
@@ -54,7 +56,12 @@ He goes ahead and hugs the kid
 PCs are directed towards the village chief's place,
 They are there confronted by 2 guard up front, maybe more/less
 
-When they reach there, when they are talking with Chieftan, a guard just goes near the chief, and snaps his neck.
+
+Chieftain is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
+
+When they reach there, when they are talking with Chieftain, a guard just goes near the chief, and snaps his neck.
+
+
 
 Fight ensues
 
@@ -62,16 +69,6 @@ Fight ensues
 run this sheet -> Blackguard Kingslayer
 
 
-
-
--> Need to send the players on some errands before they end up in a police station?
-
-
-
-
-
-
-They defeat him and are re-directed towards city Mayor, who is an asshole and considers that people are just like that, they murder each other, they kill each other, there's nothing new they are doing right now
 
 
 Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance
