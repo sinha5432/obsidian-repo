@@ -66,4 +66,11 @@ When they dig up the place and try to go back in, the find this darkness of soul
 Monster to run for this: Caller in Darkness
 
 **Ask for player's fears!!!**
-Check Czepeku's Gothic pack
+
+- **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her.
+- **Verse**: Being left alone/behind, Failing at magic/magic he relies in failing inexplicably
+
+
+Its the town of **Uluvin**
+
+![[Underdark - Part2-1785657530906.webp]]
