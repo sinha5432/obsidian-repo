@@ -66,7 +66,7 @@ When they reach there, when they are talking with Chieftain, a guard just goes n
 Fight ensues
 
 **BALANCE THIS FIGHT**
-run this sheet -> Blackguard Kingslayer
+run this sheet -> [Blackguard Kingslayer](https://5e.tools/bestiary.html#blackguard%20kingslayer_hb)
 
 
 
@@ -75,7 +75,7 @@ Players notice a magical presence emitting from underground, around 60 ft deep, 
 
 When they dig up the place and try to go back in, the find this darkness of souls present as a barrier between underdark and our place,  which seem to be feeding of fear and controlling people
 
-Monster to run for this: Caller in Darkness
+Monster to run for this: [Caller in Darkness](https://5e.tools/bestiary.html#caller%20in%20darkness_hb)
 
 **Player's fears:**
 
