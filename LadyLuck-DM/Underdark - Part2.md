@@ -48,27 +48,25 @@ He suggests, that he should stay with the kid, take care of him for a while. Whe
 
 He goes ahead and hugs the kid
 
-Now he needs to stay here and take care of the kid a little bit. 
-But suggests the party members to visit the Village Chief's place. 
-
-
-1. Police Station -> The guy comes with them, they all turn and fight the party there
-2. Investigate the house -> Just the guy turns and tries to attack players, then players hear some loud screaming noises from outside
 
 
 
+PCs are directed towards the village chief's place,
+They are there confronted by 2 guard up front, maybe more/less
+
+When they reach there, when they are talking with Chieftan, a guard just goes near the chief, and snaps his neck.
+
+Fight ensues
+
+**BALANCE THIS FIGHT**
+run this sheet -> Blackguard Kingslayer
 
 
 
-
-PCs are directed towards the local police, they might be able to attack them
-
-
-When they reach there a Police officer attacks them. His face and above neck feels perfectly good, he is able to get into his own senses for a round if I roll an 8 on a d8
 
 -> Need to send the players on some errands before they end up in a police station?
 
-run this sheet -> Blackguard Kingslayer
+
 
 
 
