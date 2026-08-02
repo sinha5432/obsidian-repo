@@ -28,10 +28,11 @@ Something weird is going on in his town, people are turning on each other. Is so
 - He is a Carpenter
 - Name is **Richard**
 
-![[Underdark - Part2-1785576917302.webp|128x240]]
+![[Underdark - Part2-1785576917302.webp|185x347]]
 
 
-
+Village Chief:
+![[Underdark - Part2-1785666056423.webp|254x370]]
 
 
 The Townsfolks are very vigilant, no one wants to tell anyone anything
