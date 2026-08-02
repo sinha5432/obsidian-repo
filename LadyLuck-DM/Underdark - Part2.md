@@ -21,7 +21,7 @@ Its evening time, the twilight period on one side of the sky you are able to see
 A Guy approaches the tavern asking for help regarding this situation, saying his wife has been missing. 
 Something weird is going on in his town, people are turning on each other. Is someone spreading mis-information?, is the Town Chief behind all this?
 
-His financial situation isnt 
+His financial situation hasn't been the best
 
 - He looks like he has been walking since multiple hours.
 - He looks de-hydrated, his voice feels harsh
