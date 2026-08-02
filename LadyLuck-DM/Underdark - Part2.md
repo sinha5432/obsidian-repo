@@ -12,8 +12,8 @@
 - Soul of the monarch is still here, players will have to go into underdark, find the place where the soul of monarch is burried and slay it
 - There is actually a cult who follows this, and thats how players will find out about the notes and stuff
 
-[SourcePDF](file:///C:/Users/Manas/Downloads/-%20The%20Revenant%20King%20-%20The%20Homebrewery.pdf)
-
+[SourcePDF1](file:///C:/Users/Manas/Downloads/-%20The%20Revenant%20King%20-%20The%20Homebrewery.pdf)
+[SourcePDF2](file:///C:/Users/Manas/Downloads/-%20Death%20Denied_%20The%20Book%20of%20the%20Undead%20-%20The%20Homebrewery.pdf)
 
 Its evening time, the twilight period on one side of the sky you are able to see
 
@@ -42,6 +42,12 @@ The kid looks distressed, waiting in front of an unlit fireplace.
 Probably has been eating dried jerky as you see a few of them placed nearby
 
 He suggests, that he should stay with the kid, take care of him for a while. When he realised that his wife was missing, he couldn't help himself but to hurry up towards the adventuring party.....he has been taking lifts whenever possible.....but majority of it was just running
+
+
+He goes ahead and hugs the kid
+
+Now he needs to stay here and take care of the kid a little bit. 
+But suggests the party members to visit the Village Chief's place. 
 
 
 1. Police Station -> The guy comes with them, they all turn and fight the party there
