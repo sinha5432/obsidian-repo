@@ -25,9 +25,10 @@ A Guy approaches the tavern asking for help regarding this situation, saying his
 - Sleep deprived as well
 - He has blood on his body, specifically on his legs. Not sure whose it might be
 - He is a Carpenter
-- Name is --------------
+- Name is **Richard**
 
 ![[Underdark - Part2-1785576917302.webp|128x240]]
+
 
 
 
