@@ -70,8 +70,9 @@ Monster to run for this: Caller in Darkness
 
 - **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her.
 - **Verse**: Being left alone/behind, Failing at magic/magic he relies in failing inexplicably
-- **Lilani**: Being isolated/left alone, losing her loved ones.
+- **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
 - **Shazgob**’s Fear: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
+
 
 
 Its the town of **Uluvin**
