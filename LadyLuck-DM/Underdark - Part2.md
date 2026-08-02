@@ -26,13 +26,15 @@ Something weird is going on in his town, people are turning on each other. Is so
 - Sleep deprived as well
 - He has blood on his body, specifically on his legs. Not sure whose it might be
 - He is a Carpenter
-- Name is **Richard**
+- Name is **Robert**
 
 ![[Underdark - Part2-1785576917302.webp|185x347]]
 
 
-Village Chief:
+Village Chief:!
 ![[Underdark - Part2-1785666056423.webp|254x370]]
+![[Underdark - Part2-1785671308523.webp]]
+
 
 
 The Townsfolks are very vigilant, no one wants to tell anyone anything
