@@ -18,7 +18,8 @@
 Its evening time, the twilight period on one side of the sky you are able to see
 
 
-A Guy approaches the tavern asking for help regarding this situation, saying his wife has been missing. Something weird is going on in his town, people are turning on each other, something external is influencing the town....he fears for his life
+A Guy approaches the tavern asking for help regarding this situation, saying his wife has been missing. 
+Something weird is going on in his town, people are turning on each other. Is someone spreading mis-information?, is the Town Chief behind all this?
 
 - He looks like he has been walking since multiple hours.
 - He looks de-hydrated, his voice feels harsh
@@ -34,7 +35,12 @@ A Guy approaches the tavern asking for help regarding this situation, saying his
 
 
 The Townsfolks are very vigilant, no one wants to tell anyone anything
-The asks them to hurry back home. His Mother in-law will be coming soon to pickup the children soon, but meanwhile, maybe options:
+
+He takes them back to his place...where his kid is waiting
+The kid looks distressed, waiting in front of an unlit fireplace.
+
+He suggests, that he should stay with the kid
+
 
 1. Police Station -> The guy comes with them, they all turn and fight the party there
 2. Investigate the house -> Just the guy turns and tries to attack players, then players hear some loud screaming noises from outside
@@ -62,7 +68,7 @@ They defeat him and are re-directed towards city Mayor, who is an asshole and co
 
 Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance
 
-When they dig up the place and try to go back in, the find this darkness of souls present as a barrier between underdark and our place,  which seem ot be feeding of fear and controlling people
+When they dig up the place and try to go back in, the find this darkness of souls present as a barrier between underdark and our place,  which seem to be feeding of fear and controlling people
 
 Monster to run for this: Caller in Darkness
 
