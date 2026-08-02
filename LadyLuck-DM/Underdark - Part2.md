@@ -39,8 +39,9 @@ The Townsfolks are very vigilant, no one wants to tell anyone anything
 
 He takes them back to his place...where his kid is waiting
 The kid looks distressed, waiting in front of an unlit fireplace.
+Probably has been eating dried jerky as you see a few of them placed nearby
 
-He suggests, that he should stay with the kid
+He suggests, that he should stay with the kid, take care of him for a while. When he realised that his wife was missing, he couldn't help himself but to hurry up towards the adventuring party.....he has been taking lifts whenever possible.....but majority of it was just running
 
 
 1. Police Station -> The guy comes with them, they all turn and fight the party there
