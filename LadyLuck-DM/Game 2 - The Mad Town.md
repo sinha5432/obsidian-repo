@@ -80,9 +80,9 @@ Monster to run for this: [Caller in Darkness](https://5e.tools/bestiary.html#cal
 **Player's fears:**
 
 - **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her.
-- **Verse**: Being left alone/behind, Failing at magic/magic he relies in failing inexplicably
+- **Terror**: Terror fears not being able to be herself . Like she loves herself so much and the way she is , that her fear is something mite happen to constraint her freedom of self . Or her forgetting who she is and getting lost in the extremely traumatic life she leads
 - **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
-- **Shazgob**’s Fear: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
+- **Shazgob**: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
 
 
 
