@@ -83,11 +83,14 @@ Monster to run for this: [Caller in Darkness](https://5e.tools/bestiary.html#cal
 	- -> Imagines entire life with wife then sees wife leaving him
 
 - **Terror**: Terror fears not being able to be herself . Like she loves herself so much and the way she is , that her fear is something might happen to constraint her freedom of self . Or her forgetting who she is and getting lost in the extremely traumatic life she leads
-	- 
+	- Terror sees herself abducted, and forced to follow commands of their captors
 
 - **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
+	- Everyone is moving away, they see their love
+	- Zahira sees them hitting Lilani, vice versa
 
 - **Shazgob**: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
+	- Realisation hits you that there is no heaven, its just darkness and abyss
 
 
 
