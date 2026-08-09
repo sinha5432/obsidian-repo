@@ -68,7 +68,7 @@ Fight ensues
 **BALANCE THIS FIGHT**
 run this sheet -> [Blackguard Kingslayer](https://5e.tools/bestiary.html#blackguard%20kingslayer_hb)
 
-
+City: Uluvin
 
 
 Players notice a magical presence emitting from underground, around 60 ft deep, not as deep as underdark, but almost at the edge of underdark entrance
