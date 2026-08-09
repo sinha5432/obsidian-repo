@@ -1,20 +1,19 @@
-
-- The land of Scyndos
-- Sky split, facttured
-- Rain fell upward??, Plaghue and land eveerywhere?
+## Lore:
+- The name of the land is Scyndos
+- Sky split, fractured
+- Rain fell upward, Plague and land everywhere
 - No God responded
 - Earth split opened!, and left a permanent scars
-- As fracture threateaned to swallow, "Bearer", held it together
-- We dont know nature of Beared'
+- As fracture threatened to swallow, "Bearer", held it together
+- We don't know nature of this creature called "Bearer"
 - Happened a century ago
-- Folks sacrificed on scraps and reources are dindling
-- Humanity is dumb, didnt learn anything
-- Astranger arrived after 103 years, she was blessed with magic, order to chaos
+- Folks sacrificed on scraps and resources are dwindling
+- Humanity is dumb, didn't learn anything
+- A Stranger arrived after 103 years, she was blessed with magic, order to chaos
 - She spent 12 years building a new flame for this broken land
 - The order of balance lit dawn of new world
 - 4 pillars bowed to her, The pillars:
-
-	- The ledger
+	- Ledger
 	- Reverence
 	- Coin
 	- Survival
@@ -30,5 +29,18 @@
 - Generation thought peace was everlasting, until one day illusion broke
 - after 12 years, rumours started to spread, 7 perople Vanished randomly
 - every 12 harvest 7 people go missing now, they are called "The Called"
-- Marked by sigil of Neer?
+- Marked by sigil of Nyr?
 - The event is called Reckoning, this is the call
+
+
+---
+
+## Mechanical Stuff:
+
+- Factions PDF will; be shared soon
+- Main race is humanoid
+- If we are choosing a background other than default ones, we can discuss with DM
+- We will not be starting in Scyndos
+- We are starting at lvl 5
+- Teeth of Dawn isn't available as active settlement
+
