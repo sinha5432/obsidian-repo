@@ -1,6 +1,34 @@
 
+- The land of Scyndos
 - Sky split, facttured
 - Rain fell upward??, Plaghue and land eveerywhere?
 - No God responded
 - Earth split opened!, and left a permanent scars
-- 
+- As fracture threateaned to swallow, "Bearer", held it together
+- We dont know nature of Beared'
+- Happened a century ago
+- Folks sacrificed on scraps and reources are dindling
+- Humanity is dumb, didnt learn anything
+- Astranger arrived after 103 years, she was blessed with magic, order to chaos
+- She spent 12 years building a new flame for this broken land
+- The order of balance lit dawn of new world
+- 4 pillars bowed to her, The pillars:
+
+	- The ledger
+	- Reverence
+	- Coin
+	- Survival
+- She left us after all 4 were done
+- Villages went hungry for days while Rich became richer - IRL reference
+- Ledger which had everything now just has silence
+- Poor started to perish, rich started prevailing
+- Faith dwindled, and people started to forget the Woman, fokls started losing faith
+- By 14th winter, people didnt had anything to lose, and they decided to seek her out
+- She asked for barter, trade of Faith itself
+	- 7 came forward, names unknown
+	- Made the barter and order was restored
+- Generation thought peace was everlasting, until one day illusion broke
+- after 12 years, rumours started to spread, 7 perople Vanished randomly
+- every 12 harvest 7 people go missing now, they are called "The Called"
+- Marked by sigil of Neer?
+- The event is called Reckoning, this is the call
