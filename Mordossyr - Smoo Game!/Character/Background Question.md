@@ -21,3 +21,5 @@
 10. Something/someone you have never forgiven. If yes, why?
 
 11. Whose Hyde armour am I wearing?
+
+12. Why that fluffy thing is following me?
