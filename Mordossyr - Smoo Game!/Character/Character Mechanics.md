@@ -10,3 +10,11 @@ Transformations Allowed:
 - Giant Spiders
 - Giant Toad
 - Tiger
+
+
+Need to look art for:
+- Find familiar
+- Transformations - 
+	- Brown Bear
+	- Dire Wolf
+	- Giant Octopus
