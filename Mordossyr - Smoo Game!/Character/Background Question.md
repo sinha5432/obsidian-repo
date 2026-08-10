@@ -19,3 +19,5 @@
 9. The best compliment you have ever received.
 
 10. Something/someone you have never forgiven. If yes, why?
+
+11. Whose Hyde armour am I wearing?
