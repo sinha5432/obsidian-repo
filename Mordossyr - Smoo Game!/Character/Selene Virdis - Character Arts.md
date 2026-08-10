@@ -6,3 +6,5 @@
 Familiar artwork:
 
 - ![[Selene Virdis - Character Arts-1786383318205.webp]]
+- ![[Selene Virdis - Character Arts-1786383594650.webp]]
+- ![[Selene Virdis - Character Arts-1786383575307.webp]]
