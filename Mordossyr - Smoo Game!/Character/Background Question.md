@@ -44,3 +44,10 @@ maybe only this creature was there to comfort her as it led her to safety
 
 12. Why that fluffy thing is following me?
 	1. She used to be my pet. Passed away (not sure how yet), but her soul remained with me. She prefers not to think about it
+
+
+
+- Is an Unmarked
+- Escaped from people lynching
+- Was adopted by **Grandma Luna**
+	- One of her eye was like moon, so she was an abomination as well
