@@ -32,11 +32,16 @@ The ClergyMen:
 
 
 
-[SourcePDF2](file:///C:/Users/Manas/Downloads/-%20Death%20Denied_%20The%20Book%20of%20the%20Undead%20-%20The%20Homebrewery.pdf)
-[SourcePDF3](file:///C:/Users/Manas/Downloads/Libris%20Mortis%205e.pdf)
+They enter the underdark and realise that there seems to be a child God which these people seem to be worshipping
 
 
+[Source1](file:///D:/FoundryStuff/DnDPirates/DnDBooks/Death%20Denied%20-%20The%20Book%20of%20the%20Undead.pdf)
 
-bbeg:
-- ~[Caller in Darkness](https://5e.tools/bestiary.html#caller%20in%20darkness_hb)~
+Potential First Encounter:
+- Blood Amniote
+- Coldlight Walker - nice!
+
+Potential BBEGs:
+- Atropal Godling
+- 
 
