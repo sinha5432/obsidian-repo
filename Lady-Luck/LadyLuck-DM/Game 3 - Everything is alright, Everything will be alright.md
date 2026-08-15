@@ -35,15 +35,17 @@ The ClergyMen:
 They enter the underdark and realise that there seems to be a child God which these people seem to be worshipping
 
 
-[Source1](file:///D:/FoundryStuff/DnDPirates/DnDBooks/Death%20Denied%20-%20The%20Book%20of%20the%20Undead.pdf)
+THe Clerics run on Blood. Its their source. But the amount of blood extracted by them cannot be found anywhere.
+
+After they defeat clerics, they will find a parchment of Yharnam
+
+
+[- Death Denied_ The Book of the Undead - The Homebrewery.pdf](file:///D:/FoundryStuff/DnDPirates/DnDBooks/-%20Death%20Denied_%20The%20Book%20of%20the%20Undead%20-%20The%20Homebrewery.pdf)
 
 Potential First Encounter:
-- Blood Amniote
-- Coldlight Walker
-- Ghostly Legionnaire - potential PvP, make his last ability so that players end up seeing others as the people dragging their loved ones
+
 - Bone Golem - Those Clergymen merge into this creature dropping their robe
 
-Potential BBEGs:
-- Atropal Godling
-- 
+Potential BBEGs: -> 
+- Caller in Darkness -> 
 
