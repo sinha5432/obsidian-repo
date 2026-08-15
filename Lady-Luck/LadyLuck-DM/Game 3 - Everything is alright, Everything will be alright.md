@@ -46,6 +46,10 @@ Potential First Encounter:
 
 - Bone Golem - Those Clergymen merge into this creature dropping their robe
 
+![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|314x196]]
+
+
+
 Potential BBEGs:
 - Caller in Darkness 
 
