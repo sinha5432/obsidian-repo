@@ -39,7 +39,9 @@ They enter the underdark and realise that there seems to be a child God which th
 
 Potential First Encounter:
 - Blood Amniote
-- Coldlight Walker - nice!
+- Coldlight Walker
+- Ghostly Legionnaire - potential PvP, make his last ability so that players end up seeing others as the people dragging their loved ones
+- Bone Golem - Those Clergymen merge into this creature dropping their robe
 
 Potential BBEGs:
 - Atropal Godling
