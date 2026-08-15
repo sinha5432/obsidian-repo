@@ -46,6 +46,6 @@ Potential First Encounter:
 
 - Bone Golem - Those Clergymen merge into this creature dropping their robe
 
-Potential BBEGs: -> 
-- Caller in Darkness -> 
+Potential BBEGs:
+- Caller in Darkness 
 
