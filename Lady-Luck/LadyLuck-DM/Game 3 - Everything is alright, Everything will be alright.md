@@ -5,6 +5,26 @@ City: Uluvin
 - If they approach the village, the Village at this point is completely enveloped in mist, which completely blocks the sunlight
 
 
+- They get a sense of dread, and dismay from village
+
+
+
+**Player's fears:**
+
+- **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her. 
+	- -> Imagines entire life with wife then sees wife leaving him
+
+
+- **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
+	- Everyone is moving away, they see their love
+	- Zahira sees them hitting Lilani, vice versa
+
+- **Shazgob**: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
+	- Realisation hits you that there is no heaven, its just darkness and abyss
+- **Vokun**: Being insignificant
+
+
+
 
 
 The Village has been taken over by a cult. They claim that they protect the Village folks, and costs them just a bit of fee
