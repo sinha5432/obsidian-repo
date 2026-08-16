@@ -2,9 +2,6 @@ City: Uluvin
 
 
 
-
-
-
 The Village has been taken over by a cult. They claim that they protect the Village folks, and costs them just a bit of fee
 
 In return, they protect people from "Unsaid horrors" which made folks go mad
@@ -37,7 +34,7 @@ The Clerics run on Blood. Its their source. But the amount of blood extracted by
 
 After they defeat clerics, they will find a parchment of Yharnam
 
-
+### Story Beats
 
 - Players hear about the things that people have started to return and disappearing once again, refugees are getting impatient, asking about the details why they cant go back. Some of them even have escaped with their family without informing anyone  
 
@@ -68,7 +65,7 @@ BBEG:
 
 **Player's fears:**
 
-- **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her. 
+- **Granite**: Granite is looking for his wife for a few months now he doesn't know where she went. He is worried about not being able to find her. 
 - Losing Trunk (elephant)
 	- -> Imagines entire life with wife then sees wife leaving him
 
