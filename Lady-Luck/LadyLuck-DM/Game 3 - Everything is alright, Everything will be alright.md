@@ -12,6 +12,7 @@ City: Uluvin
 **Player's fears:**
 
 - **Granite**: Granite is looking for his wife for a few months now he doesnt know where she went. He is worried about not being able to find her. 
+- Losing Trunk (elephant)
 	- -> Imagines entire life with wife then sees wife leaving him
 
 
@@ -21,6 +22,7 @@ City: Uluvin
 
 - **Shazgob**: Finding out that she will NOT be reunited with her family in heaven (for whatever reason, metaphysical or otherwise)
 	- Realisation hits you that there is no heaven, its just darkness and abyss
+
 - **Vokun**: Being insignificant
 
 
@@ -71,5 +73,9 @@ Potential First Encounter:
 
 
 Potential BBEGs:
-- Caller in Darkness 
+- ~~Caller in Darkness - statblock isnt good~~
+
+- Dragonflesh Golem? 
+	- Its the corpse of Golem which used to live here before
+	- It was given energy and blood and brought back to life by the cult secretly, and then they proceeded to offer it more blood to keep it alive and keep the Village under control to give
 
