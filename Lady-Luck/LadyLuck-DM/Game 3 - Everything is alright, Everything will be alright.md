@@ -50,7 +50,7 @@ After they defeat clerics, they will find a parchment of Yharnam
 
 Potential First Encounter:
 
-- [Bone Golem](https://5e.tools/bestiary.html#bone%20golem_confc) - Those Clergymen merge into this creature dropping their robe
+- [Bone Golem](https://5e.tools/bestiary.html#bone%20golem_confc) x2 - Those Clergymen merge into this creature dropping their robe
 
 ![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|314x196]]
 
@@ -59,7 +59,7 @@ Potential First Encounter:
 BBEG:
 
 - [Dragonflesh Golem](https://5e.tools/bestiary.html#ancient%20zombie%20dragon_confc)
-	- Its the corpse of Golem which used to live here before
+	- Its the corpse of a Black Dragon which used to live here before
 	- It was given energy and blood and brought back to life by the cult secretly, and then they proceeded to offer it more blood to keep it alive and keep the Village under control to give
 	- Run Ancient Zombie Dragon Stat Block for it
 	- It used to be a black dragon, hence the frightening effect on everyone and everything around it
