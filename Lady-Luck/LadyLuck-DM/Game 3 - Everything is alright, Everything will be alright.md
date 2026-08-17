@@ -48,6 +48,7 @@ After they defeat clerics, they will find a parchment of Yharnam
 Potential First Encounter:
 
 - [Bone Golem](https://5e.tools/bestiary.html#bone%20golem_confc) x2 - Those Clergymen merge into this creature dropping their robe
+- Baigujing (White Bone Demon) from [here](file:///D:/FoundryStuff/DnDPirates/DnDBooks/ConfluxCreatures/Conflux%20Creatures%20December%2023.pdf)
 
 ![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|479x299]]
 
