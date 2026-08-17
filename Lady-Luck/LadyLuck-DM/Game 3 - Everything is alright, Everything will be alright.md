@@ -23,7 +23,7 @@ If they stay long enough, players will notice these clergymen coming out of the 
 
 The ClergyMen:
 
-![[Game 3-1786724528490.webp|133x237]]
+![[Game 3-1786724528490.webp|290x517]]
 
 
 
@@ -49,17 +49,17 @@ Potential First Encounter:
 
 - [Bone Golem](https://5e.tools/bestiary.html#bone%20golem_confc) x2 - Those Clergymen merge into this creature dropping their robe
 
-![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|314x196]]
+![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|479x299]]
 
 
 
 BBEG:
 
-- [Dragonflesh Golem](https://5e.tools/bestiary.html#ancient%20zombie%20dragon_confc)
+- [Dragonflesh Golem](https://5e.tools/bestiary.html#caller%20in%20darkness_confc,scaled:12)
 	- Its the corpse of a Black Dragon which used to live here before
 	- It was given energy and blood and brought back to life by the cult secretly, and then they proceeded to offer it more blood to keep it alive and keep the Village under control to give
-	- Run Ancient Zombie Dragon Stat Block for it
 	- It used to be a black dragon, hence the frightening effect on everyone and everything around it
+	- This huge negative energy aura is emitting from this black dragon corpse, hence the monster
 
 
 
