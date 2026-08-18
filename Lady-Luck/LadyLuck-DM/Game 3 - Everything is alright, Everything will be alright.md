@@ -44,6 +44,10 @@ After they defeat clerics, they will find a parchment of Yharnam
 - It is evening when they reach
 - If they go around, other than fog, they are just able to interact with some villagers
 - They are surprised to see the players. They always say that they expected someone else. Some of them might even recognise the players as the ones who knocked on their door previously
+- Players notice, pretty much all of the citizens have a white cloth wrapped around their left elbow, similar to the one used in medical procedures to secure wounds
+- If players insist, they suggest that the village is being looked over by someone else now.... initially they wont tell that these guys take both blood and money, will just suggest that they just take money, but players will realise they are hiding something
+
+
 - 
 
 
