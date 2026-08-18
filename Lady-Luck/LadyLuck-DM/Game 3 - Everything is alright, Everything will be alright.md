@@ -111,3 +111,4 @@ BBEG:
 - **Vokun**: Being insignificant
 
 ![[Game 3 - Everything is alright, Everything will be alright-1787078492082.webp|328x328]]
+![[Game 3 - Everything is alright, Everything will be alright-1787078731547.webp|312x467]]
