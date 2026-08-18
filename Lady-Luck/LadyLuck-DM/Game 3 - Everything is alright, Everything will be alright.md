@@ -41,7 +41,10 @@ After they defeat clerics, they will find a parchment of Yharnam
 - If they approach the village, the Village at this point is completely enveloped in mist, which is blocking the sunlight.
 
 - They get a sense of dread, and dismay from village
--  **ASK FOR WIS SAVE WHEN THEY ENTER THIS PLACE**
+-  **ASK FOR WIS SAVE WHEN THEY ENTER THIS PLACE**. If Failed:
+	- Granite will see that his wife opens up the first door, and is chatting calmly.
+	
+
 - It is evening when they reach
 - If they go around, other than fog, they are just able to interact with some villagers
 - They are surprised to see the players. They always say that they expected someone else. Some of them might even recognise the players as the ones who knocked on their door previously
@@ -75,6 +78,9 @@ BBEG:
 	- It was given energy and blood and brought back to life by the cult secretly, and then they proceeded to offer it more blood to keep it alive and keep the Village under control to give
 	- It used to be a black dragon, hence the frightening effect on everyone and everything around it
 	- This huge negative energy aura is emitting from this black dragon corpse, hence the monster
+- When fighting this thing, if need:
+	- Granite, momentarily will see Trunk instead of this being present there, and he will notice others hitting Trunk as he is yelling with pain
+	- Zahira and Lilani will see each other
 
 
 
@@ -82,7 +88,6 @@ BBEG:
 
 - **Granite**: Granite is looking for his wife for a few months now he doesn't know where she went. He is worried about not being able to find her. 
 - Losing Trunk (elephant)
-	- -> When
 
 
 - **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
