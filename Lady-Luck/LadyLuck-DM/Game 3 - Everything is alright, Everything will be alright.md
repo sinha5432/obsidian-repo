@@ -41,6 +41,10 @@ After they defeat clerics, they will find a parchment of Yharnam
 - If they approach the village, the Village at this point is completely enveloped in mist, which is blocking the sunlight.
 
 - They get a sense of dread, and dismay from village
+- It is evening when they reach
+- If they go around, other than fog, they are just able to interact with some villagers
+- They are surprised to see the players. They always say that they expected someone else. Some of them might even recognise the players as the ones who knocked on their door previously
+- 
 
 
 
