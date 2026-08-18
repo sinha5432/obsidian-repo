@@ -48,7 +48,10 @@ After they defeat clerics, they will find a parchment of Yharnam
 - If players insist, they suggest that the village is being looked over by someone else now.... initially they wont tell that these guys take both blood and money, will just suggest that they just take money, but players will realise they are hiding something
 
 
-- After interrogating for a while, they will notice that two 6 ft tall people, covered in white dress, carrying a cane in one and lantern in the other hand are going door to door, take around 30-40 mins each time there and moving to the next
+- After interrogating for a while, they will notice that two 6 ft tall people, covered in white dress, carrying a cane in one and lantern in the other hand are going door to door, take around 30-40 mins each time there and moving to the next.
+- Players will get a very weird magical energy coming from them
+- Baigujings have taken control over some of the townfolks' bodies. If player will try to remove the masks, they will recognise as once of them being old town mayor, but a lot taller, and differently built
+- If they talk to them, once one of the players will hear one voice asking to save it, other one will be normal reply
 
 
 
@@ -57,8 +60,11 @@ After they defeat clerics, they will find a parchment of Yharnam
 
 -[ Baigujing](<https://5e.tools/bestiary.html#baigujing%20(white%20bone%20demon)_hb>) (White Bone Demon) from [here](file:///D:/FoundryStuff/DnDPirates/DnDBooks/ConfluxCreatures/Conflux%20Creatures%20December%2023.pdf)
 
+![[Game 3 - Everything is alright, Everything will be alright-1787049394142.webp|369x266]]
 
 
+Lore:
+![[Game 3 - Everything is alright, Everything will be alright-1787049138181.webp|316x408]]
 
 
 BBEG:
