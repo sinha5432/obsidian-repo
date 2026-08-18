@@ -48,17 +48,16 @@ After they defeat clerics, they will find a parchment of Yharnam
 - If players insist, they suggest that the village is being looked over by someone else now.... initially they wont tell that these guys take both blood and money, will just suggest that they just take money, but players will realise they are hiding something
 
 
-- 
+- After interrogating for a while, they will notice that two 6 ft tall people, covered in white dress, carrying a cane in one and lantern in the other hand are going door to door, take around 30-40 mins each time there and moving to the next
 
 
 
 
-Potential First Encounter:
 
-- [Bone Golem](https://5e.tools/bestiary.html#bone%20golem_confc) x2 - Those Clergymen merge into this creature dropping their robe
-- Baigujing (White Bone Demon) from [here](file:///D:/FoundryStuff/DnDPirates/DnDBooks/ConfluxCreatures/Conflux%20Creatures%20December%2023.pdf)
 
-![[Game 3 - Everything is alright, Everything will be alright-1786807463746.webp|479x299]]
+-[ Baigujing](<https://5e.tools/bestiary.html#baigujing%20(white%20bone%20demon)_hb>) (White Bone Demon) from [here](file:///D:/FoundryStuff/DnDPirates/DnDBooks/ConfluxCreatures/Conflux%20Creatures%20December%2023.pdf)
+
+
 
 
 
