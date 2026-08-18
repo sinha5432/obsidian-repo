@@ -43,6 +43,9 @@ After they defeat clerics, they will find a parchment of Yharnam
 - They get a sense of dread, and dismay from village
 -  **ASK FOR WIS SAVE WHEN THEY ENTER THIS PLACE**. If Failed:
 	- Granite will see that his wife opens up the first door, and is chatting calmly.
+	- Zahira and Lilani will see their parents when they go from door to door. Rest of the conversation happens as usual
+	- Shazgob is going to see her father.
+- They wont see it clearly, but it will resemble the appearance very closely
 	
 
 - It is evening when they reach
@@ -81,6 +84,8 @@ BBEG:
 - When fighting this thing, if need:
 	- Granite, momentarily will see Trunk instead of this being present there, and he will notice others hitting Trunk as he is yelling with pain
 	- Zahira and Lilani will see each other
+	- Shazgob will see her Mother present there if someone else is hitting the cloud.
+	- Vokun will see
 
 
 
