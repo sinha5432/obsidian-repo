@@ -41,6 +41,7 @@ After they defeat clerics, they will find a parchment of Yharnam
 - If they approach the village, the Village at this point is completely enveloped in mist, which is blocking the sunlight.
 
 - They get a sense of dread, and dismay from village
+-  **ASK FOR WIS SAVE WHEN THEY ENTER THIS PLACE**
 - It is evening when they reach
 - If they go around, other than fog, they are just able to interact with some villagers
 - They are surprised to see the players. They always say that they expected someone else. Some of them might even recognise the players as the ones who knocked on their door previously
@@ -81,7 +82,7 @@ BBEG:
 
 - **Granite**: Granite is looking for his wife for a few months now he doesn't know where she went. He is worried about not being able to find her. 
 - Losing Trunk (elephant)
-	- -> Imagines entire life with wife then sees wife leaving him
+	- -> When
 
 
 - **Zahira** and **Lilani**: Being isolated/left alone, losing her loved ones.
