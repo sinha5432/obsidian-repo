@@ -76,7 +76,13 @@ Lore:
 
 BBEG:
 
-- [Dragonflesh Golem](https://5e.tools/bestiary.html#caller%20in%20darkness_confc,scaled:12)
+- Caller in Darkness
+
+	- **NO INVISIBILITY**
+	- **SOUL CALLING IS LEGENDARY ACTION and doesn't have **
+	- 
+
+
 	- Its the corpse of a Black Dragon which used to live here before
 	- It was given energy and blood and brought back to life by the cult secretly, and then they proceeded to offer it more blood to keep it alive and keep the Village under control to give
 	- It used to be a black dragon, hence the frightening effect on everyone and everything around it
