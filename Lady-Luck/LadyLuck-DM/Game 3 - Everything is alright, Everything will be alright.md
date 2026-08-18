@@ -49,7 +49,7 @@ After they defeat clerics, they will find a parchment of Yharnam
 
 
 - After interrogating for a while, they will notice that two 6 ft tall people, covered in white dress, carrying a cane in one and lantern in the other hand are going door to door, take around 30-40 mins each time there and moving to the next.
-- Players will get a very weird magical energy coming from them
+- Players will get a sense of eeriness looking towards them....as if their primal instincts are kicking in and not wanting to look towards them
 - Baigujings have taken control over some of the townfolks' bodies. If player will try to remove the masks, they will recognise as once of them being old town mayor, but a lot taller, and differently built
 - If they talk to them, once one of the players will hear one voice asking to save it, other one will be normal reply
 
