@@ -81,3 +81,26 @@ It is generally a better idea to run away, or avoid confrontation altogether, as
 
 	- Blunt weapons deal maximum damage plus maximum damage bonus (if any).
 	- Impaling weapons (blades and bullets) deal maximum weapon damage plus damage bonus (if any) plus an additional dice roll for the weapon’s damage (1D10 + 10 points of damage in the case of a handgun, for example).
+## Firearms Rules
+
+The person firing the gun makes a percentile roll and compares the result with their Firearms skill.
+
+- Readied firearms act at DEX +50 for the purpose of determining the DEX turn order.
+    
+- If firing 2 or 3 shots from a handgun in one round, apply one penalty die to each shot.
+    
+- If at point-blank range (within one-fifth of DEX in feet), the shooter gains one bonus die on the skill roll.
+
+
+- The target of the shot cannot fight back (you can’t dodge a bullet) but may “dive for cover,” by rolling against their Dodge skill.
+	- If the Dodge roll is successful, the attacker’s rolls to hit are made with one penalty die. 
+	- A character that opts to dive for cover forfeits their next attack (regardless of whether they were successful or not). If they have already used their attack this round, they forfeit their attack in the following round.
+- **Close range: within DEX in feet (i.e. if DEX is 60, close range is 60 feet).**
+
+### Fighting Maneuvers
+
+If a player describes a goal in combat that is something other than simply inflicting physical harm then it can be resolved with a “Fighting Maneuver.” A successful maneuver allows the character to achieve one thing, such as:
+
+- Disarm an opponent.
+- Knock an opponent to the floor.
+- Seize and hold an opponent, whereupon the opponent must apply one penalty die to their actions until they can break free.
