@@ -31,7 +31,9 @@ If the Keeper calls for a “group Luck roll,” the player whose investigator h
 ## Sanity
 
 Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes across something mundane yet horrific (such as stumbling across a friend’s mutilated corpse), 
-- make a percentile roll against the investigator’s current Sanity score. 
+- In this sense, SAN is a corruption of human behavior, morals, and personality
+- Make a percentile roll against the investigator’s current Sanity score. 
 - If you roll over your current Sanity, you lose a greater amount of Sanity points. If you roll under, you will lose less or none. 
 - The Sanity loss is generally described for an event as something like “0/1D6” or “2/1D10.” 
 	- The number before the slash mark tells you how much Sanity your character loses if the roll is equal to or under their current Sanity score; the number after the slash is how much your investigator loses if you roll over their current Sanity score.
+- When you fail a “Sanity roll” the Keeper gets to *momentarily control your next action* as the fear takes hold of you; perhaps you unwittingly scream or squeeze the trigger of your gun.
