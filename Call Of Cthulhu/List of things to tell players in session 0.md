@@ -37,3 +37,5 @@ Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes a
 - The Sanity loss is generally described for an event as something like “0/1D6” or “2/1D10.” 
 	- The number before the slash mark tells you how much Sanity your character loses if the roll is equal to or under their current Sanity score; the number after the slash is how much your investigator loses if you roll over their current Sanity score.
 - When you fail a “Sanity roll” the Keeper gets to *momentarily control your next action* as the fear takes hold of you; perhaps you unwittingly scream or squeeze the trigger of your gun.
+- If an investigator loses **5 or more Sanity points** as the consequence of a single Sanity roll, they have suffered major emotional trauma. 
+	- The player must roll 1D100. If the result is equal to or less than their Intelligence (INT), the investigator fully understands and comprehends what has been seen and goes temporarily insane (for 1D10 hours). If they fail the roll, their mind is closed to the horror and they remain sane (for now).
