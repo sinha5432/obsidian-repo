@@ -44,3 +44,40 @@ Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes a
 	- If your investigator is temporarily insane, the Keeper may decide to add a phobia or mania to your sheet (such as “fear of the dark,” “fear of confined spaces,” or “kleptomania, an irrational compulsion to steal things”). Alternatively, they may decide to rewrite one of your existing backstory entries, perhaps corrupting it in some way (where you wrote “Trusting” under Traits, the Keeper corrupts this to “Fearful.”)
 	- While temporarily insane, the Keeper may present your investigator with “Delusions” (hallucinations)—is that a zombie creeping up on you or is it just a homeless man asking for spare change? You can only be certain by asking to make a “reality check”—electing to make a Sanity roll; if you’re successful, you see through the hallucination, but if you fail, you fall deeper into the madness!
 	- altered backstories or phobias or manias gained while insane remain in effect even after 1d10 hours of insanity
+
+## Combat
+It is generally a better idea to run away, or avoid confrontation altogether, as such entities are very powerful and often resistant to bullets! However, sometimes there is no other choice than to go in, guns blazing, and make the best of it.
+
+
+-  **Initiatives:** 
+	- All investigators, as well as characters and monsters controlled by the Keeper, act in order of their DEX values. 
+	- The investigator, character, or monster with the highest DEX acts first and then the others go in descending order from there.
+- The duration of a combat round is best described as “long enough for everyone to take one significant action."
+- **Investigator Skills**:
+	- Investigators have three combat skills: Fighting, Dodge, and Firearms.
+	- Two of these skills are made up of multiple specializations, such as Fighting (Brawl) or Firearms (Rifle/Shotgun)
+		- each player will have decided which specializations their investigator has (if any) during character creation, when skill points were allocated for occupation and personal interest skills. 
+		- Note that the Fighting (Brawl) skill includes unarmed combat and the use of simple weapons like knives and clubs; however, wielding a sword requires the Fighting (Sword) specialization.
+- You make a combat roll using the appropriate skill, just like any other skill roll; however, you don’t get to “push” combat rolls—you simply make another attack next round.
+
+
+## Close Combat
+- On a character’s turn in the DEX order, they may choose to initiate an attack against an opponent.
+- In addition, each time a character is attacked, they get to choose how they will respond, be it by dodging (attempting to avoid the attack completely) or fighting back (attempting to avoid, block, or parry an attack while also making one of their own).
+
+
+- Both attacker and defender roll percentage dice (1D100) and compare their levels of success:
+	- If you are fighting back, use your Fighting skill. You need to achieve a higher level of success than your attacker.
+	- If you are dodging, use your Dodge skill. Your attacker needs to achieve a higher level of success than you.
+
+	- It’s a simple matter: the winning side avoids receiving any damage and will inflict damage (unless dodging) on their opponent.
+
+- When fighting back, the best a person can achieve is “regular” damage, whereas the character initiating the attack (if successful) could achieve “extreme damage”.
+
+
+- _Remember, if the person dodging equals the level of success of their attacker, they succeed in avoiding the attack (as the attacker must achieve a higher level of success than the dodger). Whereas, if fighting back, equal levels of success mean the initiating attacker wins the combat._
+
+- Attacks that achieve an **Extreme level of success** deliver increased damage:
+
+	- Blunt weapons deal maximum damage plus maximum damage bonus (if any).
+	- Impaling weapons (blades and bullets) deal maximum weapon damage plus damage bonus (if any) plus an additional dice roll for the weapon’s damage (1D10 + 10 points of damage in the case of a handgun, for example).
