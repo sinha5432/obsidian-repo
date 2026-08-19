@@ -20,8 +20,18 @@
 - Advantage / Disadvantage: You roll and additional d10 for "tens" position, if adv, take the lower value, if disadv, take the higher
 
 
-## Luck Rolls
+### Luck Rolls
 
 Luck rolls may be called for by the Keeper when circumstances external to an investigator are in question, and also when determining the fickle hand of fate. If, for example, an investigator wants to know if there is an item lying nearby that they could use as weapon, or if the flashlight they have found has any juice left in it, then call for a Luck roll. Note that if a skill or characteristic is more appropriate to a situation, then it should be used rather than Luck. To succeed in a Luck roll, the investigator must roll equal to or under their current Luck value.
 
 If the Keeper calls for a “group Luck roll,” the player whose investigator has the lowest Luck score (among those present in the scene) should make the roll on behalf of the group.
+
+
+
+## Sanity
+
+Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes across something mundane yet horrific (such as stumbling across a friend’s mutilated corpse), 
+- make a percentile roll against the investigator’s current Sanity score. 
+- If you roll over your current Sanity, you lose a greater amount of Sanity points. If you roll under, you will lose less or none. 
+- The Sanity loss is generally described for an event as something like “0/1D6” or “2/1D10.” 
+	- The number before the slash mark tells you how much Sanity your character loses if the roll is equal to or under their current Sanity score; the number after the slash is how much your investigator loses if you roll over their current Sanity score.
