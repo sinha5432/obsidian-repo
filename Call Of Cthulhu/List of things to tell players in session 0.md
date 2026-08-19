@@ -17,3 +17,11 @@
 	- To resolve an opposed roll, both sides make a skill roll and compare their level of success. 
 	- A Regular success beats a Fail, a Hard success beats a Regular success, and an Extreme success beats a Hard success. 
 	- In the case of a draw, the side with the higher skill value wins. If both skills are equal, then have both sides roll 1D100, with the lower result winning.
+- Advantage / Disadvantage: You roll and additional d10 for "tens" position, if adv, take the lower value, if disadv, take the higher
+
+
+## Luck Rolls
+
+Luck rolls may be called for by the Keeper when circumstances external to an investigator are in question, and also when determining the fickle hand of fate. If, for example, an investigator wants to know if there is an item lying nearby that they could use as weapon, or if the flashlight they have found has any juice left in it, then call for a Luck roll. Note that if a skill or characteristic is more appropriate to a situation, then it should be used rather than Luck. To succeed in a Luck roll, the investigator must roll equal to or under their current Luck value.
+
+If the Keeper calls for a “group Luck roll,” the player whose investigator has the lowest Luck score (among those present in the scene) should make the roll on behalf of the group.
