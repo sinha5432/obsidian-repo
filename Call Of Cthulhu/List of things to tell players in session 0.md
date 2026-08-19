@@ -104,3 +104,7 @@ If a player describes a goal in combat that is something other than simply infli
 - Disarm an opponent.
 - Knock an opponent to the floor.
 - Seize and hold an opponent, whereupon the opponent must apply one penalty die to their actions until they can break free.
+- If the character performing the maneuver has a smaller Build than their opponent then they take a penalty die for each point of difference (to a maximum of two penalty dice). 
+- If an opponent exceeds the attacker’s Build by three or more points, any fighting maneuvers are ineffective; the attacker may be able to lay hands on their opponent, but lacks the strength and size required to take advantage of their grip.
+
+- *OUTNUMBERED: ONCE THE MELEE CHARACTER HAS DODGED/FOUGHT BACK, OTHER MELEE GUYS WILL HAVE BONUS (ADVANTAGE) TO HIT THEM FOR NEXT OF ROUND*
