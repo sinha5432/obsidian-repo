@@ -125,3 +125,8 @@ If a player describes a goal in combat that is something other than simply infli
 - Characters with a major wound must make a healing roll (rolling equal to or under their CON) at the end of each week—if successful, they regain 1D3 hit points, or 2D3 points for an Extreme success. 
 - The major wound condition is removed if either an Extreme success is rolled or current hit points are healed to half their maximum value or greater. Thus, it may take a number of weeks for a major wound to heal.
 - The Medicine skill can heal 1D3 hit points, but takes at least one hour and appropriate equipment and supplies. If Medicine is used on a dying character, it allows a healing roll at the end of one week.
+
+
+- *Asphyxiation and Drowning: a CON roll should be made each round; once a CON roll is failed, damage is sustained each round thereafter until death or until the victim is able to breathe. Death occurs at zero hit points (ignore the major wound rule).
+
+- Poisons: an Extreme CON roll halves damage from poisons.
