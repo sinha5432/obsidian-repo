@@ -108,3 +108,14 @@ If a player describes a goal in combat that is something other than simply infli
 - If an opponent exceeds the attacker’s Build by three or more points, any fighting maneuvers are ineffective; the attacker may be able to lay hands on their opponent, but lacks the strength and size required to take advantage of their grip.
 
 - *OUTNUMBERED: ONCE THE MELEE CHARACTER HAS DODGED/FOUGHT BACK, OTHER MELEE GUYS WILL HAVE BONUS (ADVANTAGE) TO HIT THEM FOR NEXT OF ROUND*
+
+
+## Hit Points, Wounds, and Healing
+- When a character takes damage of greater than or equal to half their full hit points in a single blow, they have received a “*major wound*"
+	- They must make a CON roll or fall unconscious. 
+	- If a character with a major wound falls to zero hit points they are close to death (dying). They must make a successful CON roll at the end of the following round and every round thereafter or die. Only successful use of the First Aid skill can alleviate the dying condition, through stabilizing the character. 
+- If a character suffers points of damage greater than or equal to their maximum hit points in a single blow, they die instantly.
+- Note that if a character is reduced to zero hit points but has not suffered a major wound, they will not die: death is only a possibility if a major wound has also been suffered.
+
+
+## Healing
