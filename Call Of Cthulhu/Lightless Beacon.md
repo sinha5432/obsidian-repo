@@ -1,0 +1,2 @@
+- If your group would rather create their own investigators, then all they need is a reason to be on the boat to Rockport.
+- Journey happens on SS Essex County on April 12th, 1926.
