@@ -18,6 +18,7 @@
 	- A Regular success beats a Fail, a Hard success beats a Regular success, and an Extreme success beats a Hard success. 
 	- In the case of a draw, the side with the higher skill value wins. If both skills are equal, then have both sides roll 1D100, with the lower result winning.
 - Advantage / Disadvantage: You roll and additional d10 for "tens" position, if adv, take the lower value, if disadv, take the higher
+- Skill cap at **75%** -> Optional rule, but we will use it
 
 
 ### Luck Rolls
