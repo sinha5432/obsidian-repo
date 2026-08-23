@@ -14,3 +14,5 @@
 - **George Cassidy**, a lighthouse keeper on the island
 - He collected a few coins, started asking around how much money this coin will fetch, hence got into cultists attention.
 - They have timed their infiltration of the island to **April 12th**, the night of the new moon, to give themselves the advantage of the extra darkness during the assault.
+- Two Deep one Hybrids capture **Samuel Smith**: Cassidy's lighthouse keepers as he fled the island after one strange sighting too many
+- 
