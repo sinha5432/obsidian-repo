@@ -6,7 +6,7 @@
 - Lines and Veils strictly follows
 - X-Card
 
-## Campaign Splurt
+## Campaign Blurt
 
 Eons ago, the world fractured.
 
