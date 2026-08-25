@@ -1,0 +1,7 @@
+- Not a sandbox
+- Will follow Arc-style progression
+- 50% RP based, 30% combat, 20% exploration
+	- Can change
+- 3-3.5 hours session length
+- Lines and Veils strictly follows
+- X-Card
