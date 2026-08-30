@@ -7,3 +7,4 @@
 - All animal and plant-type ancestries tend to be half-human
 - Page 9 and if have time 142, 143 of the core Daggerheart rulebook
 - Hope and Fear expansion Player and GM Rules in the campaign frame
+- No PvP on table
