@@ -3,3 +3,7 @@
 - A few months ago, consort of this dragon absorbed into herself and now has become Tyranical ruler of this world
 - We are chosen heroes who will go on journey to set world to a state of before the tyrannical ruler
 - Name of the world is called Land of Whelvia
+- Before session 1, we know each other at least for some period of time
+- All animal and plant-type ancestries tend to be half-human
+- Page 9 and if have time 142, 143 of the core Daggerheart rulebook
+- Hope and Fear expansion Player and GM Rules in the campaign frame
