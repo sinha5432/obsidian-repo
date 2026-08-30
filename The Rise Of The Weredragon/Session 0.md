@@ -1,0 +1,5 @@
+- Very fairy tail inspired world
+	- Like alice in wonderland
+- A few months ago, consort of this dragon absorbed into herself and now has become Tyranical ruler of this world
+- We are chosen heroes who will go on journey to set world to a state of before the tyrannical ruler
+- Name of the world is called Land of Whelvia
