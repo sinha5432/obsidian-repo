@@ -1,8 +1,12 @@
 ## Concepts of the Game
 
+- You are a normal, average person who got mingled in some weird stuff
+- The world by default is set in 1920s America/UK, so real world logics apply here
+- Other supplements include Cthulhu by pulp, where you basically play Indiana Jones or James Bond, and Cthulhu by gaslight which is set when bulbs weren't invented, so 1890s Victorian era
 - Players are called Investigators. DM is called The Keeper of the Arcane lore, or, Keeper
-- Adventures in _Call of Cthulhu_ usually center on a mystery, with the investigators called in to help uncover the truth of the situation.
+- Adventures in _Call of Cthulhu_ usually centre on a mystery, with the investigators called in to help uncover the truth of the situation.
 - When you roll BELOW your score, you succeed
+
 
 
 ## The Game System
@@ -49,7 +53,7 @@ Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes a
 	- The number before the slash mark tells you how much Sanity your character loses if the roll is equal to or under their current Sanity score; the number after the slash is how much your investigator loses if you roll over their current Sanity score.
 - When you fail a “Sanity roll” the Keeper gets to *momentarily control your next action* as the fear takes hold of you; perhaps you unwittingly scream or squeeze the trigger of your gun.
 - If an investigator loses **5 or more Sanity points** as the consequence of a single Sanity roll, they have suffered major emotional trauma. 
-	- The player must roll 1D100. If the result is equal to or less than their Intelligence (INT), the investigator fully understands and comprehends what has been seen and goes temporarily insane (for 1D10 hours). If they fail the roll, their mind is closed to the horror and they remain sane (for now).
+	- The player must roll 1D100. If the result is equal to or less than their Intelligence (INT), the investigator fully understands and comprehends what has been seen and goes **temporarily insane (for 1D10 hours)**. If they fail the roll, their mind is closed to the horror and they remain sane (for now).
 	- In addition, a temporarily insane investigator **suffers a “bout of madness”**—roll 1D10 and refer to the Bouts of Madness Table.
 	- If the investigator is in the presence of other investigators, play out the result round by round. If the investigator is alone you may use the result to tell how the investigator is found sometime later in a bad way, perhaps locked in a cupboard or drunk in a gutter.
 	- If your investigator is temporarily insane, the Keeper may decide to add a phobia or mania to your sheet (such as “fear of the dark,” “fear of confined spaces,” or “kleptomania, an irrational compulsion to steal things”). Alternatively, they may decide to rewrite one of your existing backstory entries, perhaps corrupting it in some way (where you wrote “Trusting” under Traits, the Keeper corrupts this to “Fearful.”)
