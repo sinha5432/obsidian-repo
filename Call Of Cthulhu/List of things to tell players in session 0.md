@@ -78,7 +78,7 @@ It is generally a better idea to run away, or avoid confrontation altogether, as
 
 
 ## Close Combat
-- On a character’s turn in the DEX order, they may choose to initiate an attack against an opponent.
+- On a character’s turn **in the DEX order**, they may choose to initiate an attack against an opponent.
 - In addition, each time a character is attacked, they get to choose how they will respond, be it by dodging (attempting to avoid the attack completely) or fighting back (attempting to avoid, block, or parry an attack while also making one of their own).
 
 
@@ -113,7 +113,7 @@ The person firing the gun makes a percentile roll and compares the result with t
 	- A character that opts to dive for cover forfeits their next attack (regardless of whether they were successful or not). If they have already used their attack this round, they forfeit their attack in the following round.
 - **Close range: within DEX in feet (i.e. if DEX is 60, close range is 60 feet).**
 
-### Fighting Maneuvers
+### **Fighting Maneuvers**
 
 If a player describes a goal in combat that is something other than simply inflicting physical harm then it can be resolved with a “Fighting Maneuver.” A successful maneuver allows the character to achieve one thing, such as:
 
