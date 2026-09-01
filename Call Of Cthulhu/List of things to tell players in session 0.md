@@ -28,14 +28,14 @@
 	- **Size (SIZ)** reflects your investigator’s combined height and weight.
 	- **Intelligence (INT)** is a rough measure of your investigator’s cunning and ability to make leaps of logic and intuition.
 	- **Education (EDU)** is a measure of the knowledge that your investigator has accumulated through formal education, or the venerated “School of Hard Knocks.”
-- Skill cap at **75%** -> Optional rule, but we will use it
+- Skill cap at **75%** when we create characters -> Optional rule, but we will use it
 
 
 ### Luck Rolls
 
 Luck can be used two ways
 1. A luck roll roll to determine determine certain things, like if you find a kitchen knife as a weapon when looking around in the kitchen, or you find something better
-2. **Optional Rule:** You can spend your luck score
+2. **Optional Rule:** You can spend your luck score to increase your total result
 
 
 
