@@ -6,6 +6,7 @@
 - Players are called Investigators. DM is called The Keeper of the Arcane lore, or, Keeper
 - Adventures in _Call of Cthulhu_ usually centre on a mystery, with the investigators called in to help uncover the truth of the situation.
 - When you roll BELOW your score, you succeed
+- Combat is usually discouraged, but if you feel like you can beat them up, you are free to initiate it
 
 
 
