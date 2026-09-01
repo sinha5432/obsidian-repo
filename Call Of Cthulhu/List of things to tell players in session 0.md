@@ -42,7 +42,7 @@ Luck can be used two ways
 ## Sanity
 
 Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes across something mundane yet horrific (such as stumbling across a friend’s mutilated corpse), 
-- In this sense, SAN is a corruption of human behavior, morals, and personality
+- In this sense, **SAN is a measure of corruption of human behaviour, morals, and personality**
 - Make a percentile roll against the investigator’s current Sanity score. 
 - If you roll over your current Sanity, you lose a greater amount of Sanity points. If you roll under, you will lose less or none. 
 - The Sanity loss is generally described for an event as something like “0/1D6” or “2/1D10.” 
