@@ -62,6 +62,9 @@ Whenever an investigator encounters the horrors of the Cthulhu Mythos or comes a
 	- altered backstories or phobias or manias gained while insane remain in effect even after 1d10 hours of insanity
 
 ## Combat
+
+_DB: Damage Bonus_
+
 It is generally a better idea to run away, or avoid confrontation altogether, as such entities are very powerful and often resistant to bullets! However, sometimes there is no other choice than to go in, guns blazing, and make the best of it.
 
 
@@ -123,7 +126,8 @@ If a player describes a goal in combat that is something other than simply infli
 - If the character performing the maneuver has a smaller Build than their opponent then they take a penalty die for each point of difference (to a maximum of two penalty dice). 
 - If an opponent exceeds the attacker’s Build by three or more points, any fighting maneuvers are ineffective; the attacker may be able to lay hands on their opponent, but lacks the strength and size required to take advantage of their grip.
 
-- *OUTNUMBERED: ONCE THE MELEE CHARACTER HAS DODGED/FOUGHT BACK, OTHER MELEE GUYS WILL HAVE BONUS (ADVANTAGE) TO HIT THEM FOR NEXT OF ROUND*
+- *Outnumbered: Every subsequent attack after first one on a character has a +1 bonus die*
+- Players can try to dodge/parry as many times as they want
 
 
 ## Hit Points, Wounds, and Healing
