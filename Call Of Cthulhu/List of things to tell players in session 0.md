@@ -150,3 +150,14 @@ If a player describes a goal in combat that is something other than simply infli
 - *Asphyxiation and Drowning: a CON roll should be made each round; once a CON roll is failed, damage is sustained each round thereafter until death or until the victim is able to breathe. Death occurs at zero hit points (ignore the major wound rule).
 
 - Poisons: an Extreme CON roll halves damage from poisons.
+
+
+
+
+## About the story:
+
+- heading for Rockport, Massachusetts, on Monday, April 12th, 1926, the night of the new moon
+- SS _Essex County_ ready for when it **strikes the rocks off Folly Point** on April 12th, 1926
+
+- The ship originated from **Liverpool Docks, England** and is headed towards **Rockport, Massachusetts** and will be having 8-10 days of journey
+	- It might've stopped at Boston for a while since it was a major port
