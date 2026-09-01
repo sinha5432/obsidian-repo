@@ -161,3 +161,9 @@ If a player describes a goal in combat that is something other than simply infli
 
 - The ship originated from **Liverpool Docks, England** and is headed towards **Rockport, Massachusetts** and will be having 8-10 days of journey
 	- It might've stopped at Boston for a while since it was a major port
+- Most common reason to visit Rockport:
+	1. **Tourism** — Vacation, sightseeing, painting, photography, etc.
+	2. **Family** — Visiting relatives, friends, or acquaintances.
+	3. **Business** — Commercial meetings, trade, contracts, or deliveries.
+	4. **Work** — Quarry, fishing, harbor, or other employment.
+	5. **Personal Affairs** — Property, inheritance, weddings, funerals, or other private matters.
