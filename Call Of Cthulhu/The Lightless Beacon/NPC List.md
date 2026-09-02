@@ -8,3 +8,6 @@
 - Got murdered by the hand of two deep on hybrid during initial info gathering mission
 -> **Michael Turner**: Undercover agent and lighthouse worker, got murdered on the day of main invasion
 
+
+Main invasion happened on same night as players were reaching the place
+
