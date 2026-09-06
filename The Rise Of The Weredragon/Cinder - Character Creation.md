@@ -17,6 +17,6 @@ World Map:
 | ------------- | ------------ | ------------- | -------- | -------------------------------------------------------- | ---------------- |
 | **Kumi**      | Kšan Térèlle | Fairy-Fungril | Druid    | Needs to find the **Sky Seer**, who reads constellations | Hollowmere       |
 | **Rica**      | Osric        | Giant         | Ranger   | Loves small animals                                      | Pinegloom Forest |
-| **Chirag**    | Gordan Bane  | Clank         | Guardian | Imprinted on Kšan and began protecting her               |                  |
+| **Chirag**    | Gordan Bane  | Clank         | Guardian | Imprinted on Kšan and began protecting her               | Dead Drake's Den |
 | **Gitanjali** | Thia         | Dwarf         | Wizard   | Comes from a family of nerds                             | Scholaris        |
 | **Me**        | Cinder       | Emberkin      | Brawler  | Bartender, used to be a soldier 100 years ago            | Ironspire        |
