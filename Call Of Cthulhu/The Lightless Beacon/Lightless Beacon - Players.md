@@ -25,5 +25,16 @@
 
 - As players start to row towards, their rowboat hits something solid, since they having nothing but a gas lamp, its relatively difficult to see what did they hit
 - -> **Know or Spot Hidden Role**
-- 
 
+
+- Successful **Pilot (Boat)** roll is required
+	- If the roll is fumbled or pushed, boat starts sinking then will need **Swim** rolls
+	- Swim roll is made, they get to the island quicker, while a failed roll means they are tossed about in the water but quickly wash up on the island.
+
+## Scene 3
+
+*On the Island*
+![[Lightless Beacon - Players-1788860859106.webp|422x275]]
+
+- They land on southern dock of the Island
+- The faint churning of machinery can be heard nearby.
