@@ -35,6 +35,9 @@
 
 *On the Island*
 ![[Lightless Beacon - Players-1788860859106.webp|422x275]]
+![[Lightless Beacon - Players-1788890892610.webp|418x272]]
 
-- They land on southern dock of the Island
-- The faint churning of machinery can be heard nearby.
+- They land on **NORTHERN** dock of the Island
+- The faint churning of machinery can be heard nearby -> **Mechanical or Electrical Repair** roll suggests it is the sound of an **electric generator**
+- Steady glow from Slightly ajar door of Cottage. Thin curtain giving warm welcoming light from inside
+- Find hidden roll gives out animal like and humanoid footprints in front of cottage
