@@ -40,4 +40,30 @@
 - They land on **NORTHERN** dock of the Island
 - The faint churning of machinery can be heard nearby -> **Mechanical or Electrical Repair** roll suggests it is the sound of an **electric generator**
 - Steady glow from Slightly ajar door of Cottage. Thin curtain giving warm welcoming light from inside
-- Find hidden roll gives out animal like and humanoid footprints in front of cottage
+- **Spot hidden** roll gives out animal like and humanoid footprints in front of cottage door
+- A successful **Natural World or Science (Biology or Zoology)** 
+	- Small footprints appear duck-like in nature
+	- Hard success suggests footprints are unusual, might be of unidentified species
+- Storm approaches!, Rain will make tracking impossible if not followed footprints
+	- Can decide to split up the party
+
+## Following footprints
+
+- **Track roll** determines the animal-like footprints from the thicket, the boot goes from door to trees
+- Boot prints made first
+- Leads of **Michael Turner's body**
+- Roof of Generator shed is leaking, repair tools (hammer, along with nails and corrugated iron sheets) are in workshed
+	- **Art/Craft roll (such as Carpentry)** or **Hard Mechanical Repair** roll to repair generator
+- Players can make weapons using workshop, 1d4 + db damage
+- Numerous screwdrivers and chisels that could be used to open the locked desk drawer
+
+
+## The Thicket
+
+- hideously mangled body—that of **Michael Turner**, It is a bloody mess
+	- Innards have been dragged from his body, slashed, and trampled into the dirt.
+- Beside the corpse lies a shattered lantern.
+- Evident that he died recently
+- Finding the body costs investigators **1/1D4+1 Sanity points**
+- 
+	
