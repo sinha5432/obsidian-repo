@@ -8,6 +8,8 @@
 		
  *On Ship Scene*
 
+![[Lightless Beacon - Players-1788854248856.webp|352x229]]
+
 - Before the crash, let everyone introduce character
 - Ferry is headed towards the rockport docks, light go off, and everyone feels a very sudden decrease in speed of the boat
 
