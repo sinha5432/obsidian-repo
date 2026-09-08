@@ -23,3 +23,7 @@
 
 *Dark murky waters with lighthouse in background scene*
 
+- As players start to row towards, their rowboat hits something solid, since they having nothing but a gas lamp, its relatively difficult to see what did they hit
+- -> **Know or Spot Hidden Role**
+- 
+
