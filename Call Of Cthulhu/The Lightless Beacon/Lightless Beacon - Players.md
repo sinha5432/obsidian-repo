@@ -84,4 +84,30 @@
 	- A Regular success has the investigators notice a small light (a lantern possessed by the deep one hybrid on the Folly Point shore).
 	- A Hard success identifies another yellow rowboat docked on the mainland pier.
 	- An Extreme success reveals that both yellow rowboats appear to be of the exact same size and design
-	
+
+## Scene 4
+
+*Inside the Lighthouse*
+![[Lightless Beacon - Players-1788962630045.webp|251x326]]
+
+- Partially open front door leads to light house entrance
+- Only Study room's light is on
+#### Hallways:
+
+Use description in book
+```
+The hallway is not currently lit, so the light of the study should, hopefully, draw investigators to that location. If the hallway light is turned on, the first thing anyone notices is the three coat hooks by the door, only one of which currently has a well-worn oilskin hanging from it. Two pairs of galoshes stand in a shallow tray just beneath the coat hooks; there is space for another pair, while a pair of indoor shoes sits beside the tray. Two oil lanterns hang from hooks next to the oilskin; there is also an empty hook, suggesting one lamp is missing.
+```
+
+
+
+- **Spot hidden** to notice two bullets lodged in floor
+	- **Firearms (Handgun) or INT roll**:  Bullets were fired from someone positioned a couple of steps up the winding stairwell.
+- Spattered blood leads from the kitchen door to the stairs - Sanity roll (0/1) - where three largish, golden coins lie discarded on the floor
+- **Appraise** roll to identify the coins as being made of solid gold. 
+	- One side of the coins appears to depict an obelisk of some sort,
+	- other is covered in strange sigils and disturbing designs
+- **Occult roll**:  Sigils hold a deeper meaning unknown to them but are similar to those used by remote religious tribes in the South Seas.
+- **Art/ Craft or Natural World** roll identifies an underlying aquatic theme to the coins’ designs.
+
+#### Study room:

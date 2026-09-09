@@ -1,5 +1,5 @@
 
-- Very graphic gore
-- Mutilation
+- Blood
 - Dead bodies
-- 
+- Very graphic gore
+
