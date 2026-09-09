@@ -3,7 +3,8 @@
 
 
 
-
+- Insane mechanic: if an investigator loses 5 or more points of Sanity in one go, or cumulatively manages to lose one-fifth or more of their starting Sanity as the scenario proceeds, then there is every chance that they could go either temporarily or indefinitely insane.
+- Upgrade stat mechanic: If you have used a skill, mark it. At the end of each session, if you have a skill marked, make an improvement check for it (1d100 should be > skill value) , if it is, increase the skill value by 1d10
 ## Scene 1
 		
  *On Ship Scene*
@@ -54,7 +55,7 @@
 - Leads of **Michael Turner's body**
 - Roof of Generator shed is leaking, repair tools (hammer, along with nails and corrugated iron sheets) are in workshed
 	- **Art/Craft roll (such as Carpentry)** or **Hard Mechanical Repair** roll to repair generator
-- Players can make weapons using workshop, 1d4 + db damage
+- Players can make weapons using workshop, **1d4 + db** damage
 - Numerous screwdrivers and chisels that could be used to open the locked desk drawer
 
 
@@ -62,8 +63,25 @@
 
 - hideously mangled body—that of **Michael Turner**, It is a bloody mess
 	- Innards have been dragged from his body, slashed, and trampled into the dirt.
+- A First Aid or Medicine roll uncovers the following:
+	- A Regular success reveals that Turner was probably torn apart by some kind of animal, as there are odd teeth and claw marks on the body. 
+	- A Hard success reveals Turner to have perished very recently: within the last hour, in fact. 
+	- An Extreme success reveals small needles embedded deep into his skin.
+
 - Beside the corpse lies a shattered lantern.
 - Evident that he died recently
 - Finding the body costs investigators **1/1D4+1 Sanity points**
-- 
+- On his body they find:
+	- An empty concealed holster and a Bureau of Investigation badge revealing the dead man’s real name to be Warren Thomas
+	- A six bullet revolver, a Smith and Wesson .38 Special, lies tangled in Turner’s innards; has five “live” bullets remaining, along with one empty shell casing, does **1d10 damage**
+
+
+## South Pier
+- Another worn-out pier. 
+- Tied to it is a yellow-painted rowboat. 
+- Lights of a small town can be seen in the distance, and some of Rockport’s famous granite quarries can be spotted to the south-south-west.
+- If Binoculars (found in lighthouse) + spot hidden roll:
+	- A Regular success has the investigators notice a small light (a lantern possessed by the deep one hybrid on the Folly Point shore).
+	- A Hard success identifies another yellow rowboat docked on the mainland pier.
+	- An Extreme success reveals that both yellow rowboats appear to be of the exact same size and design
 	
