@@ -1,7 +1,7 @@
 
 [SourcePDF](file:///D:/FoundryStuff/CallOfCthullu/The%20Lightless%20Beacon%20-%20Call%20of%20Cthulhu.pdf)
 
-
+**GAME HAPPENS ON APRIL 12TH 1920**
 
 - Insane mechanic: if an investigator loses 5 or more points of Sanity in one go, or cumulatively manages to lose one-fifth or more of their starting Sanity as the scenario proceeds, then there is every chance that they could go either temporarily or indefinitely insane.
 - Upgrade stat mechanic: If you have used a skill, mark it. At the end of each session, if you have a skill marked, make an improvement check for it (1d100 should be > skill value) , if it is, increase the skill value by 1d10
@@ -139,5 +139,33 @@ The hallway is not currently lit, so the light of the study should, hopefully, d
 ![[Lightless Beacon - Players-1789051704310.webp|208x270]]
 
 George Cassidy's Journal:
+[TLB - [H2] - Diary.pdf](file:///D:/FoundryStuff/CallOfCthullu/LightlessBeaconHandouts/TLB%20-%20[H2]%20-%20Diary.pdf)
 
-![[Lightless Beacon - Players-1789053628805.webp|298x388]]
+
+### Kitchen
+
+- One of the chairs lies broken on the floor; there is a small pool of blood on the floor beside it.
+	- **INT roll** suggests the chair may have been used as a weapon
+	- **First Aid or Medicine roll** determines the blood pool is recent and formed within the last hour
+	- **Hard success** with either of these rolls suggests there’s something not quite right about the blood, while an Extreme success hints that it may not be human in origin
+- **Sharp Kitchen Knife** In one of the drawers (**1D3 + DB**)
+
+
+
+### Bunkroom
+
+- **Spot Hidden roll** finds 
+	- one gold coin
+	- six loose bullets
+	- and pocket-sized notebook (Handout: Lightless 3) stuffed inside Turner’s mattress
+
+- ![[Lightless Beacon - Players-1789053628805.webp]]
+
+## Lighthouse Service Room
+
+- **Mechanical or Electrical Repair roll** determines that the majority of the checks are purely routine; however, one entry stands out: 
+	- on February 12th, 1926, wiring problems caused the lighthouse’s lamp bulb to prematurely burn out.
+	- The log records how the electrical short caused by the bulb’s failure, coupled with the severe storm, hampered the repairs, meaning the lighthouse was in darkness for several hours.
+- Radio set in a semi-state of disrepair. A successful **Electrical Repair roll** fixes the radio with ease.
+	- Players can reach out to mainland to contact coast guard
+	- A fumbled or failed pushed roll renders the radio permanently inoperable
