@@ -169,3 +169,28 @@ George Cassidy's Journal:
 - Radio set in a semi-state of disrepair. A successful **Electrical Repair roll** fixes the radio with ease.
 	- Players can reach out to mainland to contact coast guard
 	- A fumbled or failed pushed roll renders the radio permanently inoperable
+- To access lighthouse beacon room, The radio table’s chair appears to have been tipped over and needs to be moved to gain access to the lamp room steps
+
+## Lighthouse Beacon
+- Bloody Scene
+- 2 men and 2 fish creatures
+- **Sanity roll (1/1D4+1)**
+ ![[Lightless Beacon - Players-1789055422496.webp|471x330]]
+
+
+- The body nearest the stairs is very strange-looking. The man, garbed in a heavy, hooded raincoat, appears to have a narrow head and pronounced flaps of skin around his neck and jowls MORE INFORMATION IN PDF
+
+- **First Aid or Medicine roll** confirms he has been shot twice, and that these bullet wounds lead to his death.
+- A dead fish-creature lies beside the strange man. Both it and the one attached to Cassidy’s corpse have been shot as well—one through the eye, and one through its belly.
+- Cassidy's corpse:
+	- A heavy purse full of the strange gold coins, tied around his neck on a thick leather cord
+	- A six-shooter—a Colt M1877—is held firmly in his still-warm hands (1D8 damage per shot). All bullets are missing as of now, and shape matches box found downstairs
+- **Spot Hidden** to tell one bullet went to broken lamp's lens. other hole is present in another window which can be assumed was another bullet
+- **20% in Mechanical Repair** knows that, without a replacement lens, there is no way the lighthouse can be brought back up to full working order.
+- **Replacing the bulb would affect a temporary repair**—this would take at least 40 minutes and a **successful Mechanical Repair roll** to achieve.
+
+### AN AMPHIBIOUS ASSAULT
+- ONE PER INVESTIGATOR YOUNGLING
+- Sight of creatures prompt **Sanity roll (1/1D4 loss)**
+
+- Any fight in the lantern room attracts a penalty die to all physical rolls due to the slippery floor and cramped conditions, on top of the penalty die that may be caused by the generator failing
