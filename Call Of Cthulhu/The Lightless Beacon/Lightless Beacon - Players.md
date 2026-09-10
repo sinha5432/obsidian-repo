@@ -87,6 +87,11 @@
 
 ## Scene 4
 
+
+Image of Coins: 
+
+![[Lightless Beacon - Players-1789053766834.webp|292x194]]
+
 *Inside the Lighthouse*
 ![[Lightless Beacon - Players-1788962630045.webp|251x326]]
 
@@ -111,3 +116,28 @@ The hallway is not currently lit, so the light of the study should, hopefully, d
 - **Art/ Craft or Natural World** roll identifies an underlying aquatic theme to the coins’ designs.
 
 #### Study room:
+*Use basic description from book*
+
+- The chair by the writing desk is on floor; **INT roll** suggests its occupant stood up in a hurry, knocking over the chair in the process.
+- The table holds several books of 
+	- maritime tales
+	- a bird book
+	- a repair manual for the lighthouse
+	- a pipe and a pouch of tobacco
+	- a pair of binocular
+	- , a sketchbook, pencils, watercolor paints, paintbrushes, and paper.
+- A recently watercolour art is present
+	- This piece appears to show a window; a dark shadow with wide eyes leers through the glass pane. The window can easily be identified as the same one next to the artist’s desk. **Sanity roll (0/1)**
+	- **Natural World or Science (Biology or Zoology)** roll determines the shadow’s eyes look bulbous and appear to be placed almost to the side of its head, similar to the anatomy of a fish or a frog
+	- **Art/Craft roll (such as Painting or Sketching)** suggests this piece was executed in a hurry—it lacks the care and finesse of the other paintings on the table.
+- One more image grabs the investigators’ attention. **It features the nearby thicket, as the lighthouse and one or two other small buildings can be seen in it**. In the darkness of the path leading into the thicket is the silhouette of a man. Unlike the first painting, this one is dated: February 14th, 1926. 
+
+- A mess of **invoices for coin appraisals** from a variety of Rockport antique stores litter the rest of the desktop; the quotes range from two to five dollars, and all are dated late February 1926
+	- A successful Library Use roll reveals the letters regarding coin appraisals are largely in chronological order; the first is dated **March 8th, 1926**, while the latest is dated **April 2nd, 1926**. Latest one is from Miss Anna Telton
+- USE THE PDF FOR MOST OF THE DESCRIPTIONS
+- PLAYERS MIGHT FIND A REVOLVER BOX
+![[Lightless Beacon - Players-1789051704310.webp|208x270]]
+
+George Cassidy's Journal:
+
+![[Lightless Beacon - Players-1789053628805.webp|298x388]]
