@@ -6,3 +6,5 @@
 - [Island](https://youtu.be/7fSFyJT71rg)
 - [InsideLighthouse](https://youtu.be/E6wiqWxWXZ0)
 - [Ambush](https://youtu.be/zxd5uFwuHkk)
+- [Lightning&Thunder](https://youtu.be/nDq6TstdEi8)
+
