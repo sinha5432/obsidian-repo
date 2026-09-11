@@ -14,7 +14,8 @@
 - I allow **PVP**
 - **Dont speak over each other**. We are not gonna take any important decision before a discussion, and I will make sure everyone will get a chance to speak
 - **Dont make un-announced roles**. Tell me what do you wanna do, and , if required, I will ask for a roll. Don't straight up roll perception and expect me to explain what is in front of you
-- 
+- If any issues are there, either with me, or with any other players, please feel free to reach out to either me, or Prateek. We are playing these games just to see if you guys are comfortable with playing with each other, and if you like my GMing style or not
+- If everything goes well, I will try to turn this into full term campaign...but with so much going on IRL, I am not sure if I will be able to commit to it
 
 
 - Roll for Barovian Relics
