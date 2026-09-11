@@ -8,5 +8,18 @@
 - ***Levelling***: We will use milestone levelling system
 - ***Character creation***: Points buy or Rolling.
 	- Roll 4d6kh3, 6 times
-	- Repeat this 3 times and if sum of stats is between 70 to 78, its vaild
+	- Repeat this 3 times and if sum of stats is between 70 to 78, its valid
 	- Rill until you have 3 valid sets, choose one from them
+- **Share MCDM safety checklist** in group, talk about how to fill it
+- I allow **PVP**
+- **Dont speak over each other**. We are not gonna take any important decision before a discussion, and I will make sure everyone will get a chance to speak
+- **Dont make un-announced roles**. Tell me what do you wanna do, and , if required, I will ask for a roll. Don't straight up roll perception and expect me to explain what is in front of you
+- 
+
+
+- Roll for Barovian Relics
+	- Ask players to tell one of their features...or, they can roll as well for such
+
+
+
+- Your journey will start in the humble town of Daggerford on the night before Highharvesttide. an annual feast and holiday celebration. They find shelter in nearby stable because no money
