@@ -8,8 +8,8 @@ Anagha:
  - Dating: Maxilian, lives in Waterdeep, have a parrot
  - Lawful Neutral
 
-Saurav:
- - Ebberon Warforged Artificer 
+Saurav
+ - Ebberon Warforged Artificer named 11
  - Thinks he Knows the face of who created him
  - He was sold to someone
  - Got a feather inside his mechanism (angel's feather)
