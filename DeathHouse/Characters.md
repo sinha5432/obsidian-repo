@@ -16,4 +16,7 @@ Saurav:
 
 Soup:
 - Teifling 1 warlock 1 bard
+- From a dying clan
+- Crowley Clan - forefather made a pact, they turned into Teiflings
+- Since 5 generations 
  
