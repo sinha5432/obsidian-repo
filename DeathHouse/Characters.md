@@ -2,6 +2,10 @@
 
 Anagha:
  - Wood elf Barbarian
+ - Killed her husband coz he sold her cat
+ - Cat: Tabby, Canè
+ - Wants to make money to get back to her partner
+ - Dating: Maxilian
 
 Saurav:
  - Ebberon Warforged Artificer 
