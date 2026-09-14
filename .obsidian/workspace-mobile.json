@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeathHouse/Session 0.md",
+                "file": "DeathHouse/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Characters"
             }
           }
         ]
@@ -117,7 +117,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "DeathHouse/Session 0.md",
+            "file": "DeathHouse/Characters.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,5 +174,8 @@
     }
   },
   "active": "b11d32b766cae85c",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "DeathHouse/Session 0.md",
+    "DeathHouse/Characters.md"
+  ]
 }
