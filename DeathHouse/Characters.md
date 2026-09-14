@@ -18,5 +18,7 @@ Soup:
 - Teifling 1 warlock 1 bard
 - From a dying clan
 - Crowley Clan - forefather made a pact, they turned into Teiflings
-- Since 5 generations 
+- Since 5 generations they have been falling poor
+- Not he goes around and does shows for a living 
+- Earns, drinks, then sleeps
  
