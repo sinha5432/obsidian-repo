@@ -10,7 +10,9 @@ Anagha:
 
 Saurav:
  - Ebberon Warforged Artificer 
- - Knows the face of who created 
+ - Thinks he Knows the face of who created him
+ - He was sold to someone
+ - 
 
 Soup:
 - Teifling 1 warlock 1 bard
