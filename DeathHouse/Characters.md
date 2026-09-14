@@ -2,6 +2,7 @@
 
 Anagha:
  - Carries a great sword
+ - Avante
  - Wood elf Barbarian
  - Killed her husband coz he sold her cat
  - Cat: Tabby, Canè
