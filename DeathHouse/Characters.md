@@ -1,7 +1,11 @@
 
 
 Anagha:
- Wood elf Barbarian
+ - Wood elf Barbarian
 
 Saurav:
- Ebberon Warforged Artificer 
+ - Ebberon Warforged Artificer 
+
+Soup:
+- 
+ 
