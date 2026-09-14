@@ -12,7 +12,7 @@ Saurav:
  - Ebberon Warforged Artificer 
  - Thinks he Knows the face of who created him
  - He was sold to someone
- - 
+ - Got a feather inside his mechanism
 
 Soup:
 - Teifling 1 warlock 1 bard
