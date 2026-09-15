@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeathHouse/Session 0.md",
+                "file": "DeathHouse/Characters.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 0"
+              "title": "Characters"
             }
           }
         ]
@@ -175,7 +175,7 @@
   },
   "active": "b11d32b766cae85c",
   "lastOpenFiles": [
-    "DeathHouse/Characters.md",
-    "DeathHouse/Session 0.md"
+    "DeathHouse/Session 0.md",
+    "DeathHouse/Characters.md"
   ]
 }
