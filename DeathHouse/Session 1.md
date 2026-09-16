@@ -1,15 +1,17 @@
 
+![[Session 1-1789553102222.webp|285x375]]
+
 
 When they enter the place, Gold coins and the person challenging eleven turns to ashes
 
 Not immediately, but when they try to leave the place, the coins and things turn to ashes?
-
-
 ### Main Hall
 A wide hall (area 2A) runs the width of the house, with a black marble fireplace at one end and a sweeping, red marble staircase at the other.
 Mounted on the wall above the fireplace is a Portrait of presumably the family who lives here. 
 
  In the portrait, Thorn is holding a smiling doll wearing a yellow lace dress. A plaque beneath the portrait reads: _Mr. Gustav and Mrs. Elisabeth Durst, with their two children, Rosavalda and Thornboldt.
+
+The room also contains a grandfather clock, which is placed in the circular space at the base of the stairs.
 
 The wood-panelled walls are ornately sculpted with images of vines, flowers, nymphs, and satyrs.
 
@@ -40,3 +42,4 @@ _Then bring toward his secret room_
 _A gift to soothe his savage mood_  
 _But mind the servants of his brood._
 
+and The grandfather clock then strikes six o’clock.
