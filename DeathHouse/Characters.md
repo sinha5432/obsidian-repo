@@ -12,7 +12,7 @@ Anagha:
 - Lawful Neutral
 
 Saurav
-- Ebberon Warforged Artificer named 11
+- Ebberon Warforged Artificer named 11 -> has very weak sense of smell and touch
 - 7ft 1in tall
 - Thinks he Knows the face of who created him
 - He was sold to someone

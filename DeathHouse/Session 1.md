@@ -79,4 +79,4 @@ Due to their midnight deadline, it is impossible for the players to take a long 
 
 ### Area 3
 
-Reloaded desription
+Reloaded description
