@@ -25,4 +25,11 @@ Soup:
 - Since 5 generations they have been falling poor
 - Not he goes around and does shows for a living 
 - Earns, drinks, then sleeps
+
+Karan:
+- Name: Tobi
+- Goliath -> 1 Torm cleric, 1 warlock -> asmodeus
+- Took pact of a kid called Lupin because it was his duty
+- 7ft
+- COnsiders church of Torm as his family. writes letters to them
  
