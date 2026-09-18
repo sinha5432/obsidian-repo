@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DeathHouse/Session 1.md",
+                "file": "DeathHouse/Music.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1"
+              "title": "Music"
             }
           }
         ]
@@ -175,8 +175,9 @@
   },
   "active": "b11d32b766cae85c",
   "lastOpenFiles": [
-    "DeathHouse/Characters.md",
     "DeathHouse/Session 1.md",
+    "DeathHouse/Music.md",
+    "DeathHouse/Characters.md",
     "DeathHouse/Attachments/Session 1-1789553915375.webp",
     "DeathHouse/Attachments/Session 1-1789553102222.webp",
     "DeathHouse/Attachments/Session 1-1789552561459.webp",
