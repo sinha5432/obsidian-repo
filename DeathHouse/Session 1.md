@@ -80,3 +80,22 @@ Due to their midnight deadline, it is impossible for the players to take a long 
 ### Area 3
 
 Reloaded description
+
+### Secret room
+
+Seal:
+![[Session 1-1789741560963.webp|211x211]]
+
+
+- Letter in grabbed in skeleton's left hand
+
+![[Session 1-1789742660702.webp|221x285]]
+
+
+- The chest contains three blank books with black leather covers (worth 25 gp each), three spell scrolls (bless, protection from poison, and spiritual weapon), the deed to a windmill, and a signed will.
+- [Animated armour stat block](https://5e.tools/bestiary.html#animated%20armor_xmm)
+- 
+
+### Amber shard in master bedroom:
+
+![[Session 1-1789743290375.webp|198x200]]
