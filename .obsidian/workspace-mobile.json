@@ -11,12 +11,14 @@
             "id": "b11d32b766cae85c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DeathHouse/Attachments/Session 1-1789743290375.webp"
+                "file": "DeathHouse/Session 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Session 1-1789743290375"
+              "icon": "lucide-file",
+              "title": "Session 1"
             }
           }
         ]
@@ -173,6 +175,7 @@
   },
   "active": "b11d32b766cae85c",
   "lastOpenFiles": [
+    "DeathHouse/Attachments/Session 1-1789743290375.webp",
     "DeathHouse/Session 1.md",
     "DeathHouse/Attachments/Session 1-1789742660702.webp",
     "DeathHouse/Attachments/Session 1-1789741560963.webp",
