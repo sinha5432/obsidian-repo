@@ -3,7 +3,7 @@ World Map:
 
 ![[Character Creation-1788690031863.webp|329x425]]
 
-![[Character Creation-1788695110589.webp|219x331]]
+![[Character Creation-1788695110589.webp|219x331]]![[Cinder - Character Creation-1789913381097.webp|211x227]]
 
 
 
@@ -20,6 +20,25 @@ World Map:
 | **Chirag**    | Gordan Bane  | Clank         | Guardian | Imprinted on Kšan and began protecting her, woke up at their home place | Dead Drake's Den    |
 | **Gitanjali** | Thia         | Halfling      | Wizard   | Comes from a family of nerds                                            | Scholaris           |
 | **Me**        | Cinder       | Emberkin      | Brawler  | Bartender, used to be a soldier 100 years ago                           | Ironspire           |
+
+
+### Osric:
+![[Cinder - Character Creation-1789909418222.webp|241x261]]
+
+
+
+### Kšan:
+![[Cinder - Character Creation-1789909466285.webp|223x278]] ![[Cinder - Character Creation-1789909500685.webp|146x149]]
+
+
+
+
+
+
+
+---
+
+
 
 
 The campaign begins in the **Tegefed Mountains**, where a star is prophesied to form in the heavens. Stars are believed to embody **divinity, ascension, godhood, and the revelation of fate**. Their appearance often marking the rise of something beyond mortal understanding.
