@@ -8,7 +8,9 @@
 - **The Nursemaid (Klara):** The family's nursemaid and Gustav's lover. Murdered by a jealous Elisabeth, her restless, weeping spirit haunts the upper nursery and attic areas.
 
 - **Baby Walter:** The infant son of Gustav and the nursemaid, Klara. Sacrificed by the cult before the adventure begins, his spirit and the energy of other sacrifices fuel the flesh mound monster in the basement. 
-Other Entities
+
+
+### Other Entities
 
 - **Lorgoth the Decayer (The Shambling Mound):** A grotesque amalgamation of plant life, flesh, and bone animated by the dark ritual in the dungeon.
 
