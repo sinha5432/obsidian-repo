@@ -10,6 +10,8 @@
 
 - Ghould Stat Block: [Link](https://5e.tools/bestiary/ghoul-mm.html)
 
+![[Session 2-1790666507711.webp|129x102]]
+
 Treasure in Well Room:
 
 Treasure In addition to some worthless personal effects, each chest contains one or more valuable items. 
@@ -36,3 +38,10 @@ Treasure In addition to some worthless personal effects, each chest contains one
 	- “Beautiful. We’re so beautiful.”
 	- “We are perfect. We are immortal.”
 	- “Help us live forever.”
+
+
+- Better Paralyze rules:
+	- **Dazed**
+		- Attack rolls against you have advantage.
+		- You can Either: Move, Take an Action, or use a Bonus Action. You can’t take Reactions.
+		- Any concentration spell breaks
