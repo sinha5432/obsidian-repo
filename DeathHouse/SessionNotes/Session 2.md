@@ -21,8 +21,14 @@
 
 
 
-- Shambpling mound stat block: [Link](https://5e.tools/bestiary/shambling-mound-xmm.html)
+- Shambpling mound stat block: On StrahdReloaded page
 	- ![[Session 2-1790672108832.webp|169x167]]
+
+- REPLACE THE CENTER WITH AN ACTUAL HEART, SINCE LINES AND VEILS
+
+
+
+- Gustav Durst stat block: [Link](https://5e.tools/bestiary.html#poltergeist_mm)
 
 Treasure in Well Room:
 
