@@ -6,11 +6,23 @@
 - Animated broom stat: [Link](https://5e.tools/bestiary.html#broom%20of%20animated%20attack_cos)
 - Grick stat block: [Link](https://5e.tools/bestiary/grick-mm.html) -> FOLLOW BALANCING GUIDE
 
-![[Session 2-1790666397439.webp|119x130]]
+	- ![[Session 2-1790666397439.webp|119x130]]
 
-- Ghould Stat Block: [Link](https://5e.tools/bestiary/ghoul-mm.html)
+- Ghouls Stat Block: [Link](https://5e.tools/bestiary/ghoul-mm.html)
 
-![[Session 2-1790666507711.webp|129x102]]
+	- ![[Session 2-1790666507711.webp|129x102]]
+
+- Shadow stat block: [Link](https://5e.tools/bestiary/shadow-mm.html)
+	- ![[Session 2-1790667138303.webp|117x117]]
+
+
+- Boneless stat block: [Link](https://5e.tools/bestiary.html#boneless_vrgr)
+	- ![[Session 2-1790668880470.webp|112x149]]
+
+
+
+- Shambpling mound stat block: [Link](https://5e.tools/bestiary/shambling-mound-xmm.html)
+	- ![[Session 2-1790672108832.webp|169x167]]
 
 Treasure in Well Room:
 
