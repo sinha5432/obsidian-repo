@@ -8,28 +8,6 @@
 
 	- ![[Session 2-1790666397439.webp|119x130]]
 
-- Ghouls Stat Block: [Link](https://5e.tools/bestiary/ghoul-mm.html)
-
-	- ![[Session 2-1790666507711.webp|129x102]]
-
-- Shadow stat block: [Link](https://5e.tools/bestiary/shadow-mm.html)
-	- ![[Session 2-1790667138303.webp|117x117]]
-
-
-- Boneless stat block: [Link](https://5e.tools/bestiary.html#boneless_vrgr)
-	- ![[Session 2-1790668880470.webp|112x149]]
-
-
-
-- Shambpling mound stat block: On StrahdReloaded page
-	- ![[Session 2-1790672108832.webp|169x167]]
-
-- REPLACE THE CENTER WITH AN ACTUAL HEART, SINCE LINES AND VEILS
-
-
-
-- Gustav Durst stat block: [Link](https://5e.tools/bestiary.html#poltergeist_mm)
-
 Treasure in Well Room:
 
 Treasure In addition to some worthless personal effects, each chest contains one or more valuable items. 
@@ -47,19 +25,3 @@ Treasure In addition to some worthless personal effects, each chest contains one
 - A successful DC 15 Wisdom (Perception) check reveals an absence of footprints.
 - Those looking for traps -> find a 5-foot-long, 10-foot-deep pit hidden under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom.
 - If stepped on it: Landing prone and taking 3 (1d6) bludgeoning damage from the fall plus 11 (2d10) pierc ing damage from the spikes.
-
-## Ghoulish Encounter:
-
-- TWO Ghouls
-- Only one attacks at a time
-- As the ghouls attack, they mindlessly repeat any or all of the following phrases:
-	- “Beautiful. We’re so beautiful.”
-	- “We are perfect. We are immortal.”
-	- “Help us live forever.”
-
-
-- Better Paralyze rules:
-	- **Dazed**
-		- Attack rolls against you have advantage.
-		- You can Either: Move, Take an Action, or use a Bonus Action. You can’t take Reactions.
-		- Any concentration spell breaks
