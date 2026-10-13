@@ -11,12 +11,17 @@
 
 ## Curse of Strahd
 
+
+#### Village of Barovia:
+
 - **Ireena Kolyana**:
 	- The adopted daughter Of the village of Barovia's (dead) burgomaster.
 	- Carries the soul of Strahd's beloved Tatyana and looks exactly like her.
 	- Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 - **Ismark**:
 	- village of Barovia's (dead) Burgomaster's son
+	- Was helping Irena to re-build Barovia after Strahd's attacks
+	- Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
 - **Doru**:  
 	- village of Barovia's Priest’s son
 	- Incited a Barovian mob to march against Castle Ravenloft. 
@@ -24,3 +29,33 @@
 - **Kolyan Indirovich**:
 	- Barovia's Village's old Burgomaster
 	- Died when Strahd attacked with Zombies, after which he retreated
+
+
+#### Vallaki
+
+- **Baron Vargas Vallakovich**: 
+	- The local burgomaster of Vallaki
+	- Few townsfolk view him with much love or respect
+	- commands the loyalty of Izek Strazn
+- **Izek Strazni**:
+	- Captain of the Guard
+	- a cruel and capricious brute who enforces the Baron’s will with an iron fist
+
+
+**King Dostron**: King before Strahd conquered these lands
+
+**Svarog**: 
+- Leader of Forest Druids
+- a mad druid who has bonded his flesh to the Gulthias Tree that grows atop Yester Hill
+- Believes Strahd to be God
+
+
+Strahd's Brides:
+- **Ludmilla Vilisevic**: Approaches forest folks
+
+
+
+**Burebis**: 
+- Storm Giant
+- Leader of Mountain Duids
+- sole mortal being who remembers old days

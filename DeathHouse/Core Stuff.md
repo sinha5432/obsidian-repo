@@ -37,3 +37,30 @@ A creature that starts its turn in the fog must succeed on a **DC 20 Constitutio
 ### Weather
 
 Sunrise in Barovia is at 7:00 a.m. and sunset is at 5:00 p.m. each day. Additionally, while the mists remain, the lunar cycle is accelerated in Barovia: the full moon arrives once every two weeks, instead of once every four.
+
+#### RESURRECTION MADNESS
+In Barovia, the souls Of the dead are as trapped as the souls of the living. They become caught in the mists and can't travel to the afterlife.
+
+When a humanoid Who has been dead for at least 24 hours returns to life, either by way of a spell or some supernatural means, it gains a random form of indefinite madness brought on by the realization that its spirit is trapped in Barovia, likely forever. To determine how this madness is expressed, roll on the Indefinite Madness table in chapter 8 Of the Dungeon Master's Guide.
+
+
+#### BAROVIAN CALENDAR 
+Barovia has its Own calendar, and Barovians are accustomed to measuring the passage of time in instead of months. 
+As a measurement of time. each moon begins On the first night Of a full and lasts a full lunar cycle. 
+A year consists of twelve moons, or twelve lunar cycles.
+Strahd was born in 306. In 346, he inherited his father's crown. lands. and army.
+Strahd conquered the valley in 347. finished construction of CastIe Ravenloft in 350, and died and became a vampire in 351. 
+
+**The Current year is 735 B.C (Barovian Calendar)**
+
+ The Barovian calendar has twelve 28-day months
+
+#### STRAHD'S VISTANI SERVANTS
+During one of Strahd's military campaigns, years before he became a vampire. a group of Vistani rescued him after he was wounded in battle. These Vistani **not only nursed Strahd back to health but also delivered him safely home**. As a reward for their generosity, **Strahd declared that all Vistani had the right to come and go from his land as they please**, and this privilege extends to the present day.
+
+
+#### Strahd's Animal Spies:
+Strahd’s vampiric brides gather and organize their intelligence:
+- the wolves to Volenta Popofsky
+- the rats to Ludmilla Vilisevic
+- the bats to Anastrasya Karelova.
