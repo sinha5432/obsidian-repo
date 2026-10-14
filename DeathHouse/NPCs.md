@@ -62,3 +62,4 @@ Strahd's Brides:
 
 **Emil**: Former leader of werewolf pack, was betrayed by Kiril
 **Kiril**: Young werewolf who felt his strength had gone unrecognised, current leader of warewolves, was lured by Strahd's promise of riches 
+**Zuleika**: Warewolf pack's holy women, Emil's mate
