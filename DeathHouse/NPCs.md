@@ -72,4 +72,4 @@ Ladies of the fanes:
 - 
 - 
 
-Madam Eva: Vistani fortune teller, cannot deny anyone who wishes to see their future, tells the future to only the person she sees future of, Strahd often visits her for her foresight and suspects she us something more than a human because she has been alive for so long 
+Madam Eva: Vistani fortune teller, cannot deny anyone who wishes to see their future, tells the future to only the person she sees future of, Strahd often visits her for her foresight and suspects she us something more than a human because she has been alive for so long
