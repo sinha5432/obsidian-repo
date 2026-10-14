@@ -65,6 +65,11 @@ Strahd's Brides:
 **Zuleika**: Warewolf pack's holy women, Emil's mate
 
 
+Ladies of the fanes:
+- Weaver
+- Huntress
+- Seeker -> only one surviving, coz forged a pact with Katarina, Strahd's bastard sister , subsumed her soul and manifested an Avatar "Madam Eva"
+- 
+- 
 
-
-Madam Eva: Vistani fortune teller,
+Madam Eva: Vistani fortune teller, cannot deny anyone who wishes to see their future, tells the future to only the person she sees future of, Strahd often visits her for her foresight and suspects she us something more than a human because she has been alive for so long 
