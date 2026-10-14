@@ -61,3 +61,4 @@ Strahd's Brides:
 - sole mortal being who remembers old days
 
 Emil: Former leader of werewolf pack, was betrayed by Kiril
+Kiril: 
