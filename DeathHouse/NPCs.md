@@ -59,3 +59,5 @@ Strahd's Brides:
 - Storm Giant
 - Leader of Mountain Duids
 - sole mortal being who remembers old days
+
+Emil: Former leader of werewolf pack, was betrayed by Kiril
