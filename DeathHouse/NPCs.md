@@ -65,11 +65,14 @@ Strahd's Brides:
 **Zuleika**: Warewolf pack's holy women, Emil's mate
 
 
-Ladies of the fanes:
-- Weaver
-- Huntress
-- Seeker -> only one surviving, coz forged a pact with Katarina, Strahd's bastard sister , subsumed her soul and manifested an Avatar "Madam Eva"
-- 
-- 
+### Ladies of the fanes:
+- The Weaver, the goddess of spring and the eldest sister, governed birth, family, and the growth of new life. Her sigil was the spider.
+- The Huntress, the goddess of summer, governed hunting, war, and the flames of young passion. Her sigil was the wolf.
+	- Gave some families powers of warewolves
+- The Seeker, the goddess of autumn, governed foresight, harvest, and the wisdom of age. Her sigil was the raven.
+	- only one surviving, coz forged a pact with Katarina, Strahd's bastard sister , subsumed her soul and manifested an Avatar "Madam Eva"
+	- Gave some families power of ware-raven
+- The Dreamer, the goddess of winter and the youngest sister, governed rest, hope, and the chill of the grave. Her sigil was the butterfly.
+
 
 Madam Eva: Vistani fortune teller, cannot deny anyone who wishes to see their future, tells the future to only the person she sees future of, Strahd often visits her for her foresight and suspects she us something more than a human because she has been alive for so long
