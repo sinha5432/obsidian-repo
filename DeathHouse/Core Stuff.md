@@ -64,3 +64,5 @@ Strahd’s vampiric brides gather and organize their intelligence:
 - the wolves to Volenta Popofsky
 - the rats to Ludmilla Vilisevic
 - the bats to Anastrasya Karelova.
+
+**Balinok Mountains**: General mountain ranges which surround Barovia

@@ -86,3 +86,12 @@ First three became **the ladies three**
 - Had a blood drinking spear, _Bloodthorn_
 - He is known as *Blood-Drinker*
 - The wolfir fled into the woods, and the wereravens to the mountains
+
+**Barov von Zarovich II**:
+		- Forged _Brightblade_, a sword imbued with Dark Elves' leader's soul (Prince Löwenhart's)
+
+
+**Baba Lysaga**:
+- Was chief magical advisor of Barov II
+- Helped him seal the soul of Dark Elve and forge the sword
+- Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
