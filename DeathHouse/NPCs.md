@@ -95,3 +95,5 @@ First three became **the ladies three**
 - Was chief magical advisor of Barov II
 - Helped him seal the soul of Dark Elve and forge the sword
 - Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
+
+**Sergei**: Strahd's brother
