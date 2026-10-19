@@ -97,3 +97,16 @@ First three became **the ladies three**
 - Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
 
 **Sergei**: Strahd's brother
+
+**Saint Andral**: 
+- Saint of morninglord
+- Supported Barov's claims over the land
+
+
+ **Saint Markovia**: 
+ - Opposed Barov and Saint Andral's claims over Barovia
+ - Created an Abby (church) in Mount Baratok
+
+**Argynvost, a silver dragon**:
+- Attracted to Barovia to uncover the lost secrets of the Amber Temple
+- Founded order of the Silver Dragon: Knights who will defend whatever is inside the temple
