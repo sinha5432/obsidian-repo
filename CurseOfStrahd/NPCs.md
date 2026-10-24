@@ -88,7 +88,8 @@ First three became **the ladies three**
 - The wolfir fled into the woods, and the wereravens to the mountains
 
 **Barov von Zarovich II**:
-		- Forged _Brightblade_, a sword imbued with Dark Elves' leader's soul (Prince Löwenhart's)
+- Forged _Brightblade_, a sword imbued with Dark Elves' leader's soul (Prince Löwenhart's)
+- Strahd, instead of taking it because inheritance, gave it to  Sergei—now a priest in the Morninglord’s church
 
 
 **Baba Lysaga**:
