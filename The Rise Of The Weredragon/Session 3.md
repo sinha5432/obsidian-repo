@@ -1,2 +1,2 @@
 
-Wearrive at The red leaf Inn
+- We arrive at The red leaf Inn
