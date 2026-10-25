@@ -34,4 +34,8 @@ _Dropped off_
 - ~~Took pact of a kid called Lupin because it was his duty~~
 - ~~7ft~~
 - ~~COnsiders church of Torm as his family. writes letters to them~~
+
+
+
+- Will your Eladrin change based on seasons, or will it be constant?
  

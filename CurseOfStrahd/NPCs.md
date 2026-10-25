@@ -136,3 +136,10 @@ First three became **the ladies three**
 **Vasha Krezkova**:
 - settled within the hamlet at the foot of the Abbey of Saint Markovia, naming it “Krezk.”
 - Strahd awarded them WIzards of Wines and Winery, since former owners fled
+
+
+**Elisabeth and Gustav Durst**:
+- Protagonists of Death House
+- heirs to a wealthy merchant family
+- funded a grain mill near Vallaki atop a promontory overlooking the valley
+- settled in the newborn village of Barovia
