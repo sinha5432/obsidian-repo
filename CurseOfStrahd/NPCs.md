@@ -111,3 +111,15 @@ First three became **the ladies three**
 **Argynvost, a silver dragon**:
 - Attracted to Barovia to uncover the lost secrets of the Amber Temple
 - Founded order of the Silver Dragon: Knights who will defend whatever is inside the temple
+- Fought strahd, retreated in his castle, Argynvosthold, died there
+
+
+**Vladimir Horngaard**:  
+- a young captain among the Order of Silver Dragon, very skilled
+- Ordered retreat fearing Strahd's advances cannot be stopped
+- Was killed in Battle of Luna River
+
+
+
+**Battle of the Luna River**:
+- Strahd's army fought with arginvhost the silver dragon
