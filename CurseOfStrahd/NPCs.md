@@ -89,7 +89,7 @@ First three became **the ladies three**
 
 **Barov von Zarovich II**:
 - Forged _Brightblade_, a sword imbued with Dark Elves' leader's soul (Prince Löwenhart's)
-- Strahd, instead of taking it because inheritance, gave it to  Sergei—now a priest in the Morninglord’s church
+- Strahd, instead of taking it because inheritance, gave it to  Sergei—now 
 
 
 **Baba Lysaga**:
@@ -97,8 +97,11 @@ First three became **the ladies three**
 - Helped him seal the soul of Dark Elve and forge the sword
 - Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
 - Followed Strahd’s forces to the valley, settling in a small, ramshackle hut amidst the Svalich Woods.
+- Cursed Queen Ravenovia
 
-**Sergei**: Strahd's brother
+**Sergei**: 
+- Strahd's brother
+- a priest in the Morninglord’s church
 
 **Saint Andral**: 
 - Saint of morninglord
@@ -143,3 +146,35 @@ First three became **the ladies three**
 - heirs to a wealthy merchant family
 - funded a grain mill near Vallaki atop a promontory overlooking the valley
 - settled in the newborn village of Barovia
+
+
+**Kasimir Velikov**:
+- Leader of dusk elves when they were fleeing from Strahd's rebellion
+- Decided that elves should live with Vistani, in valley, hoping Vistanis will protect them from further reprisal.
+
+ **Patrina Velikovna**:
+ - Kasimir's sister
+ - archmage of considerable power
+ - Discovered secrets of Amber temple, studied dark arts
+ - Taught Strahd about Amber temples, led him to Vastiges and told him he can become an ageless lich
+ - Strahd rejected all of the gifts offered to him
+
+
+ **Queen Ravenovia**:
+ - Strahd's mother
+ - Was cursed if Baba Lysaga
+
+
+**Rahadin**:
+- exiled dusk elf son of Prince Erevan Löwenhart
+- Helped King Barov conquer the Dark elves
+- BEcame Strahd's most trusterd advisors, tried to distract strahd from Patrina by seeking out other women
+- Became chamberlain of the Castle Ravenloft
+
+**Artimus**:
+- Brilliant architect who designed part of castle Ravencloft after Amber temple
+
+**Khazan**:
+- Wizard who helped with Castle Ravenloft design
+- chose to settle in the valley, constructing a magical tower in Lake Baratok.
+- Met and married a Barovian woman, Isabella, who came to live with him in the tower.
