@@ -96,12 +96,15 @@ First three became **the ladies three**
 - Was chief magical advisor of Barov II
 - Helped him seal the soul of Dark Elve and forge the sword
 - Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
+- Followed Strahd’s forces to the valley, settling in a small, ramshackle hut amidst the Svalich Woods.
 
 **Sergei**: Strahd's brother
 
 **Saint Andral**: 
 - Saint of morninglord
 - Supported Barov's claims over the land
+- Became the most high priest after Strahd won the war
+- Passed away at ripe age of 82
 
 
  **Saint Markovia**: 
@@ -132,3 +135,4 @@ First three became **the ladies three**
 
 **Vasha Krezkova**:
 - settled within the hamlet at the foot of the Abbey of Saint Markovia, naming it “Krezk.”
+- Strahd awarded them WIzards of Wines and Winery, since former owners fled
