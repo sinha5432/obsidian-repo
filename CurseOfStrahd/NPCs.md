@@ -89,7 +89,7 @@ First three became **the ladies three**
 
 **Barov von Zarovich II**:
 - Forged _Brightblade_, a sword imbued with Dark Elves' leader's soul (Prince Löwenhart's)
-- Strahd, instead of taking it because inheritance, gave it to  Sergei—now 
+- Strahd, instead of taking it because inheritance, gave it to  Sergei
 
 
 **Baba Lysaga**:
@@ -102,6 +102,8 @@ First three became **the ladies three**
 **Sergei**: 
 - Strahd's brother
 - a priest in the Morninglord’s church
+- Became the Most High Priest after Priest Kir's death
+- Was given both _Brightblade_ and later _Sigil of the Sun_ when he became the high preist
 
 **Saint Andral**: 
 - Saint of morninglord
@@ -163,6 +165,8 @@ First three became **the ladies three**
  **Queen Ravenovia**:
  - Strahd's mother
  - Was cursed if Baba Lysaga
+ - Didnt survive journey to Barovia when strahd invited her to live with him in Castle Ravenloft
+ - Buried in castle Ravenloft
 
 
 **Rahadin**:
@@ -178,3 +182,16 @@ First three became **the ladies three**
 - Wizard who helped with Castle Ravenloft design
 - chose to settle in the valley, constructing a magical tower in Lake Baratok.
 - Met and married a Barovian woman, Isabella, who came to live with him in the tower.
+
+
+**Priest Kir**:
+- the Most High Priest of the Morninglord’s church
+- Saint Andral’s successor
+- crafted a strange holy relic called the _Sigil of the Sun_
+- claimed was needed to prepare for the coming of a future enemy.
+- Died in crafting this weapon
+- His position was filled by Sergei
+
+**Ciril Romulich**:
+- high priest of the Church of the Morninglord
+- Delivered news that priest Kir had rafted a strange holy relic called the _Sigil of the Sun_
