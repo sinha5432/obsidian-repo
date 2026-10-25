@@ -112,6 +112,7 @@ First three became **the ladies three**
 - Attracted to Barovia to uncover the lost secrets of the Amber Temple
 - Founded order of the Silver Dragon: Knights who will defend whatever is inside the temple
 - Fought strahd, retreated in his castle, Argynvosthold, died there
+- Strahd took his skull as Trophy
 
 
 **Vladimir Horngaard**:  
@@ -123,3 +124,11 @@ First three became **the ladies three**
 
 **Battle of the Luna River**:
 - Strahd's army fought with arginvhost the silver dragon
+- The order of Silver dragon was slaughtered
+
+
+**Boris Vallakovic**:
+- Founded town of Vallaki
+
+**Vasha Krezkova**:
+- settled within the hamlet at the foot of the Abbey of Saint Markovia, naming it “Krezk.”
