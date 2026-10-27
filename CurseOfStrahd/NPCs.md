@@ -104,6 +104,8 @@ First three became **the ladies three**
 - a priest in the Morninglord’s church
 - Became the Most High Priest after Priest Kir's death
 - Was given both _Brightblade_ and later _Sigil of the Sun_ when he became the high preist
+- Gave up presithood to marry Tatyana after given an ultimatum by Strahd
+- Married to Tatyana
 
 **Saint Andral**: 
 - Saint of morninglord
@@ -207,6 +209,7 @@ First three became **the ladies three**
 
 **Dorfniya Dilisnya**:
 - wanted to win Strahd's hand to marry
+- Got stuck with Strahd and others in a bad winter
 
 **Pidlwick**:
 - Dorfniya's fool
