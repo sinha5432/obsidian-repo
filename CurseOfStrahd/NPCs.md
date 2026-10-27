@@ -202,4 +202,11 @@ First three became **the ladies three**
 - Lived in the Village of Barovia
 - Was Lavished by Strahd, even though she was 30 years younger than him
 - She loved Sergei, same age as her, and in his prime
-- Strahd held
+- Strahd held himself back from breaking these two because pride
+
+
+**Dorfniya Dilisnya**:
+- wanted to win Strahd's hand to marry
+
+**Pidlwick**:
+- Dorfniya's fool
