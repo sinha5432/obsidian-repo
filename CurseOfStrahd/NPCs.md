@@ -127,6 +127,7 @@ First three became **the ladies three**
 - a young captain among the Order of Silver Dragon, very skilled
 - Ordered retreat fearing Strahd's advances cannot be stopped
 - Was killed in Battle of Luna River
+- Returned to life as revenant once skull of Argynvast was placed in castle
 
 
 
@@ -195,3 +196,10 @@ First three became **the ladies three**
 **Ciril Romulich**:
 - high priest of the Church of the Morninglord
 - Delivered news that priest Kir had rafted a strange holy relic called the _Sigil of the Sun_
+
+**Tatyana Federovna**:
+- Sergei, Strahd's brother fell in love with her
+- Lived in the Village of Barovia
+- Was Lavished by Strahd, even though she was 30 years younger than him
+- She loved Sergei, same age as her, and in his prime
+- Strahd held
