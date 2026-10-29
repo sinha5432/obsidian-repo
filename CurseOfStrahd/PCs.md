@@ -1,6 +1,6 @@
 
 
-Anagha:
+**Anagha**:
 
 - Avante
 - Carries a great sword 
@@ -11,14 +11,14 @@ Anagha:
 - Dating: Maxilian, lives in Waterdeep, have a parrot
 - Lawful Neutral
 
-Saurav
+**Saurav**:
 - Ebberon Warforged Artificer named 11 -> has very weak sense of smell and touch
 - 7ft 1in tall
 - Thinks he Knows the face of who created him
 - He was sold to someone
 - Got a feather inside his mechanism (angel's feather)
 
-Soup:
+**Soup**:
 - Tiefling 1 warlock 1 bard
 - From a dying clan
 - Crowley Clan - forefather made a pact, they turned into Teiflings
@@ -36,6 +36,6 @@ _Dropped off_
 - ~~COnsiders church of Torm as his family. writes letters to them~~
 
 
-
+**Rahul**:
 - Will your Eladrin change based on seasons, or will it be constant?
  
