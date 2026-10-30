@@ -1,23 +1,36 @@
 ## Topics to discuss:
 
 - **Tone***. This will be a heroic fantasy adventure in a dark fantasy/gothic horror setting. Your character should be a hero, or have the potential to swiftly become a hero when faced with a life-or-death situation. Be prepared to cooperate and collaborate with the other players in order to succeed.
-- **_Theme_**. While this campaign will not explore or focus upon your character's personal backstory, you should allow the campaign's characters and setting to inspire your character to confront their own regrets, traumas, flaws, and fears.
+
+- **_Theme_**. While this campaign ~~will not~~ *most probably will* explore or focus upon your character's personal backstory, you should allow the campaign's characters and setting to inspire your character to confront their own regrets, traumas, flaws, and fears.
+
 - **_Tactics & Difficulty_**. The combat will be present, and it will be balanced keeping your characters in mind.
+
 - **_Roleplay_**. This campaign is primarily driven by the stories of its non-player characters, and their relationships to the party. I will try to keep it as role-play heavy as possible
+
 - **_Rewards_**. Treasure, magic items, and other material rewards will be far more scarce than in an ordinary fantasy campaign. Instead, most rewards will take the form of allies, information, and new story hooks.
+
 - ***Levelling***: We will use milestone levelling system
-- ***Character creation***: Points buy or Rolling.
+
+- ***Character creation***:  ~~Points buy or~~  Rolling.
 	- Roll 4d6kh3, 6 times
 	- Repeat this 3 times and if sum of stats is between 70 to 78, its valid
-	- Rill until you have 3 valid sets, choose one from them
+	- Roll until you have 3 valid sets, choose one from them
 - **Share MCDM safety checklist** in group, talk about how to fill it
 - I allow **PVP**
 - **Dont speak over each other**. We are not gonna take any important decision before a discussion, and I will make sure everyone will get a chance to speak
+
 - **Dont make un-announced roles**. Tell me what do you wanna do, and , if required, I will ask for a roll. Don't straight up roll perception and expect me to explain what is in front of you
+
 - If any issues are there, either with me, or with any other players, if someone offends you, makes you angry, or you just don't like them, please feel free to reach out to either me, or Prateek. We are playing these games just to see if you guys are comfortable with playing with each other, and if you like my GMing style or not
-- If everything goes well, I will try to turn this into full term campaign...but with so much going on IRL, I am not sure if I will be able to commit to it
+
+- ~~If everything goes well, I will try to turn this into full term campaign...but with so much going on IRL, I am not sure if I will be able to commit to it~~
+- This is going to be a long term campaign spanning 20 something sessions over the course of next year. I will try to host at least 2 sessions per month.
+  
+  - **Don't meta-game**. Always try to act like your character would, instead of how you as a player would.
+  
 - I will be minimising use of any AI artworks, music, media or anything. If you feel like you need AI to convey something related to your character, please feel free to do so.
-- **Don't meta-game**. Always try to act like your character would, instead of how you as a player would.
+  
 
 
 - Roll for Barovian Relics
@@ -25,6 +38,9 @@
 
 
 
-- Your journey will start in the humble town of Daggerford on the night before Highharvesttide. an annual feast and holiday celebration. They find shelter in nearby stable because no money
+- ~~Your journey will start in the humble town of Daggerford on the night before Highharvesttide. an annual feast and holiday celebration. They find shelter in nearby stable because no money~~
 - [Daggerford History](https://the-realm-of-wonder.fandom.com/wiki/Daggerford)
-- 
+
+
+
+

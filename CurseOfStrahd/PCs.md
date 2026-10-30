@@ -16,15 +16,17 @@
 - 7ft 1in tall
 - Thinks he Knows the face of who created him
 - He was sold to someone
-- Got a feather inside his mechanism (angel's feather)
+- Got a feather inside his mechanism ([Angel's feather](https://eidolonpublishing.com/adventures/curse-of-strahd-reloaded/character-creation#redemption-the-angels-feather))
 
 **Soup**:
 - Tiefling 1 warlock 1 bard
 - From a dying clan
-- Crowley Clan - forefather made a pact, they turned into Teiflings
+- Crowley Clan - forefather made a pact, they turned into Tieflings
 - Since 5 generations they have been falling poor
 - Not he goes around and does shows for a living 
 - Earns, drinks, then sleeps
+- I gave him an [Electrum Coin](https://eidolonpublishing.com/adventures/curse-of-strahd-reloaded/character-creation#wealth-the-electrum-coin)
+
 
 
 _Dropped off_
@@ -38,4 +40,5 @@ _Dropped off_
 
 **Rahul**:
 - Will your Eladrin change based on seasons, or will it be constant?
+- Make him roll for a Barovian Relic, based on that can decide how it leads him to barovia
  
