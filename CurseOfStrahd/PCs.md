@@ -17,6 +17,7 @@
 - Thinks he Knows the face of who created him
 - He was sold to someone
 - Got a feather inside his mechanism ([Angel's feather](https://eidolonpublishing.com/adventures/curse-of-strahd-reloaded/character-creation#redemption-the-angels-feather))
+- HE DOESNT KNOW WHOSE FEATHER THIS IS
 
 **Soup**:
 - Tiefling 1 warlock 1 bard
