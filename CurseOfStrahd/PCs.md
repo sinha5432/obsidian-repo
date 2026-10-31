@@ -46,4 +46,6 @@ _Dropped off_
 - Aubron Starflower
 - Eladrin, Hexblade warlock
 - Pact with lady of the night?
+- Made the pact in hurry because his hometown was getting invaded
+- Is looking for a way back to feywilds after he got stuck in material place in order to chase the invaders
  
