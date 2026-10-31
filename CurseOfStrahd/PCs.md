@@ -40,6 +40,10 @@ _Dropped off_
 
 
 **Rahul**:
-- Will your Eladrin change based on seasons, or will it be constant?
+- Will your Eladrin change based on seasons, or will it be constant? - Changing
 - Make him roll for a Barovian Relic, based on that can decide how it leads him to barovia
+- _wanderer's scarf_
+- Aubron Starflower
+- Eladrin, Hexblade warlock
+- Pact with lady of the night?
  

@@ -32,7 +32,6 @@
 - I will be minimising use of any AI artworks, music, media or anything. If you feel like you need AI to convey something related to your character, please feel free to do so.
   
 
-
 - Roll for Barovian Relics
 	- Ask players to tell one of their features...or, they can roll as well for such
 
