@@ -105,7 +105,8 @@ First three became **the ladies three**
 - Became the Most High Priest after Priest Kir's death
 - Was given both _Brightblade_ and later _Sigil of the Sun_ when he became the high preist
 - Gave up presithood to marry Tatyana after given an ultimatum by Strahd
-- Married to Tatyana
+- ~~Married~~ Engaged to Tatyana
+- Killed by Strahd on his wedding day after Strahd accepted Vampyrism
 
 **Saint Andral**: 
 - Saint of morninglord
@@ -205,11 +206,29 @@ First three became **the ladies three**
 - Was Lavished by Strahd, even though she was 30 years younger than him
 - She loved Sergei, same age as her, and in his prime
 - Strahd held himself back from breaking these two because pride
+- Fled after her fiance was killed by Strahd and he confessed his love to her
+- Died by jumping off Castle Ravenloft after Strahd chases her
 
 
 **Dorfniya Dilisnya**:
 - wanted to win Strahd's hand to marry
 - Got stuck with Strahd and others in a bad winter
+- Got pneumonia during that, died and buried beneath the castle
+- Had a son Leo Dilisnya in Strahd's guard
 
 **Pidlwick**:
 - Dorfniya's fool
+- Got murdered by mechanical fool by pushed down the stairs
+- Mechanical guy was named Pidlwick II
+- Pidlwick II was locked away in the closet soon
+
+**Leo Dilisnya**:
+- Son of Dorfniya Dilisnya
+- Was leader of party who found Tatyana's body
+- Fled after shooting at Strahd for killing Tatyana
+
+**Katarina**:
+- Strahd's bastard sister
+- Spared by Strahd in his rampage
+- She fled from castle
+- Made pact with the Seeker
