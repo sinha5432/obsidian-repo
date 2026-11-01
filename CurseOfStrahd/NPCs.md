@@ -118,6 +118,10 @@ First three became **the ladies three**
  **Saint Markovia**: 
  - Opposed Barov and Saint Andral's claims over Barovia
  - Created an Abby (church) in Mount Baratok
+ - Opposed dusk elf massacre by Strahd, gathered followers and declared war on Ravenloft
+ - Destroyed group of Vampire spawns in Abbey when Strahd sent them
+ - Lead her followers of Ravenloft, battled Strahd, but died in process
+ - Strahd sealed her remains in the crypts below Ravenloft
 
 **Argynvost, a silver dragon**:
 - Attracted to Barovia to uncover the lost secrets of the Amber Temple
@@ -157,6 +161,8 @@ First three became **the ladies three**
 **Kasimir Velikov**:
 - Leader of dusk elves when they were fleeing from Strahd's rebellion
 - Decided that elves should live with Vistani, in valley, hoping Vistanis will protect them from further reprisal.
+- Ralied Dusk elves to stop Patrina and Strahd's wedding
+- Pelted Patrina with stone, had his ears chopped off by Rahadin
 
  **Patrina Velikovna**:
  - Kasimir's sister
@@ -164,6 +170,8 @@ First three became **the ladies three**
  - Discovered secrets of Amber temple, studied dark arts
  - Taught Strahd about Amber temples, led him to Vastiges and told him he can become an ageless lich
  - Strahd rejected all of the gifts offered to him
+ - When Strahd became Vampire, she returned, wishing to be his wife, Strahd accepted
+ - She was stones to death by his people so Strahd cannot claim her as his wife
 
 
  **Queen Ravenovia**:
@@ -178,6 +186,9 @@ First three became **the ladies three**
 - Helped King Barov conquer the Dark elves
 - BEcame Strahd's most trusterd advisors, tried to distract strahd from Patrina by seeking out other women
 - Became chamberlain of the Castle Ravenloft
+- Is loyal servant of Strahd, would give his life for him
+- Took care of Strahd's wives when they turned to vampire spawn
+- Punished dark elves after they pelted Patrina, by slaying all the females there and chopping Patrina's brother's ears
 
 **Artimus**:
 - Brilliant architect who designed part of castle Ravencloft after Amber temple
@@ -233,3 +244,8 @@ First three became **the ladies three**
 - She fled from castle, hiding with the Vistani
 - Made pact with the Seeker
 - Transformed into Madam Eva after making the pact
+
+**Sasha Ivliskova**:
+- First of strahd's wives
+- Is a vampire spawn now
+- Is buried in a crypt beneath Ravenloft after Strahd got bored of her (still technically alive)
