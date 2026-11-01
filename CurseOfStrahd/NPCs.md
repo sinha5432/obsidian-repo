@@ -199,7 +199,7 @@ First three became **the ladies three**
 - chose to settle in the valley, constructing a magical tower in Lake Baratok.
 - Met and married a Barovian woman, Isabella, who came to live with him in the tower.
 - His servant stole, hilt of Brightblade after Strahd gave it to him to destroy it
-- His servant's corpse was mutilated in forest, hilt was lost
+- His servant's corpse was mutilated in the Svalich woods, hilt was lost
 - He told Strahd that entire sword has been destroyed
 
 
