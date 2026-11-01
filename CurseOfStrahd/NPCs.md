@@ -230,5 +230,6 @@ First three became **the ladies three**
 **Katarina**:
 - Strahd's bastard sister
 - Spared by Strahd in his rampage
-- She fled from castle
+- She fled from castle, hiding with the Vistani
 - Made pact with the Seeker
+- Transformed into Madam Eva after making the pact
