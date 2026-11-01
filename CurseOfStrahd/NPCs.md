@@ -122,6 +122,7 @@ First three became **the ladies three**
  - Destroyed group of Vampire spawns in Abbey when Strahd sent them
  - Lead her followers of Ravenloft, battled Strahd, but died in process
  - Strahd sealed her remains in the crypts below Ravenloft
+ - Her attacks left Strahd wounded
 
 **Argynvost, a silver dragon**:
 - Attracted to Barovia to uncover the lost secrets of the Amber Temple
@@ -197,6 +198,9 @@ First three became **the ladies three**
 - Wizard who helped with Castle Ravenloft design
 - chose to settle in the valley, constructing a magical tower in Lake Baratok.
 - Met and married a Barovian woman, Isabella, who came to live with him in the tower.
+- His servant stole, hilt of Brightblade after Strahd gave it to him to destroy it
+- His servant's corpse was mutilated in forest, hilt was lost
+- He told Strahd that entire sword has been destroyed
 
 
 **Priest Kir**:
