@@ -244,7 +244,10 @@ First three became **the ladies three**
 **Leo Dilisnya**:
 - Son of Dorfniya Dilisnya
 - Was leader of party who found Tatyana's body
-- Fled after shooting at Strahd for killing Tatyana
+- Fled after shooting at Strahd for killing Tatyana towards Abbey of Saint Markovia
+- Was transformed into Vampire spawn and entombed beneath Wachter manor
+- Slowly eroded to death with his Sanity eroding away over the decades
+- His flesh was removed from bones and hidden by his servants, to prevent his resurrection
 
 **Katarina**:
 - Strahd's bastard sister
@@ -269,3 +272,8 @@ First three became **the ladies three**
 - She learned about some adventurers visiting the lands, and Strahd is meeting them, and decided to kill them in his honour
 - Strahd wanted fresh blood, and she interfered, so Strahd killed her and all her followers
 - Their spirits stayed in the house trying to accomplish Elizabeth's last wish, so find and kill worthy Adventurers in honour of Strahd
+
+
+**Lovina Wachter** :
+- Helped Strahd to locate Leo
+- Agreed for Leo to be turned into vampire spawn and trapped in dungeon below wachter manor
