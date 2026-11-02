@@ -253,3 +253,15 @@ First three became **the ladies three**
 - First of strahd's wives
 - Is a vampire spawn now
 - Is buried in a crypt beneath Ravenloft after Strahd got bored of her (still technically alive)
+
+
+**Elisabeth Durst**:
+- Lived in the village of Barovia
+- Suspected her husband is having affair with the maid
+- Got influenced by the Amber Shard she found in rice deliveries of the mill
+- Killed her husband, turned the child into an undead abomination, tortured them killed the maid
+- Prayed to Strahd, founded a cult, visited Strahd in his castle to ask for immortality
+- Strahd rejected her, by sending a letter to her via Rahadin, and she went mad
+- She learned about some adventurers visiting the lands, and Strahd is meeting them, and decided to kill them in his honour
+- Strahd wanted fresh blood, and she interfered, so Strahd killed her and all her followers
+- Their spirits stayed in the house trying to accomplish Elizabeth's last wish, so find and kill worthy Adventurers in honour of Strahd
