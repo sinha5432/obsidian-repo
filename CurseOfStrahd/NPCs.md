@@ -201,6 +201,10 @@ First three became **the ladies three**
 - His servant stole, hilt of Brightblade after Strahd gave it to him to destroy it
 - His servant's corpse was mutilated in the Svalich woods, hilt was lost
 - He told Strahd that entire sword has been destroyed
+- His wife conceived a child, but both of them died at childbirth
+- In rage, he visited Amber temple to resurrect them, but both of them had been already re-incarnated
+- Blamed Strahd, became Lich, marched an undead army towards the Castle Ravenloft
+- Was persuaded by Strahd to be his magical advisor instead, and he agreed, dumped his undead army in northeastern spur of Mount Baratok, forgotten
 
 
 **Priest Kir**:
