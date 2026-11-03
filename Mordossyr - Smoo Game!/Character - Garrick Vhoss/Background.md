@@ -14,7 +14,7 @@
 6. A debt you intend to collect some day.
 7. Have you ever watched someone suffer (helpless or not)? How did you respond?
 
-8, One moment you wish you could fix if you could go back in time.
+8. One moment you wish you could fix if you could go back in time.
 
 9. The best compliment you have ever received.
 10. Something/someone you have never forgiven. If yes, why?
