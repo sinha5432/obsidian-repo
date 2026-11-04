@@ -205,6 +205,8 @@ First three became **the ladies three**
 - In rage, he visited Amber temple to resurrect them, but both of them had been already re-incarnated
 - Blamed Strahd, became Lich, marched an undead army towards the Castle Ravenloft
 - Was persuaded by Strahd to be his magical advisor instead, and he agreed, dumped his undead army in northeastern spur of Mount Baratok, forgotten
+- Got infatuated with leaving Barovia, tried Demi-Lichdom, destroyed himself in the process
+- His spellbook was lost, the energy during the transformation process twisted mists nearby making it another entrance to Barovia
 
 
 **Priest Kir**:
