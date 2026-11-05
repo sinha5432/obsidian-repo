@@ -51,14 +51,25 @@
 
 
 Strahd's Brides:
-- **Ludmilla Vilisevic**: Approaches forest folks
+- **Ludmilla Vilisevic**: 
+	- Chief advisor of magic for Strahd
+	- Approaches forest folks
+- **Anastrasya Karelova**, 
+	- Vallakian noblewoman 
+	- cunning and witful
+	- Authority of Strahd's vast network of spies
+- **Volenta Popofsky**
+	- Barovian courtesan whose cheerful sadism was matched only by her innovative spirit
+	- Built traps and gruesome installations
+	- *eleven's creator?*
 
 
 
-**Burebis**: 
+**Elder Burebis**: 
 - Storm Giant
 - Leader of Mountain Duids
 - sole mortal being who remembers old days
+- Their mate is a storm giant, Deceba
 
 **Emil**: Former leader of werewolf pack, was betrayed by Kiril
 **Kiril**: Young werewolf who felt his strength had gone unrecognised, current leader of warewolves, was lured by Strahd's promise of riches 
@@ -98,6 +109,9 @@ First three became **the ladies three**
 - Was banished because of unhealthy attachments with Barov's new born Baby, Strahd
 - Followed Strahd’s forces to the valley, settling in a small, ramshackle hut amidst the Svalich Woods.
 - Cursed Queen Ravenovia
+- Claimed swamp of Berez as her staying grounds in later years
+- Was drawn towards the Swamp Fane nearby, was confronted by storm giant Deceba
+- She killed the storm giant, took her skull and and crafter a magic vehicle from it
 
 **Sergei**: 
 - Strahd's brother
@@ -279,3 +293,29 @@ First three became **the ladies three**
 **Lovina Wachter** :
 - Helped Strahd to locate Leo
 - Agreed for Leo to be turned into vampire spawn and trapped in dungeon below wachter manor
+
+Tatyana's re-incarnations:
+- **Marina Ulrich**:
+	- Lived in Berez
+	- Was courted by Strahd
+	- Was killed by her Burgomaster and brother before Strahd could turn her into Vampire Spawn
+	- Strahd erected her statue, and destroyed her village
+
+
+**Martikovs**:
+- Descendants of original owners of Wizards of WInery
+- Had wareraven Lycanthropy
+- Married their son with Krezkovs' Daughter
+- They made sure Winery is inherited by their side of family
+- Still have good relation with Krezkov, they deliver wine to them for free
+
+**Ithuriel**:
+- Deva sent to honor Saint Markovia’s memory
+- After 237 years of Barovia's isolation
+-  took up residence at the Abbey of Saint Markovia
+- called himself the Abbot
+- Re-opened Abbey, started tending to Barovia's sick
+- fell from grace and descended into madness because Strahd's influence
+- Basically, the family of Belview's, inbred, sick and Lepers, wanted to be cured and become more than humans, like having cat like eyes and ability to fly
+- They got transformed into mongrelfolks because Strahd visited and influenced their choices
+
