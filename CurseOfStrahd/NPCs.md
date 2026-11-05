@@ -12,16 +12,12 @@
 ## Curse of Strahd
 
 
-#### Village of Barovia:
 
 - **Ireena Kolyana**:
 	- The adopted daughter Of the village of Barovia's (dead) burgomaster.
 	- Carries the soul of Strahd's beloved Tatyana and looks exactly like her.
 	- Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
-- **Ismark**:
-	- village of Barovia's (dead) Burgomaster's son
-	- Was helping Irena to re-build Barovia after Strahd's attacks
-	- Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
+
 - **Doru**:  
 	- village of Barovia's Priest’s son
 	- Incited a Barovian mob to march against Castle Ravenloft. 
@@ -86,6 +82,7 @@ Strahd's Brides:
 	- Gave some families power of ware-raven
 - The Dreamer, the goddess of winter and the youngest sister, governed rest, hope, and the chill of the grave. Her sigil was the butterfly.
 	- Went on to become devourer and then the mists
+	- Was imprisoned by Strahd in Crystal heart in his Castle, while he tortured her to tell stories about Fanes and everything
 
 First three became **the ladies three**
 
@@ -112,6 +109,8 @@ First three became **the ladies three**
 - Claimed swamp of Berez as her staying grounds in later years
 - Was drawn towards the Swamp Fane nearby, was confronted by storm giant Deceba
 - She killed the storm giant, took her skull and and crafter a magic vehicle from it
+- Created a coven of witches while living there
+
 
 **Sergei**: 
 - Strahd's brother
@@ -319,3 +318,34 @@ Tatyana's re-incarnations:
 - Basically, the family of Belview's, inbred, sick and Lepers, wanted to be cured and become more than humans, like having cat like eyes and ability to fly
 - They got transformed into mongrelfolks because Strahd visited and influenced their choices
 
+**Lugdana**:
+- Paladin of MorningLord 
+- Took arms to defend his people when Strahd's spawns attacked when their master Slumbered
+- Found the secret history of the long-lost ancient artifact _Sigil of the Sun_
+
+**Ismark Antonovich**:
+-  village of Barovia's (dead) Burgomaster's son
+- Was helping Irena to re-build Barovia after Strahd's attacks
+- Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
+- Current burgomaster of Barovia
+- Was names "Ismark the Great" later
+- perished in a fight defending his village
+
+**Livius Martikov**:
+- Wareraven
+- helps people  and lives in Village of Barovia
+- Stole the Sigil of Sun from Castle Ravenloft's crypts while Lugdana and Ismark distracted guards
+- Founded keepers of feather: a secret society of **wereravens** who would aid and assist the good-hearted heroes of Barovia
+
+
+_Holy Symbol of Ravenkind_:
+- Lugdana, Ismark and Livius hailed *Sigil of the Sun* to spread morninglord's glory and defeat Strahd spawns wherever they went
+- Lugdana didnt wanted to say it came from Strahd's castle itself so said an angel in the form of a raven had delivered the sigil to them
+- Hence it came to known as Holy Symbol of Ravenkind
+
+
+**Baba Zelenna**
+- Strongest witch in Baba Lysagna's coven
+- founded the Cult of Chernovog
+- Sought to summon Demon prince Chernovog to overthrow Strahd
+- Broke Strahd's connection to the sacred fane and started summoning the Demon
