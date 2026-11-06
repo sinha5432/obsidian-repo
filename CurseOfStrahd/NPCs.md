@@ -293,12 +293,13 @@ First three became **the ladies three**
 - Helped Strahd to locate Leo
 - Agreed for Leo to be turned into vampire spawn and trapped in dungeon below wachter manor
 
-Tatyana's re-incarnations:
-- **Marina Ulrich**:
-	- Lived in Berez
-	- Was courted by Strahd
-	- Was killed by her Burgomaster and brother before Strahd could turn her into Vampire Spawn
-	- Strahd erected her statue, and destroyed her village
+
+ **Marina Ulrich**:
+ - Tatyana's first re-incarnation
+ - Lived in Berez
+ - Was courted by Strahd
+ - Was killed by her Burgomaster and brother before Strahd could turn her into Vampire Spawn
+ - Strahd erected her statue, and destroyed her village
 
 
 **Martikovs**:
@@ -322,6 +323,8 @@ Tatyana's re-incarnations:
 - Paladin of MorningLord 
 - Took arms to defend his people when Strahd's spawns attacked when their master Slumbered
 - Found the secret history of the long-lost ancient artifact _Sigil of the Sun_
+- She defeated Chernovog and the coven, but fell in battle
+- _The Holy Symbol_ was lost after this
 
 **Ismark Antonovich**:
 -  village of Barovia's (dead) Burgomaster's son
@@ -336,6 +339,7 @@ Tatyana's re-incarnations:
 - helps people  and lives in Village of Barovia
 - Stole the Sigil of Sun from Castle Ravenloft's crypts while Lugdana and Ismark distracted guards
 - Founded keepers of feather: a secret society of **wereravens** who would aid and assist the good-hearted heroes of Barovia
+- Had a grandson called Davian
 
 
 _Holy Symbol of Ravenkind_:
@@ -349,3 +353,37 @@ _Holy Symbol of Ravenkind_:
 - founded the Cult of Chernovog
 - Sought to summon Demon prince Chernovog to overthrow Strahd
 - Broke Strahd's connection to the sacred fane and started summoning the Demon
+
+**Rudolph van Richten**
+- When he was 28, he was a successful doctor and husband, married to his childhood sweetheart, Ingrid
+- Had a son Erasmus, who got stolen by Madame Irene Radanavich, sold to Baron Metus
+- Interrogated Ezmerelda's parents when trying to find his son
+- It was too late and he lost both his wife and Son
+- Destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
+
+**Madame Irene Radanavich**:
+- the leader, or _raunie_ of the Vistani Radanavich caravan
+- her First foray—joined by the parents of the young Ezmerelda d'Avenir—went sour, leaving Madame Radanavich's son, *Radu Radanavich*, badly wounded.
+- She brought him to Rudolph who was unable to save him
+- As revenge, Madame kidnapped Rudolph's son, Erasmus
+- Sold him to Baron Metus
+- Fled through the mists in Barovia where they believed neither Van Richten nor Metus could follow.
+
+**vampire Baron Metus**:
+- forged an alliance with Madame Irene Radanavich
+- Dwelled in the county neighbouring the Van Richtens' home
+- commissioned Madame Radanavich to kidnap victims and consorts for his pleasures
+
+
+**Urwin**:
+- Second great-grandson of the wareraven Livius Martikov
+- Second Son of Davian
+
+**Fiona Wachter**:
+- Ran away from Martikovs' winery, Valaki after heated argument with her parents
+- Found herself in Svalich woods where Baba Lysaga witch found her
+- She was taought about magic and witchcraft, made a part of coven
+- Struggled to listen to "the Voice of Mother night"
+- Her Father and brother died in a tragic accident 6 months later, so she returned back to Valaki against Baba Lysaga's wyll
+- She took her grimoire with her so Baba banned her from returning to Berez
+- When she wept for her family and took control of Wachterhaus, Ezra, goddess of the Mists spoke to her
