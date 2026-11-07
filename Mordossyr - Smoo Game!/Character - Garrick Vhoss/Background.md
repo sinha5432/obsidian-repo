@@ -3,6 +3,12 @@
 - Was once a renounced warrior of God, lost everything when daughter died
 - Now spends his time as a blacksmith in nearby village, seeking redemption?
 - Blames himself for his daughter's death
+
+
+- Lives in : Farmland area (SW) (most probably)
+- Was part of The Vigil?
+- Gave up that life when someone close to him died?, or just got called?, and blames himself for her death (probably wife/daughter), since he tried to make the girl a warrior like him
+- Wants to be called himself so he can figure out what is going on, and if possible, find his daughter, otherwise can stop this maddening from happening ever again?
 ---
 
 
