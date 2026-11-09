@@ -8,7 +8,10 @@
 - Lives in : Farmland area (SW) (most probably)
 - Was part of The Vigil?
 - Gave up that life when someone close to him died?, or just got called?, and blames himself for her death (probably wife/daughter), since he tried to make the girl a warrior like him
-- Wants to be called himself so he can figure out what is going on, and if possible, find his daughter, otherwise can stop this maddening from happening ever again?
+- ~~Wants to be called himself so he can figure out what is going on, and if possible, find his daughter,?~~
+- Daughter went for expedition, didnt return, went to Load bearer
+- How did he used to channel his oath, without picking oath
+- He used to be a sell sword, then became a redemption paladin 
 ---
 
 
