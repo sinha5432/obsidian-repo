@@ -18,6 +18,10 @@
 	- Carries the soul of Strahd's beloved Tatyana and looks exactly like her.
 	- Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 
+	- Was known as **Izek Strazni**, sister of Izek Strazni
+	- Her and her brother were attacked by warewolf, which her brother defeated with the help of an Amber crystal's power
+	- She fled during the attack in woods, only to end up in Barovia and got adopted by its burgomaster
+ 
 - **Doru**:  
 	- village of Barovia's Priest’s son
 	- Incited a Barovian mob to march against Castle Ravenloft. 
@@ -27,7 +31,6 @@
 	- Died when Strahd attacked with Zombies, after which he retreated
 
 
-#### Vallaki
 
 - **Baron Vargas Vallakovich**: 
 	- The local burgomaster of Vallaki
@@ -36,6 +39,10 @@
 - **Izek Strazni**:
 	- Captain of the Guard
 	- a cruel and capricious brute who enforces the Baron’s will with an iron fist
+	- Has a four-year-old younger sister, **Ireena Strazni**
+	- They were attacked by Direwolf, he lost his arm, heard the voice of an Amber Shard he had picked up by the shore of Lake Zarovich
+	- It promised power to keep his sister safe, Izek accepted, destroyed the wolf with its power
+
 
 
 **King Dostron**: King before Strahd conquered these lands
@@ -360,6 +367,12 @@ _Holy Symbol of Ravenkind_:
 - Interrogated Ezmerelda's parents when trying to find his son
 - It was too late and he lost both his wife and Son
 - Destroyed Metus in fury, and took up a life of hunting monsters—and vengeance against the Vistani.
+- Learned Radanavich's location from d'Avenir, but couldn't traverse mists
+- obtained a _mist talisman_, Khazan's ring and followed it to meet Khazan and his portal to Barovia
+- Was encountered by Khazan's spirit and given his undead army
+- Unleshed undead army on Radanavich, it killed everyone but one man - Arturi Radanavich
+- Considered taking his own life after he fulfilled his Vengeance, was saved by Madam Eva and given another *mist talisman* to leave Barovia
+- He left Barovia
 
 **Madame Irene Radanavich**:
 - the leader, or _raunie_ of the Vistani Radanavich caravan
