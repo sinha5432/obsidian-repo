@@ -12,15 +12,15 @@
 ## Curse of Strahd
 
 
-
 - **Ireena Kolyana**:
-	- The adopted daughter Of the village of Barovia's (dead) burgomaster.
+	- The adopted daughter Of the village of Barovia's (dead) burgomaster -> Kolyan Indirovich.
 	- Carries the soul of Strahd's beloved Tatyana and looks exactly like her.
 	- Strahd intends to make Ireena his bride, turn her into a vampire, and lock her away in the castle crypts for all time.
 
 	- Was known as **Izek Strazni**, sister of Izek Strazni
 	- Her and her brother were attacked by warewolf, which her brother defeated with the help of an Amber crystal's power
 	- She fled during the attack in woods, only to end up in Barovia and got adopted by its burgomaster
+	
  
 - **Doru**:  
 	- village of Barovia's Priest’s son
@@ -30,18 +30,37 @@
 	- Barovia's Village's old Burgomaster
 	- Died when Strahd attacked with Zombies, after which he retreated
 
-
+- **Baron Valentin Vallakovich**:
+	- Burgomster before his son, Vargas
+	- Deeply religion man
+	- Opposed taking Izek into Vargas's family
+	- Saw Izek's devilish new arm, condemned Izek for his blasphemy and vowed to cast him out of the Vallakovich household
+	-  Izek suffocated him with a pillow, killing him and savouring his slow death
 
 - **Baron Vargas Vallakovich**: 
 	- The local burgomaster of Vallaki
 	- Few townsfolk view him with much love or respect
 	- commands the loyalty of Izek Strazn
+	- Son of Baron Valentin Vallakovich
+	- Took Izek into his home (against his father's wishes) after his lashing out
+	- His wife, Lydia Petrovna was disturbed by and withdrew to care for the their newborn son, Victor.
+	- Saw Izek kill his father, did nothing both out of hatred for his father's abuse and from Vargas's own narcissistic ambitions
+- **Victor Vallakovich**
+	- Found an old spellbook, the lost spellbook of the lich Khazan in his father and started teaching himself magic
+	- 
 - **Izek Strazni**:
 	- Captain of the Guard
 	- a cruel and capricious brute who enforces the Baron’s will with an iron fist
 	- Has a four-year-old younger sister, **Ireena Strazni**
 	- They were attacked by Direwolf, he lost his arm, heard the voice of an Amber Shard he had picked up by the shore of Lake Zarovich
 	- It promised power to keep his sister safe, Izek accepted, destroyed the wolf with its power
+	- He lost his parents to greif, he lashed out and killed several other children around him, pardoned by Vargas Vallakovich, the adult son of Baron Valentin Vallakovich
+	- Was taken by Vargas in their home
+	- Became Vargas's loyal enforcer
+	- 6 years after him in the house, he was ambushed by a half-dozen angry Vallakians
+	- He sought power from *amber shard* around his neck which gave him a fiendish limb that could conjure fire
+	- Killed Beron Valentin Vallakovich by suffocating him with pillow
+	- Started dreaming about Ireena, so commissioned the toymaker *Gadof Blinsky* to craft toys that resembled her
 
 
 
@@ -75,7 +94,15 @@ Strahd's Brides:
 - Their mate is a storm giant, Deceba
 
 **Emil**: Former leader of werewolf pack, was betrayed by Kiril
-**Kiril**: Young werewolf who felt his strength had gone unrecognised, current leader of warewolves, was lured by Strahd's promise of riches 
+
+
+
+**Kiril Stoyanovich**: 
+- Young werewolf who felt his strength had gone unrecognised, current leader of warewolves, was lured by Strahd's promise of riches
+- Bit off Ezmerelda's right leg
+- Lives in Barovia
+
+
 **Zuleika**: Warewolf pack's holy women, Emil's mate
 
 
@@ -94,7 +121,11 @@ Strahd's Brides:
 First three became **the ladies three**
 
 
-**Madam Eva**: Vistani fortune teller, cannot deny anyone who wishes to see their future, tells the future to only the person she sees future of, Strahd often visits her for her foresight and suspects she us something more than a human because she has been alive for so long
+**Madam Eva**: 
+- Vistani fortune teller
+- Strahd often visits her for her foresight and suspects she us something more than a human because her age
+- Came to be after Strahd's bastard sister, Katarina forged a pact with the fane "Seeker"
+- Foresaw how Urwin will end up helping adventurers if she steals that Gem before his wedding
 
 
 **Kavan**: United the first folk under a single banner, forcibly. Devourer was whispering in his ear
@@ -373,6 +404,7 @@ _Holy Symbol of Ravenkind_:
 - Unleshed undead army on Radanavich, it killed everyone but one man - Arturi Radanavich
 - Considered taking his own life after he fulfilled his Vengeance, was saved by Madam Eva and given another *mist talisman* to leave Barovia
 - He left Barovia
+- After few years, Drove his students away for their good after learning what the Vistani curse was
 
 **Madame Irene Radanavich**:
 - the leader, or _raunie_ of the Vistani Radanavich caravan
@@ -388,9 +420,13 @@ _Holy Symbol of Ravenkind_:
 - commissioned Madame Radanavich to kidnap victims and consorts for his pleasures
 
 
-**Urwin**:
+**Urwin Martikov**:
 - Second great-grandson of the wareraven Livius Martikov
 - Second Son of Davian
+- Shortly before his wedding, one of the Gems from winery’s fields was stolen when he was at watch
+- Davian blamed Urwin for the theft, leading to a bitter fight
+- Him and Danika (his wife) departed the winery altogether for Vallaki, where they purchased a run-down tavern and renamed it the **Blue Water Inn**
+- The inn became a haven for the members of the Keepers of the Feather, who expanded their operations in Vallaki and extended their spy network.
 
 **Fiona Wachter**:
 - Ran away from Martikovs' winery, Valaki after heated argument with her parents
@@ -400,3 +436,23 @@ _Holy Symbol of Ravenkind_:
 - Her Father and brother died in a tragic accident 6 months later, so she returned back to Valaki against Baba Lysaga's wyll
 - She took her grimoire with her so Baba banned her from returning to Berez
 - When she wept for her family and took control of Wachterhaus, Ezra, goddess of the Mists spoke to her
+- Her husband, *Nikolai Wachter* died of illness after a few years, breaking fiona's heart
+
+**Danika Dorakova**:
+- Wareraven, and agent of Keepers of the Feather
+- Got pregnant with child of *Urwin Martikov*, her sweetheart
+- Their family married them when they came to know this
+
+**Ezmerelda d'Avenir**:
+- Ran out of home to search for Dr. Van Richten when she was a young women
+- After two years, she found him and became his apprentice
+- Was driven away from him after 2 years because of a fierce argument 
+		(Van Richten did it purposefully because he learned Vistani curse that haunted him)
+- She was annoyed, so set off to make a name for herself
+ - Less than a year later, however, the werewolf *Kiril Stoyanovich* bit off her right leg following a rescue mission gone wrong
+ - It sidelined her for months in Barovia while she commissioned *Gadof Blinsky* to craft a prosthetic.
+ - She received a letter from Van Richten there as she was the only one who was able to trace his path through the mists and track him to the valley\
+
+**Luvash**:
+- Has younger brother Arrigal
+- They both became in-charge of Vistani caravan after all elders passed away
