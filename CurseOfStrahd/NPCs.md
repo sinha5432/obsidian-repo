@@ -53,8 +53,12 @@
 	- Refused entry of Barovians in his town after announcement of Strahd's return, fearful that they were cursed by Strahd’s wrath
 	- Enacted a series of iron-fisted laws, clamping down on “malicious unhappiness” and mandating attendance at the “festivals” that he now considered the keys to Vallaki’s salvation.
 - **Victor Vallakovich**
+	- Baron Vargas Vallakovich's son
 	- Found an old spellbook, the lost spellbook of the lich Khazan in his father and started teaching himself magic
-	- 
+	- Activated prototype teleportation circle with *Stell Wachter* dreaming to escape Strahd's tyranny
+
+
+
 - **Izek Strazni**:
 	- Captain of the Guard
 	- a cruel and capricious brute who enforces the Baron’s will with an iron fist
@@ -198,6 +202,8 @@ First three became **the ladies three**
 - Ordered retreat fearing Strahd's advances cannot be stopped
 - Was killed in Battle of Luna River
 - Returned to life as revenant once skull of Argynvast was placed in castle
+- After strahd's return, revenant knights of the Order of the Silver Dragon demanded that him to release them from their vows and permit them to warn and defend the village
+- He got enraged by their defiance, banished his knights from the mansion and commanded them to secrecy, allowing only *Sir Godfrey Gwilym* to remain.
 
 
 
@@ -227,6 +233,11 @@ First three became **the ladies three**
 - Ralied Dusk elves to stop Patrina and Strahd's wedding
 - Pelted Patrina with stone, had his ears chopped off by Rahadin
 - Was contacted by Patrina's banshee in his dreams
+- Was investigating Amber Temple at Patrina's direction
+- Visited now-empty manor of Argynvostholt and spoke with Sir Godfrey
+- He found temple maps there, tried to climb mountain to reach the Amber Temple
+- Was turned back by the **vrocks** of Tsolenka Pass at T2. Demon Statues (p. 157). 
+- Wounded and despondent, Kasimir returned to the dusk elves’ settlement to ponder his next move.
 
  **Patrina Velikovna**:
  - Kasimir's sister
@@ -304,7 +315,8 @@ First three became **the ladies three**
 - wanted to win Strahd's hand to marry
 - Got stuck with Strahd and others in a bad winter
 - Got pneumonia during that, died and buried beneath the castle
-- Had a son Leo Dilisnya in Strahd's guard
+- Had a son *Leo Dilisnya* in Strahd's guard
+
 
 **Pidlwick**:
 - Dorfniya's fool
@@ -319,6 +331,7 @@ First three became **the ladies three**
 - Was transformed into Vampire spawn and entombed beneath Wachter manor
 - Slowly eroded to death with his Sanity eroding away over the decades
 - His flesh was removed from bones and hidden by his servants, to prevent his resurrection
+- His vengeful spirit severed *Stella Wachter*'s spirit from body in ethereal plane
 
 **Katarina**:
 - Strahd's bastard sister
@@ -376,6 +389,8 @@ First three became **the ladies three**
 - They got transformed into mongrelfolks because Strahd visited and influenced their choices
 - Sensed strahd's return, wanted Vampire's curse to be lifted
 - He put two of his attendants, the *mongrelfolk Otto and Zygfrek Belview*, to begin scouring the village’s cemeteries for human remains.
+- Abbot completed a prototype of his own: a monstrous **flesh golem**, which he set to patrolling S15. Madhouse (p. 151)
+- began work on his next project: a masterpiece to serve as Strahd's final bride
 
 **Lugdana**:
 - Paladin of MorningLord 
@@ -463,6 +478,14 @@ _Holy Symbol of Ravenkind_:
 - She took her grimoire with her so Baba banned her from returning to Berez
 - When she wept for her family and took control of Wachterhaus, Ezra, goddess of the Mists spoke to her
 - Her husband, *Nikolai Wachter* died of illness after a few years, breaking fiona's heart
+- Had a daughter *Stella Wachter*
+- Enraged by Stella's fate, she began recruiting a cult to Ezra to depose the Vallakovich clan.
+
+**Stella Wachter**:
+- Daughter of *Nikolai Wachter* and *Fiona Wachter*
+- Activated prototype teleportation circle with *Victor Vallakovich*
+-  circle malfunctioned, sent Stella's spirit into the Ethereal Plane
+-  the vengeful spirit of *Leo Dilisnya* severed it from her body there
 
 **Danika Dorakova**:
 - Wareraven, and agent of Keepers of the Feather
