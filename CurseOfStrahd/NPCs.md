@@ -23,9 +23,13 @@
 	
  
 - **Doru**:  
-	- village of Barovia's Priest’s son
-	- Incited a Barovian mob to march against Castle Ravenloft. 
-	- Awoken from his long slumber, Strahd laid waste to the members of the mob, killing many of the village’s beloved sons and daughters.
+	- village of Barovia's Priest’s son, worshiper of the morninglord and amature swordsman
+	- Recognised Van Richten's tools, and fighting style from _Van Richten’s Guide to Vampires_, a well-worn tome that Doru had read countless times since purchasing it from a Vistani caravan
+	- He confronted Van Richten that night, confirming his identity
+	- Incited a Barovian mob to march against Castle Ravenloft with Van Richten at his side, he said he will march towards castle *with* or *without* Van Richten's help
+	- Doru's march resulted in Strahd waking up from his slumber, killing his entire party, leaving just Doru and *Escher*, a talented bard who confessed a fascination with Strahd and the dark power of immortality, but turned them into Vampire Spawns
+	- Escher was kept there to extract identity of "Alanik" (Van Richten) and Doru was sent back to bring terror to his people
+	
 - **Kolyan Indirovich**:
 	- Barovia's Village's old Burgomaster
 	- Died when Strahd attacked with Zombies, after which he retreated
@@ -46,6 +50,8 @@
 	- Took Izek into his home (against his father's wishes) after his lashing out
 	- His wife, Lydia Petrovna was disturbed by and withdrew to care for the their newborn son, Victor.
 	- Saw Izek kill his father, did nothing both out of hatred for his father's abuse and from Vargas's own narcissistic ambitions
+	- Refused entry of Barovians in his town after announcement of Strahd's return, fearful that they were cursed by Strahd’s wrath
+	- Enacted a series of iron-fisted laws, clamping down on “malicious unhappiness” and mandating attendance at the “festivals” that he now considered the keys to Vallaki’s salvation.
 - **Victor Vallakovich**
 	- Found an old spellbook, the lost spellbook of the lich Khazan in his father and started teaching himself magic
 	- 
@@ -217,6 +223,7 @@ First three became **the ladies three**
 - Decided that elves should live with Vistani, in valley, hoping Vistanis will protect them from further reprisal.
 - Ralied Dusk elves to stop Patrina and Strahd's wedding
 - Pelted Patrina with stone, had his ears chopped off by Rahadin
+- Was contacted by Patrina's banshee in his dreams
 
  **Patrina Velikovna**:
  - Kasimir's sister
@@ -226,6 +233,8 @@ First three became **the ladies three**
  - Strahd rejected all of the gifts offered to him
  - When Strahd became Vampire, she returned, wishing to be his wife, Strahd accepted
  - She was stones to death by his people so Strahd cannot claim her as his wife
+ - As Banshee, she heard conversation between Strahd and Rahadin regarding the secrets of the Fanes, the Heart of Sorrow, and the coming Grand Conjunction
+ - Contacted Kasimir in his dreams
 
 
  **Queen Ravenovia**:
@@ -243,6 +252,10 @@ First three became **the ladies three**
 - Is loyal servant of Strahd, would give his life for him
 - Took care of Strahd's wives when they turned to vampire spawn
 - Punished dark elves after they pelted Patrina, by slaying all the females there and chopping Patrina's brother's ears
+- Strahd shared with him the secrets of the Fanes, the Heart of Sorrow, and the coming Grand Conjunction later
+- Announced return of his master to the Valley, said The Village of Barovia got just 90 days to make peace with their God and will face Strahd's wrath
+- Vallaki closed their gates with this news, started hosting weekly festivals
+
 
 **Artimus**:
 - Brilliant architect who designed part of castle Ravencloft after Amber temple
@@ -353,11 +366,13 @@ First three became **the ladies three**
 - Deva sent to honor Saint Markovia’s memory
 - After 237 years of Barovia's isolation
 -  took up residence at the Abbey of Saint Markovia
-- called himself the Abbot
+- called himself the *Abbot*
 - Re-opened Abbey, started tending to Barovia's sick
 - fell from grace and descended into madness because Strahd's influence
 - Basically, the family of Belview's, inbred, sick and Lepers, wanted to be cured and become more than humans, like having cat like eyes and ability to fly
 - They got transformed into mongrelfolks because Strahd visited and influenced their choices
+- Sensed strahd's return, wanted Vampire's curse to be lifted
+- He put two of his attendants, the *mongrelfolk Otto and Zygfrek Belview*, to begin scouring the village’s cemeteries for human remains.
 
 **Lugdana**:
 - Paladin of MorningLord 
@@ -368,6 +383,7 @@ First three became **the ladies three**
 
 **Ismark Antonovich**:
 -  village of Barovia's (dead) Burgomaster's son
+- Stayed behind when Doru marched to Castle Ravenloft, in case someting attacked the village
 - Was helping Irena to re-build Barovia after Strahd's attacks
 - Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
 - Current burgomaster of Barovia
@@ -406,10 +422,12 @@ _Holy Symbol of Ravenkind_:
 - Unleshed undead army on Radanavich, it killed everyone but one man - Arturi Radanavich
 - Considered taking his own life after he fulfilled his Vengeance, was saved by Madam Eva and given another *mist talisman* to leave Barovia
 - He left Barovia
-- After few years, Drove his students away for their good after learning what the Vistani curse was
+- After few years, Drove his students away for their good after learning what the Vistani curse was -> *watch every friend, ally, and loved one he cares about die a horrible death*
 - Ezmeralda sent him a letter warning him of the vision she had foreseen, though Ezmerelda, unaware of its significance, failed to mention that the vision had been sent by the spirit of Madame Radanavich
 - Van Richten decided to fight this curse and prepared his tools and set off alone through the mists
-- He arrived in Barovia after 6 months, disguised as a travelling scholar
+- He arrived in Barovia after 6 months, disguised as a travelling scholar with name Alanik Ray
+- Fended off a direwolf (Strahd's wives', Anastrasya) attacks on children after 2 weeks he arrived
+- His hat of disguise flew off, and he was recognised by Doru, was confronted by him and he revealed his identity
 
 **Madame Irene Radanavich**:
 - the leader, or _raunie_ of the Vistani Radanavich caravan
@@ -461,3 +479,7 @@ _Holy Symbol of Ravenkind_:
 **Luvash**:
 - Has younger brother Arrigal
 - They both became in-charge of Vistani caravan after all elders passed away
+
+
+**Lief Lipsiege**:
+- Castle Ravenloft's Accountant
