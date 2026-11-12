@@ -29,6 +29,7 @@
 	- Incited a Barovian mob to march against Castle Ravenloft with Van Richten at his side, he said he will march towards castle *with* or *without* Van Richten's help
 	- Doru's march resulted in Strahd waking up from his slumber, killing his entire party, leaving just Doru and *Escher*, a talented bard who confessed a fascination with Strahd and the dark power of immortality, but turned them into Vampire Spawns
 	- Escher was kept there to extract identity of "Alanik" (Van Richten) and Doru was sent back to bring terror to his people
+	- Was  sent to the Barovian church to torment his father, Father Donavich as Vampire Spawn
 	
 - **Kolyan Indirovich**:
 	- Barovia's Village's old Burgomaster
