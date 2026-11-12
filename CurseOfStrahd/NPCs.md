@@ -101,7 +101,10 @@ Strahd's Brides:
 - sole mortal being who remembers old days
 - Their mate is a storm giant, Deceba
 
-**Emil**: Former leader of werewolf pack, was betrayed by Kiril
+**Emil Toranescu**: 
+- Privately schemed to betray Strahd's pact and escape through the mists
+- *Kiril Stoyanovich*, a younger and more ambitious werewolf, betrayed him in turn
+- Strahd locked Emil in the castle dungeons, and Kiril took control of the pack in his stead.
 
 
 
@@ -483,3 +486,10 @@ _Holy Symbol of Ravenkind_:
 
 **Lief Lipsiege**:
 - Castle Ravenloft's Accountant
+
+**Morgantha**:
+- Is a night hag
+- Has two daughters Bella Sunbane and Offalia Wormwiggle
+- Their coven is settled in Old Bonegrinder
+- Sells *Dream Pastries* to the Barovian refugees outside of Vallaki
+- Has bestowed her coven's hag eye on *Cyrus Belview* to keep up with news of of Castle Ravenloft
