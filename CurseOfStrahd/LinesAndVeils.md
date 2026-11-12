@@ -23,10 +23,11 @@
 	- Claustrophobia: Veil
 	- Amputation: Line (fingers/feet)
 
+- Rahul (Aubron Starflower):
+	- None
+
 
 Generic List:
-
-
 - Anything Crawling like bugs or worms: Not Anagha's PC
 - Vomit: Not Soup's PC
 - Sexual Violence: Veil
