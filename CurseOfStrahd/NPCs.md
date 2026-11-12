@@ -29,6 +29,7 @@
 - **Kolyan Indirovich**:
 	- Barovia's Village's old Burgomaster
 	- Died when Strahd attacked with Zombies, after which he retreated
+	- Welcomed van richten when he was Burgomaster
 
 - **Baron Valentin Vallakovich**:
 	- Burgomster before his son, Vargas
@@ -80,6 +81,7 @@ Strahd's Brides:
 	- Vallakian noblewoman 
 	- cunning and witful
 	- Authority of Strahd's vast network of spies
+	- Has a pet Direwolf (of course) who attacks Barovian Children
 - **Volenta Popofsky**
 	- Barovian courtesan whose cheerful sadism was matched only by her innovative spirit
 	- Built traps and gruesome installations
@@ -405,6 +407,9 @@ _Holy Symbol of Ravenkind_:
 - Considered taking his own life after he fulfilled his Vengeance, was saved by Madam Eva and given another *mist talisman* to leave Barovia
 - He left Barovia
 - After few years, Drove his students away for their good after learning what the Vistani curse was
+- Ezmeralda sent him a letter warning him of the vision she had foreseen, though Ezmerelda, unaware of its significance, failed to mention that the vision had been sent by the spirit of Madame Radanavich
+- Van Richten decided to fight this curse and prepared his tools and set off alone through the mists
+- He arrived in Barovia after 6 months, disguised as a travelling scholar
 
 **Madame Irene Radanavich**:
 - the leader, or _raunie_ of the Vistani Radanavich caravan
@@ -451,7 +456,7 @@ _Holy Symbol of Ravenkind_:
 - She was annoyed, so set off to make a name for herself
  - Less than a year later, however, the werewolf *Kiril Stoyanovich* bit off her right leg following a rescue mission gone wrong
  - It sidelined her for months in Barovia while she commissioned *Gadof Blinsky* to craft a prosthetic.
- - She received a letter from Van Richten there as she was the only one who was able to trace his path through the mists and track him to the valley\
+ - She received a letter from Van Richten there as she was the only one who was able to trace his path through the mists and track him to the valley
 
 **Luvash**:
 - Has younger brother Arrigal
