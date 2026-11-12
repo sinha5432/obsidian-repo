@@ -404,7 +404,8 @@ First three became **the ladies three**
 -  village of Barovia's (dead) Burgomaster's son
 - Stayed behind when Doru marched to Castle Ravenloft, in case someting attacked the village
 - Was helping Irena to re-build Barovia after Strahd's attacks
-- Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “Ismark the Lesser.”
+- Convinced everyone to stay back and fight the hoard
+- Ismark—named for “Ismark the Great,” an ancestral hero who rooted out nests of vampires across the valley—is now scorned as “*Ismark the Lesser*.”
 - Current burgomaster of Barovia
 - Was names "Ismark the Great" later
 - perished in a fight defending his village
