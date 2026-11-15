@@ -1,13 +1,21 @@
 - Name: Garrick Vhoss
-- Like Dalinar Kohlin
+- ~~Like Dalinar Kohlin~~
 - Was once a renounced warrior of God, lost everything when daughter died
 - Now spends his time as a blacksmith in nearby village, seeking redemption?
 - Blames himself for his daughter's death
 
 
-- Lives in : Farmland area (SW) (most probably)
-- Was part of The Vigil?
-- Gave up that life when someone close to him died?, or just got called?, and blames himself for her death (probably wife/daughter), since he tried to make the girl a warrior like him
+
+- I was born from a farmer's family. My parents wanted me to become a farmer like themselves to take the family business on next level
+- Instead, I decided to become a sell-sword, because of my sword proficiency and not wanting to live a boring, mundane life
+- After spending 10 years in a life of sell sword,  I met my wife, *Vespera Voss* 
+- I was sent to kill her in one of the missions, but instead fell in love
+- When I gave up that life, I became a Paladin, trying to redeem myself of my previous life, trying to be better, I soon took the *Oath of Redemption* while working in *The Vigil Fort*
+- Unfortunately, my wide died from diseases and natural causes, leaving our daughter, *Lyra Voss* as her reflection
+- Few years passed and I started training Lyra with the art of sword. She learned quickly and soon became one of the best at her age
+- When the opportunity arrived, Lyra to prove herself, and asked me if she can join the next expedition to *The Bearer*. I, for one, approved of this, even though knowing how difficult these expeditions can be
+- After a few days when after her departure on the expedition, I received a news of an accident there, only to realise that I will not be hearing from her ever again.
+- I gave up my life of 
 - ~~Wants to be called himself so he can figure out what is going on, and if possible, find his daughter,?~~
 - Daughter went for expedition, didnt return, went to Load bearer
 - How did he used to channel his oath, without picking oath
