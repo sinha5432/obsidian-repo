@@ -1,8 +1,14 @@
 - Name: Garrick Vhoss
-- ~~Like Dalinar Kohlin~~
-- Was once a renounced warrior of God, lost everything when daughter died
-- Now spends his time as a blacksmith in nearby village, seeking redemption?
-- Blames himself for his daughter's death
+- Tenets of Redemption:
+	- **_Peace._** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace
+		- When his loved one was taken away from him, he realised what he had been doing to others, it broke him and he decided to adopt this principle of his
+	- **_Patience._** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.
+		- When he was working at the farm, when he was earning and eating by working daily, he realised that even after months, he wasn't able to change, it took him entire year to let go of his nature of profit/killing mindset
+	- **_Wisdom._** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
+		- Realised it when he lost his daughter 
+
+
+
 
 
 - I was born from a farmer's family. My parents wanted me to become a farmer like themselves to take the family business on next level
@@ -10,8 +16,8 @@
 - After spending a few years in a life of sell sword, I met my wife, *Vespera Voss* 
 - I was sent to kill her in one of the missions, but instead fell in love
 - Had a daughter, *Lyra Voss* after spending some years together, when I gave up my life of Sell sword and started working as a *debt-collector for one of the Noble houses* in the High Crest. I was pretending to be a blue collared person while being as corrupt as possible to get maximum profit from both Noble houses, and their debtors
-- Unfortunately, soon after, my wife was called, leaving our daughter, as her reflection
-- Since then, I have seen Calling as a disease, as if it is cancer, whose cure is yet to be found and it does nothing but ruin lives
+- ~~Unfortunately, soon after, my wife was called, leaving our daughter, as her reflection~~
+- ~~Since then, I have seen Calling as a disease, as if it is cancer, whose cure is yet to be found and it does nothing but ruin lives~~
 - Still unable to get over my love of life, I started researching, going over whatever has been found so far regarding calling, and realised that expeditions around *The load bearer* usually is a good source of information around these things
 - Couldn't go on these expeditions myself, because my background was well known and I was not trustworthy enough
 - When the opportunity arrived, I asked Lyra if she can join the next expedition. I knew this will be difficult, still forced her on it, in hopes, rather, desperation to learn something about the Calling from it
