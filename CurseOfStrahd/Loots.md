@@ -9,5 +9,5 @@
 - three moss agates 10x3 GP
 - black leather eye patch with a carnelian - 50 gp
 - ivory hairbrush with silver bristles - 25 gp
-- The deed to the Durst House
+- The deed to the Durst House, and their family's insignia seal
 
