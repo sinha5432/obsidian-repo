@@ -8,24 +8,14 @@
 		- Realised it when he lost his daughter 
 
 
+- Daughter: *Lyra Voss*
+- Late Wife: *Vespera Voss* 
+
+
+- Parents were farmer, wanted him to be farmer as well
 
 
 
-- I was born from a farmer's family. My parents wanted me to become a farmer like themselves to take the family business on next level
-- Instead, I decided to become a sell-sword, took countless, innocent lives without any kind of hesitation
-- After spending a few years in a life of sell sword, I met my wife, *Vespera Voss* 
-- I was sent to kill her in one of the missions, but instead fell in love
-- Had a daughter, *Lyra Voss* after spending some years together, when I gave up my life of Sell sword and started working as a *debt-collector for one of the Noble houses* in the High Crest. I was pretending to be a blue collared person while being as corrupt as possible to get maximum profit from both Noble houses, and their debtors
-- ~~Unfortunately, soon after, my wife was called, leaving our daughter, as her reflection~~
-- ~~Since then, I have seen Calling as a disease, as if it is cancer, whose cure is yet to be found and it does nothing but ruin lives~~
-- Still unable to get over my love of life, I started researching, going over whatever has been found so far regarding calling, and realised that expeditions around *The load bearer* usually is a good source of information around these things
-- Couldn't go on these expeditions myself, because my background was well known and I was not trustworthy enough
-- When the opportunity arrived, I asked Lyra if she can join the next expedition. I knew this will be difficult, still forced her on it, in hopes, rather, desperation to learn something about the Calling from it
-- After a few days when after her departure on the expedition, I received a news of an accident there, only to realise that I will not be hearing from her ever again.
-- Blaming myself that I sent her on that expedition, I decided that at this point, this has to be the consequences of the sheer amounts of kills I have done in the past
-- To move on, I decided to never wield the sword for kill, rather, to protect. I moved to *The Warrens* and started teaching under-privileged people on how to use a sword as a means of protection, trying to redeem myself
-- Took a self-induced rule of being a pacifist, hoping it will redeem me of my sins in the past
-- It has been at least 30-40 years of me doing it
 
 ---
 
