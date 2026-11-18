@@ -12,7 +12,20 @@
 - Late Wife: *Vespera Voss* 
 
 
-- Parents were farmer, wanted him to be farmer as well
+- Parents were farmer in the Golden Sea farmland region, wanted him to be farmer as well
+- He was fascinated by the art of sword -> *why?*
+- Decided to become a sell sword, because he realised he wanted money and a feeling of thrill at his work, something which he wont get as a generic soldier
+- Spent solid 10 years, at this point, the thrill he was seeking was starting to fade away, but there was no other option to earn money
+- After a few years, he was sent on a mission to assassinate daughter of this Noble, as a way to send a message, who was causing ruckus in the locality - *which noble, what ruccus, which locality? - maybe in rich areas where the Warrens is - probably tie it with his ideals now*
+- He decided to save the girl, and run away. Tried to fake his own death to get away from that life. Since it wasn't safe for the girl anymore, he asker her to get to safety as well, and suggested his parents' place.
+- After laying low for a few months, I joined her there as well, thinking about my actions of the past
+- After a few months, received the news that father was already dead, killed by same group after he didn't complied with their demands. - *what demands were they*
+- It broke her, but we persevered.
+- I used to work at a farm, trying to think what should be done next, realising that the thrill of a job doesn't and shouldn't justify cold blooded murder  
+- As she helped me with my thoughts and justifications about the world, putting her point of view as a nobles daughter, and me consoling her on her parents' death, we fell in love. 
+- Had a kid *Lyra Voss* after a few more years, and life was starting to feel peaceful
+- only for the noble who had sent me to kill her found our location. Her 
+- They killed my parents and her
 
 
 
