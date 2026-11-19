@@ -13,7 +13,8 @@
 
 
 - Parents were farmer in the Golden Sea farmland region, wanted him to be farmer as well
-- He was fascinated by the art of sword -> *why?*
+- He was fascinated by the art of sword
+	- Because he found life of a farmer, just mundane, saw a few Communal leaders practice sword, and started associating swords with authority
 - Decided to become a sell sword, because he realised he wanted money and a feeling of thrill at his work, something which he wont get as a generic soldier
 - Spent solid 10 years, at this point, the thrill he was seeking was starting to fade away, but there was no other option to earn money
 - After a few years, he was sent on a mission to assassinate daughter of this Noble, as a way to send a message, who was causing ruckus in the locality - *which noble, what ruccus, which locality? - maybe in rich areas where the Warrens is - probably tie it with his ideals now*
