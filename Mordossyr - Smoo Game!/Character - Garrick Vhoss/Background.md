@@ -29,8 +29,8 @@
 - They killed my parents and her in the conflict, I was able to run off with my daughter
 - After hiding and living on streets for a few days, I decided best place would be to become nameless, and go towards the Warrens. Also I needed to become strong, make my daughter strong in-case past catches up again
 - Few years passed, and he stayed in the warrens for 10-ish as his daughter grew up, during that time I took the oath of Redemption to remorse and correct his past mistakes
-- *The noble who sends warrens towards expedition* selected my daughter to go there on this year's expedition, and after a week, I received the news, about an accident there and I wont be hearing another word from my daughter anymore
-- Emotionally broken, I thought of taking a revenge on that noble....but then, restricted myself, thinking about the past few years, I realised how much I had grown, and decided to let the passage of time decide that Noble's fate
+- *Baron Cassian Thorne* selected my daughter to go there on this year's expedition, and after a week, I received the news, about an accident there and I wont be hearing another word from my daughter anymore
+- Emotionally broken, I thought of taking a revenge on that noble....but then, restricted myself, thinking about the past few years, I realised how much I had grown, and decided to let the passage of time decide his fate
 - Now I live on my own in the Warrens, *DOING WHAT?*
 
 
