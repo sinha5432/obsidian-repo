@@ -4,8 +4,13 @@
 		- When his loved one was taken away from him, he realised what he had been doing to others, it broke him and he decided to adopt this principle of his
 	- **_Patience._** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.
 		- When he was working at the farm, when he was earning and eating by working daily, he realised that even after months, he wasn't able to change, it took him entire year to let go of his nature of profit/killing mindset
+		- Clean slate, clear conscience takes time, good night's sleep only comes from patience
+		- Things take a a while. revenge takes a while (for the nobleman whi killed his wife)
 	- **_Wisdom._** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
-		- Realised it when he lost his daughter 
+		- Realised it when he lost his daughter, wanted to kill Vos guy, but rejected it
+
+FLUSH THESE THREE OUT AS A SINGLE COMMAND, ONE LINE, WHICH I THINK ABOUT AND REPEAT TO MYSELF ON DAILY BASIS
+	
 
 
 - Daughter: *Lyra Voss*
@@ -18,7 +23,9 @@
 - Decided to become a sell sword in *The Guild*, because he realised he wanted money and a feeling of thrill at his work, something which he wont get as a generic soldier
 - Spent solid 10 years, at this point, the thrill he was seeking was starting to fade away, but there was no other option to earn money
 - After a few years, he was sent on a mission to assassinate daughter of this Noble, as a way to send a message, who was causing ruckus in the locality - *which noble, what ruccus, which locality? - maybe in rich areas where the Warrens is - probably tie it with his ideals now*
-- He decided to save the girl, and run away. Tried to fake his own death to get away from that life. Since it wasn't safe for the girl anymore, he asker her to get to safety as well, and suggested his parents' place.
+	- That Noble was from the Vigil
+	- The Noble
+- He decided to save the girl, and run away. Tried to ~~fake his own death~~ changed his identity to get away from that life. Since it wasn't safe for the girl anymore, he asker her to get to safety as well, and suggested his parents' place.
 - After laying low for a few months, I joined her there as well, thinking about my actions of the past
 - After a few months, received the news that father was already dead, killed by same group after he didn't complied with their demands. - *what demands were they*
 - It broke her, but we persevered.
@@ -32,6 +39,8 @@
 - *Baron Cassian Thorne* selected my daughter to go there on this year's expedition, and after a week, I received the news, about an accident there and I wont be hearing another word from my daughter anymore
 - Emotionally broken, I thought of taking a revenge on that noble....but then, restricted myself, thinking about the past few years, I realised how much I had grown, and decided to let the passage of time decide his fate
 - Now I live on my own in the Warrens, *DOING WHAT?*
+	- Apothecary, Daycare, teaching kids not to go down my path
+	- Sila (Aana's character) dropped a kid at my place multiple tyimes
 
 
 
