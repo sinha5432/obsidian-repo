@@ -66,3 +66,6 @@ Strahd’s vampiric brides gather and organize their intelligence:
 - the bats to Anastrasya Karelova.
 
 **Balinok Mountains**: General mountain ranges which surround Barovia
+
+
+Each time the players emerge from the wall of fog around Barovia, they must make a DC 5 Constitution saving throw or take 1 level of exhaustion, as the fog saps their energy and drains their life force. (The DC increases by 5 each time that the players pass through the fog again, and resets on a long rest.)

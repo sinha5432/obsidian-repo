@@ -400,7 +400,7 @@ First three became **the ladies three**
 - She defeated Chernovog and the coven, but fell in battle
 - _The Holy Symbol_ was lost after this
 
-**Ismark Antonovich**:
+**Ismark Kolyanovich**:
 -  village of Barovia's (soon to be dead) Burgomaster's son
 - Stayed behind when Doru marched to Castle Ravenloft, in case someting attacked the village
 - Was helping Irena to re-build Barovia after Strahd's attacks
@@ -409,6 +409,9 @@ First three became **the ladies three**
 - Current burgomaster of Barovia
 - Was names "Ismark the Great" later
 - perished in a fight defending his village
+
+**Muriel**:
+- Disguised wareraven in Village of Barovia
 
 **Livius Martikov**:
 - Wareraven

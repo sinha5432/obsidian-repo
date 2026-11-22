@@ -38,6 +38,12 @@ They will find Corpse of *Dalvan Olensky* there
 Dalvan's hand holding the compass is splayed out in the direction of a nearby tree, which bears 
 - thirteen tally marks and 
 - an arrow that points deeper into the woods, along what seems to be a well-traveled footpath.
+- 2nd tree also has these marks, and horse corpse
+- 3rd tree has marks, poiniting towards the fog wall
+- con saving throw when going through fog
+- 4th tree has carving and that writing
+- after 4th tree, it corsses the swalich road to return to Dalvan's corpse
+- 
 
 
 *5 hours* from here, they reach Village of Barovia
