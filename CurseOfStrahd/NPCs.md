@@ -401,7 +401,7 @@ First three became **the ladies three**
 - _The Holy Symbol_ was lost after this
 
 **Ismark Antonovich**:
--  village of Barovia's (dead) Burgomaster's son
+-  village of Barovia's (soon to be dead) Burgomaster's son
 - Stayed behind when Doru marched to Castle Ravenloft, in case someting attacked the village
 - Was helping Irena to re-build Barovia after Strahd's attacks
 - Convinced everyone to stay back and fight the hoard
