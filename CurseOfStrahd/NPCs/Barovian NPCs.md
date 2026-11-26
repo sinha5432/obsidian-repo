@@ -15,4 +15,4 @@
 	- ![[Barovian NPCs-1795606240153.webp|136x136]]
 - Gertunda:
 -  twenty-one-year-old daughter of Mary
-- Bethrod
+- Betrothed
