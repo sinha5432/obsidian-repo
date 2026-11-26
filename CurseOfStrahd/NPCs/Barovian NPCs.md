@@ -13,3 +13,5 @@
 	- Is Mad?
 
 	- ![[Barovian NPCs-1795606240153.webp|136x136]]
+- Gertunda:
+-  

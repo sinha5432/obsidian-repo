@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CurseOfStrahd/PCs.md",
+                "file": "CurseOfStrahd/NPCs/Barovian NPCs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PCs"
+              "title": "Barovian NPCs"
             }
           }
         ]
@@ -175,6 +175,12 @@
   },
   "active": "b11d32b766cae85c",
   "lastOpenFiles": [
+    "CurseOfStrahd/PCs.md",
+    "CurseOfStrahd/NPCs/HistoricNPCs.md",
+    "CurseOfStrahd/NPCs/Barovian NPCs.md",
+    "CurseOfStrahd/NPCs/Attachments/Barovian NPCs-1795606240153.webp",
+    "CurseOfStrahd/NPCs/Attachments",
+    "CurseOfStrahd/NPCs",
     "Mordossyr - Smoo Game!/Character - Garrick Vhoss/Background.md",
     "CurseOfStrahd/Loots.md",
     "DeathHouse/SessionNotes/Session 3.md",
