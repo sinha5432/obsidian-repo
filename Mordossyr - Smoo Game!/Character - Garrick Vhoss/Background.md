@@ -1,4 +1,4 @@
-- Name: Garrick Vhoss
+
 - Tenets of Redemption:
 	- **_Peace._** Violence is a weapon of last resort. Diplomacy and understanding are the paths to long-lasting peace
 		- When his loved one was taken away from him, he realised what he had been doing to others, it broke him and he decided to adopt this principle of his
@@ -10,11 +10,22 @@
 		- Realised it when he lost his daughter, wanted to kill Vos guy, but rejected it
 
 FLUSH THESE THREE OUT AS A SINGLE COMMAND, ONE LINE, WHICH I THINK ABOUT AND REPEAT TO MYSELF ON DAILY BASIS
-	
 
+Whenever I wish to stablish peace:
+- Peace: One shall not draw a blade where a kind word may yet avert bloodshed.
+- Patience: One must be granted the time to change, for rivers can take years to carve the mountains
+- Wisdom: One shall never let compassion cloud judgement, nor vengeance guide my hand
+
+
+
+- Name: *Garrick Vhoss*
+- Previous name when he was a sellsword: *Isaac Miller*
 
 - Daughter: *Lyra Voss*
-- Late Wife: *Vespera Voss* 
+- Previous name: *Clara Miller*
+
+
+- Late Wife: *Vespera Miller* 
 
 
 - Parents were farmer in the Golden Sea farmland region, wanted him to be farmer as well
