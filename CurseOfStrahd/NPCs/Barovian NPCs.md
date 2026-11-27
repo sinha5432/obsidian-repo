@@ -14,5 +14,7 @@
 
 	- ![[Barovian NPCs-1795606240153.webp|136x136]]
 - Gertunda:
--  twenty-one-year-old daughter of Mary
-- Betrothed
+	-  twenty-one-year-old daughter of Mary
+	- Betrothed to Doru
+	- Went missing when she tried to go to Valaki to request for help
+	- Is actually captured by Strahd who is keeping her in her mansion

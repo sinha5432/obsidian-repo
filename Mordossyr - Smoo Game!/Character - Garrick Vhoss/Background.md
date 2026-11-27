@@ -5,7 +5,7 @@
 	- **_Patience._** Change takes time. Those who have walked the path of the wicked must be given reminders to keep them honest and true. Once you have planted the seed of righteousness in a creature, you must work day after day to allow it to survive and then flourish.
 		- When he was working at the farm, when he was earning and eating by working daily, he realised that even after months, he wasn't able to change, it took him entire year to let go of his nature of profit/killing mindset
 		- Clean slate, clear conscience takes time, good night's sleep only comes from patience
-		- Things take a a while. revenge takes a while (for the nobleman whi killed his wife)
+		- Things take a a while. revenge takes a while (for the nobleman who killed his wife)
 	- **_Wisdom._** Your heart and mind must stay clear, for eventually you will be forced to admit defeat. While every creature can be redeemed, some are so far along the path of evil that you have no choice but to end their lives for the greater good. Any such action must be carefully weighed and the consequences fully understood, but once you have made the decision, follow through with it knowing your path is just.
 		- Realised it when he lost his daughter, wanted to kill Vos guy, but rejected it
 
@@ -22,14 +22,22 @@ FLUSH THESE THREE OUT AS A SINGLE COMMAND, ONE LINE, WHICH I THINK ABOUT AND REP
 	- Because he found life of a farmer, just mundane, saw a few Communal leaders practice sword, and started associating swords with authority
 - Decided to become a sell sword in *The Guild*, because he realised he wanted money and a feeling of thrill at his work, something which he wont get as a generic soldier
 - Spent solid 10 years, at this point, the thrill he was seeking was starting to fade away, but there was no other option to earn money
-- After a few years, he was sent on a mission to assassinate daughter of this Noble, as a way to send a message, who was causing ruckus in the locality - *which noble, what ruccus, which locality? - maybe in rich areas where the Warrens is - probably tie it with his ideals now*
-	- That Noble was from the Vigil
-	- The Noble
-- He decided to save the girl, and run away. Tried to ~~fake his own death~~ changed his identity to get away from that life. Since it wasn't safe for the girl anymore, he asker her to get to safety as well, and suggested his parents' place.
-- After laying low for a few months, I joined her there as well, thinking about my actions of the past
-- After a few months, received the news that father was already dead, killed by same group after he didn't complied with their demands. - *what demands were they*
-- It broke her, but we persevered.
-- I used to work at a farm, trying to think what should be done next, realising that the thrill of a job doesn't and shouldn't justify cold blooded murder  
+- After a few years, he was sent on a mission to kidnap daughter a , as a way to send a message, who was causing ruckus in the locality. Reason:
+	- Two harvests ago, a nobleman's son, recently secured position as cleric in kneeling faith, was called within first months of tenure during harvest
+	- their families would've to bear mark and vow of silence
+	- This nobleman didn't wanted others to know about this - its a taboo to have this mark
+	- Nobleman tried to bribe my partner's father, to erase his son's name, and write unmarked there instead, so brand no brandishing will be done of their family
+	- My partner's father didn't budge, he believes we are preserving history
+
+
+- After almost a month of father not budging, they asked my to kill the girl...which I couldn't do, so I returned her to her family
+- She overheard her parents' conversation which suggested that his father doesn't value her life over a minor change in the records, just one line
+- She, having nowhere to go, turned to me and we started living at my parents' farm
+- Few months later, they killed the father
+	- Because his successor was more willing to change the records for some illegal rewards, and was more co-operative
+
+- It made her sad her, but we persevered.
+- I used to work at a farm, trying to think what should be done next, realising that the thrill of a job doesn't and shouldn't justify cold blooded murder
 - As she helped me with my thoughts and justifications about the world, putting her point of view as a nobles daughter, and me consoling her on her parents' death, we fell in love. 
 - Had a kid *Lyra Voss* after a few more years, and life was starting to feel peaceful
 - Only for the noble who had sent me to kill her found our location. Her 
