@@ -8,7 +8,7 @@
 - Killed her husband coz he sold her cat
 - Cat: Tabby, Canè
 - Wants to make money to get back to her partner
-- Dating: Maxilian, lives in Waterdeep, have a parrot
+- Dating: Maxilian, lives in Waterdeep, have a parrot *named Ruru?*
 - Lawful Neutral
 
 **Saurav**:
