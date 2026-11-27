@@ -38,17 +38,28 @@ FLUSH THESE THREE OUT AS A SINGLE COMMAND, ONE LINE, WHICH I THINK ABOUT AND REP
 
 - It made her sad her, but we persevered.
 - I used to work at a farm, trying to think what should be done next, realising that the thrill of a job doesn't and shouldn't justify cold blooded murder
-- As she helped me with my thoughts and justifications about the world, putting her point of view as a nobles daughter, and me consoling her on her parents' death, we fell in love. 
+- As she helped me with my thoughts and justifications about the world, putting her point of view, and me consoling her on her parents' death, we fell in love. 
 - Had a kid *Lyra Voss* after a few more years, and life was starting to feel peaceful
-- Only for the noble who had sent me to kill her found our location. Her 
-- They killed my parents and her in the conflict, I was able to run off with my daughter
+- The noble who had sent me to kidnap her, and killed her father, found our location
+- They *killed my parents and her* in the conflict, I was able to run off with my daughter
+	- Knew it was him because of a letter left by him
 - After hiding and living on streets for a few days, I decided best place would be to become nameless, and go towards the Warrens. Also I needed to become strong, make my daughter strong in-case past catches up again
-- Few years passed, and he stayed in the warrens for 10-ish as his daughter grew up, during that time I took the oath of Redemption to remorse and correct his past mistakes
-- *Baron Cassian Thorne* selected my daughter to go there on this year's expedition, and after a week, I received the news, about an accident there and I wont be hearing another word from my daughter anymore
+
+- Few years passed, and we stayed in the warrens for 10-ish years as our daughter grew up.
+
+- *Baron Cassian Thorne* selected my daughter to go there on this year's expedition
+
+- Soon afterm I received her mother's locket, which she never parted with
+- On enquiring where was this found?
+	- They said it was found between two rock crevices which led to huge rockpile
+
+- Tried searching for her, but never heard from her for 5 years before slowly giving up
+
 - Emotionally broken, I thought of taking a revenge on that noble....but then, restricted myself, thinking about the past few years, I realised how much I had grown, and decided to let the passage of time decide his fate
-- Now I live on my own in the Warrens, *DOING WHAT?*
-	- Apothecary, Daycare, teaching kids not to go down my path
-	- Sila (Aana's character) dropped a kid at my place multiple tyimes
+- Now I live on my own in the Warrens
+	- As an apothecary as well as Day-care, teaching kids not to go down my path
+	- I have tried to subtly affect Thorne's life, by staying in shadows, wherever possible
+	- Sila (Aana's character) dropped a kid at my place multiple times
 
 
 
